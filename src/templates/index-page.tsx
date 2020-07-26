@@ -12,65 +12,26 @@ export const IndexPageTemplate = ({
   mainpitch,
 }) => (
   <div>
-    <div
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `85%`,
-      }}
-    >
-      <div
-        style={{
-          display: 'flex',
-          height: '100px',
-          lineHeight: '1',
-          justifyContent: 'space-around',
-          alignItems: 'left',
-          flexDirection: 'column',
-        }}
-      >
-        <h1
-          className="has-text-weight-normal is-size-3-mobile is-size-2-tablet is-size-4-widescreen m-plus-rounded"
-          style={{
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.25em',
-            opacity: 0.8,
-            letterSpacing: "11px",
-          }}
-        >
-          {title}
-        </h1>
-        <h3
-          className="has-text-weight-normal is-size-5-mobile is-size-5-tablet is-size-5-widescreen josefin"
-          style={{
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.5em',
-            opacity: 0.8,
-          }}
-        >
-          {subheading}
-        </h3>
+    <div className="columns" style={{ paddingTop: "120px", paddingLeft: "40px", paddingRight: "40px" }}>
+      <div className="column is-10 is-offset-1">
+        <div className="columns is-multiline">
+          <div className="is-parent column is-6 has-text-centered">
+            <img src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} width="500" height="128" alt="イラスト1" style={{borderRadius: "5px"}}></img>
+          </div>
+          <div className="is-parent column is-6 has-text-centered">
+            <h5 className="has-text-weight-bold">
+              {title}
+            </h5>
+            {subheading}
+          </div>
+        </div>
       </div>
     </div>
-    <div className="container ">
+    <div className="container">
       <div className="section">
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="content">
-              <div className="content column is-12" style={{ padding: "0 24px" }} >
-                <div>
-                  <h1 className="has-text-centered josefin" style={{ padding: "40px" }}>
-                    {mainpitch.title}
-                  </h1>
-                </div>
-                <div>
-                  <p>{mainpitch.description}</p>
-                </div>
-              </div>
               <div className="column is-12">
                 <h1 className="has-text-centered josefin" style={{ paddingTop: "40px" }}>
                   Latest Stories

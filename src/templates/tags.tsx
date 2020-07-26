@@ -5,20 +5,42 @@ import Layout from '../components/Layout'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTag } from '@fortawesome/free-solid-svg-icons'
 import Img from 'gatsby-image'
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 class TagRoute extends React.Component<TagType> {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map(post => (
-      <li key={post.node.fields.slug} style={{ borderBottom: "0.5px solid #abb1b5", padding: 0}}>
+      <div className="is-parent column is-6" key={post.id} >
         <Link to={post.node.fields.slug}>
-          <h4 style={{margin: "8px"}}>{post.node.frontmatter.title}</h4>
-          <div style={{display: "flex", alignItems: "center", marginBottom: "5px"}}>
-            <Img style={{width: "25px", borderRadius: "50%", margin: "5px"}} fluid={post.node.frontmatter.authorimage.childImageSharp.fluid} alt={post.node.frontmatter.author} />
-            <p className="josefin" style={{color: "#2b2523", fontSize: "12px"}}>written by {post.node.frontmatter.author}</p>
-          </div>
+          <article
+            className={`blog-list-item tile is-child box`}
+          >
+            <header>
+              {post.node.frontmatter.featuredimage ? (
+                <div className="column is-12 featured-thumbnail" style={{padding: "0px"}}>
+                  <PreviewCompatibleImage
+                    imageInfo={{
+                      image: post.node.frontmatter.featuredimage,
+                      alt: `featured image thumbnail for post ${post.node.frontmatter.title}`,
+                    }}
+                  />
+                </div>
+              ) : null}
+            </header>
+            <div className="post-meta is-size-5 has-text-weight-bold" style={{ marginBottom: "10px" }}>
+                {post.node.frontmatter.title}
+            </div>
+            <p style={{ marginBottom: "10px" }}>
+              {post.node.excerpt}
+            </p>
+            <div className="josefin" style={{display: "flex", alignItems: "center", marginBottom: "5px"}}>
+              <Img style={{width: "25px", borderRadius: "50%", marginRight: "5px"}} fluid={post.node.frontmatter.authorimage.childImageSharp.fluid} alt={post.node.frontmatter.author} />
+              <p className="josefin" style={{color: "#333", fontSize: "12px"}}>written by {post.node.frontmatter.author}</p>
+            </div>
+          </article>
         </Link>
-      </li>
+      </div>
     ))
     const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
@@ -27,24 +49,13 @@ class TagRoute extends React.Component<TagType> {
 
     return (
       <Layout>
-      <section className="section " style={{ paddingTop: '100px' }}>
-        <Helmet title={`${tag} | ${title}`} />
-        <div className="container content" style={{justifyContent: "center" }}>
-          <div className="columns">
-            <div
-              className="column is-10 is-offset-1"
-              style={{ marginBottom: '6rem'}}
-            >
-              <p>
-                <FontAwesomeIcon icon={faTag} style={{padding: "2px", color: "grey"}}/>
-                {tagHeader}
-              </p>
-              <ul className="taglist" style={{display: "inline"}}>{postLinks}</ul>
-            </div>
+        <section className="section column is-10 is-offset-1" style={{paddingTop: "100px"}}>
+          <div className="columns is-multiline">
+            <Helmet title={`${tag} | ${title}`} />
+            {postLinks}
           </div>
-        </div>
-      </section>
-    </Layout>
+        </section>
+      </Layout>
     )
   }
 }
@@ -65,6 +76,7 @@ export const tagPageQuery = graphql`
       totalCount
       edges {
         node {
+          excerpt(truncate: true)
           fields {
             slug
           }
@@ -78,6 +90,13 @@ export const tagPageQuery = graphql`
               }
             }
             title
+            featuredimage {
+              childImageSharp {
+                fluid(maxWidth: 120, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

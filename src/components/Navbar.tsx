@@ -1,7 +1,8 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import { Link, graphql, StaticQuery } from 'gatsby'
 import logo from '../img/logo.svg'
 import baku from '../img/baku.png'
+import { kebabCase } from 'lodash'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -33,12 +34,14 @@ const Navbar = class extends React.Component {
   }
 
   render() {
+    const { data } = this.props
+
     return (
       <nav
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
-        style={{borderBottom: '0.5px solid #abb1b5', position: "fixed", width: "100%"}}
+        style={{borderBottom: '0.5px solid #abb1b5', position: "fixed", width: "100%", paddingTop: "10px"}}
       >
         <div className="container">
           <div className="navbar-brand">
@@ -64,18 +67,11 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered josefin" style={{ paddingTop: '10px'}}>
-              <Link className="navbar-item" to="/products">
-                Products
-              </Link>
-              <Link className="navbar-item" to="/authors">
-                Authors
-              </Link>
-              <Link className="navbar-item" to="/stories">
-                Stories
-              </Link>
-              <Link className="navbar-item fog-color" to="/contact">
-                Contact
-              </Link>
+              {data.allMarkdownRemark.group.map(tag => (
+                <Link className="navbar-item" to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                  {tag.fieldValue}
+                </Link>
+              ))}
             </div>
           </div>
         </div>
@@ -84,4 +80,24 @@ const Navbar = class extends React.Component {
   }
 }
 
-export default Navbar
+export default () => (
+  <StaticQuery
+    query={graphql`
+      query TagQuery {
+        site {
+          siteMetadata {
+            title
+          }
+        }
+        allMarkdownRemark(limit: 1000) {
+          group(field: frontmatter___tags) {
+            fieldValue
+            totalCount
+          }
+        }
+      }
+    `}
+    render={(data, count) => <Navbar data={data} count={count} />}
+  />
+)
+
