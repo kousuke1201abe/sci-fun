@@ -12,18 +12,10 @@ const Footer = class extends React.Component<SNSlink> {
     return (
       <footer className="footer has-background-white">
         <div className="content has-text-centered" style={{marginBottom: '10px'}}>
-          <a title="twitter" href="https://twitter.com/machidania">
-            <img
-              className="fas fa-lg"
-              src={twitter}
-              alt="Twitter"
-              style={{ width: '20px', height: '20px' }}
-            />
-          </a>
-          <Link className="btn" to="/contact" style={{paddingLeft: '10px', fontSize: '10px'}}>
+          <Link className="btn" to="/contact" style={{padding: '10px', fontSize: '12px'}}>
             <p>お問い合わせ</p>
           </Link>
-          <p style={{ fontSize: '10px', paddingTop: "10px" }}>© 2019 machidania</p>
+          <p style={{ fontSize: '10px' }}>© 2020 WEBSITE TITLE</p>
         </div>
       </footer>
     )

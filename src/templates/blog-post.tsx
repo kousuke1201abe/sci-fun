@@ -9,6 +9,7 @@ import SnsLinksfrom from '../components/SnsLinks'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTag } from '@fortawesome/free-solid-svg-icons'
 import Img from 'gatsby-image'
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const BlogPostTemplate = ({
   content,
@@ -17,46 +18,56 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
-  author,
-  authorimage
+  issuedAt,
+  featuredimage,
 }) => {
   const PostContent = contentComponent || Content
 
   return (
-    <section className="section" style={{paddingTop: "100px"}}>
-      {helmet || ''}
-      <div className="container content blogpost">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="is-size-5-mobile is-size-4-widescreen has-text-weight-bold is-bold-light" style={{paddingLeft: "5px"}}>
-              {title}
-            </h1>
-            {tags && tags.length ? (
-              <div>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`} className="tag-item">
-                      <Link to={`/categories/${kebabCase(tag)}/`}>
-                        <FontAwesomeIcon icon={faTag} style={{marginRight: "3px", color: "grey"}}/>
+    <div className="container" style={{padding: "70px 20px 0px 20px"}}>
+      <section className="section">
+        {helmet || ''}
+        <div className="content blogpost">
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
+              <div className="columns is-multiline">
+                <div className="is-parent column is-6">
+                  <ul className="taglist aldrich" style={{margin: "0px"}}>
+                    {tags.map(tag => (
+                      <li key={tag + `tag`} className="tag-item">
                         {tag}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-                <Link to={`/categories/${author.replace(" ", "-")}/`} style={{display: "flex", alignItems: "center"}}>
-                  <Img style={{width: "25px", borderRadius: "50%", margin: "5px"}} fluid={authorimage.childImageSharp.fluid} alt={author} />
-                  <p className="josefin" style={{color: "#333", fontSize: "12px"}}>written by {author}</p>
-                </Link>
+                      </li>
+                    ))}
+                  </ul>
+                  <h1 className="is-size-5-mobile is-size-2-widescreen has-text-weight-bold is-bold-light is-marginless">
+                    {title}
+                  </h1>
+                  <p className="aldrich" style={{color: "#333", fontSize: "18px", paddingTop: "15px"}}>{issuedAt}</p>
+                </div>
+                <div className="is-parent column is-6">
+                  {featuredimage ? (
+                    <div className="featured-thumbnail" style={{marginBottom: "20px"}}>
+                      <PreviewCompatibleImage
+                        imageInfo={{
+                          image: featuredimage,
+                          alt: `featured image thumbnail for post ${title}`,
+                        }}
+                      />
+                    </div>
+                  ) : null}
+                </div>
+                <div style={{marginTop: "30px"}}>
+                  <PostContent content={content} />
+                  <div style={{marginTop: "30px"}}>
+                    <SnsLinksfrom url={link} />
+                  </div>
+                </div>
               </div>
-            ) : null}
-            <div style={{marginTop: "30px"}}>
-              <PostContent content={content} />
-              <SnsLinksfrom url={link} />
             </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </div>
   )
 }
 
@@ -65,8 +76,9 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   link: PropTypes.string,
   title: PropTypes.string,
-  author: PropTypes.string,
+  issuedAt: PropTypes.string,
   helmet: PropTypes.object,
+  featuredimage: PropTypes.object,
 }
 
 const BlogPost = ({ data }) => {
@@ -79,7 +91,7 @@ const BlogPost = ({ data }) => {
         contentComponent={HTMLContent}
         link={post.frontmatter.link}
         helmet={
-          <Helmet titleTemplate="%s | Blog">
+          <Helmet titleTemplate="%s | Articles">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="link"
@@ -89,8 +101,8 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
-        author={post.frontmatter.author}
-        authorimage={post.frontmatter.authorimage}
+        issuedAt={post.frontmatter.issuedAt}
+        featuredimage={post.frontmatter.featuredimage}
       />
     </Layout>
   )
@@ -110,17 +122,17 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        author
-        authorimage {
+        title
+        link
+        tags
+        issuedAt
+        featuredimage {
           childImageSharp {
-            fluid(maxWidth: 240, quality: 64) {
+            fluid(maxWidth: 120, quality: 100) {
               ...GatsbyImageSharpFluid
             }
           }
         }
-        title
-        link
-        tags
       }
     }
   }

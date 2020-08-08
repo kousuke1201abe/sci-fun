@@ -4,15 +4,11 @@ import {
   FacebookIcon,
   TwitterShareButton,
   TwitterIcon,
-  WhatsappShareButton,
-  WhatsappIcon,
   LineShareButton,
   LineIcon,
-  PocketShareButton,
-  PocketIcon,
 } from 'react-share';
 
-const SnsLinks = (url) => {
+const SnsLinks = ({url}) => {
   return (
     <div>
     <FacebookShareButton url={url} style={{margin: "5px"}}>

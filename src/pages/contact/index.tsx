@@ -41,9 +41,9 @@ export default class Index extends React.Component {
             <section className="section">
               <div className="columns">
                 <div className="column is-10 is-offset-1">
-                  <h1 className="has-text-weight-semibold has-text-centered josefin" style={{ paddingTop: "100px" }}>
-                    Contact
-                  </h1>
+                  <h3 className="has-text-weight-semibold aldrich" style={{ paddingTop: "100px", paddingBottom: "50px" }}>
+                    CONTACT US
+                  </h3>
                   <form
                     name="contact"
                     method="post"

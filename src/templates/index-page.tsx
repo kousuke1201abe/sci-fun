@@ -18,7 +18,7 @@ export const IndexPageTemplate = ({
           <div className="column is-10 is-offset-1">
             <div className="content">
               <div className="column is-12">
-                <h1 className="is-size-5 has-text-weight-bold">
+                <h1 className="is-size-5 has-text-weight-bold aldrich">
                   FEATURED ARTICLE
                 </h1>
               </div>
@@ -31,7 +31,7 @@ export const IndexPageTemplate = ({
                     <h2 className="has-text-weight-bold is-size-2 is-size-5-mobile">
                       {title}
                     </h2>
-                    <p className="is-size-5" style={{ marginTop: "20px"}}>
+                    <p style={{ marginTop: "20px", lineHeight: "30px"}}>
                       {subheading}
                     </p>
                   </div>
@@ -48,12 +48,12 @@ export const IndexPageTemplate = ({
           <div className="column is-10 is-offset-1">
             <div className="content">
               <div className="column is-12">
-                <h1 className="is-size-5 has-text-weight-bold" style={{ padding: "0px 15px" }}>
+                <h1 className="is-size-5 has-text-weight-bold aldrich" style={{ padding: "0px 15px" }}>
                   LATEST ARTICLES
                 </h1>
                 <BlogRoll />
                 <div className="column is-12 has-text-centered">
-                  <Link className="btn" to="/articles">
+                  <Link className="btn aldrich" to="/articles">
                     MORE...
                   </Link>
                 </div>

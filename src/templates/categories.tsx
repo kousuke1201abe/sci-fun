@@ -28,16 +28,13 @@ class TagRoute extends React.Component<TagType> {
                 </div>
               ) : null}
             </header>
-            <div className="post-meta is-size-5 has-text-weight-bold" style={{ marginBottom: "10px" }}>
+            <div className="post-meta is-size-5 has-text-weight-bold" style={{ marginBottom: "20px" }}>
                 {post.node.frontmatter.title}
             </div>
             <p style={{ marginBottom: "10px" }}>
               {post.node.excerpt}
             </p>
-            <div className="josefin" style={{display: "flex", alignItems: "center", marginBottom: "5px"}}>
-              <Img style={{width: "25px", borderRadius: "50%", marginRight: "5px"}} fluid={post.node.frontmatter.authorimage.childImageSharp.fluid} alt={post.node.frontmatter.author} />
-              <p className="josefin" style={{color: "#333", fontSize: "12px"}}>written by {post.node.frontmatter.author}</p>
-            </div>
+            <p className="aldrich" style={{color: "gray", fontSize: "10px"}}>{post.node.frontmatter.issuedAt}</p>
           </article>
         </Link>
       </div>
@@ -49,12 +46,19 @@ class TagRoute extends React.Component<TagType> {
 
     return (
       <Layout>
-        <section className="section column is-10 is-offset-1" style={{paddingTop: "100px"}}>
-          <div className="columns is-multiline">
-            <Helmet title={`${tag} | ${title}`} />
-            {postLinks}
-          </div>
-        </section>
+        <div className="container" style={{paddingTop: "50px"}}>
+          <section className="section column is-10 is-offset-1">
+            <div className="column is-12" style={{marginLeft: "20px"}}>
+              <h1 className="is-size-5 has-text-weight-bold aldrich">
+                {tag}
+              </h1>
+            </div>
+            <div className="columns is-multiline is-marginless">
+              <Helmet title={`${tag} | ${title}`} />
+              {postLinks}
+            </div>
+          </section>
+        </div>
       </Layout>
     )
   }
@@ -76,20 +80,13 @@ export const tagPageQuery = graphql`
       totalCount
       edges {
         node {
-          excerpt(truncate: true)
+          excerpt(truncate: true, pruneLength: 100)
           fields {
             slug
           }
           frontmatter {
-            author
-            authorimage {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
             title
+            issuedAt
             featuredimage {
               childImageSharp {
                 fluid(maxWidth: 120, quality: 100) {

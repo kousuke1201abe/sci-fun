@@ -35,10 +35,10 @@ class BlogRoll extends React.Component {
                       </span>
                     </p>
                   </div>
-                  <p>
+                  <p style={{marginBottom: "10px"}}>
                     {post.excerpt}
                   </p>
-                  <p className="josefin" style={{color: "#333", fontSize: "15px"}}>{post.frontmatter.issuedAt}</p>
+                  <p className="aldrich" style={{color: "gray", fontSize: "10px"}}>{post.frontmatter.issuedAt}</p>
                 </article>
               </Link>
             </div>

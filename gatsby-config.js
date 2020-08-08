@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Machidania.',
+    title: 'WEBSITE TITLE',
     description:
-      'Machidania. Official',
+      'WEBSITE DESCRIPTION',
   },
   plugins: [
     {

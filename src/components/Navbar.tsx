@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import logo from '../img/logo.svg'
-import baku from '../img/baku.png'
 import { kebabCase } from 'lodash'
 
 const Navbar = class extends React.Component {
@@ -45,12 +44,9 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" style={{ paddingRight: 0 }} title="Logo">
-              <img src={logo} alt="machidania" style={{ height: '30px' }} />
+            <Link to="/" className="btn navbar-item" title="Logo" style={{marginRight: "20px"}}>
+              <h1 className="has-text-weight-bold" style={{fontSize: "25px"}}>WEBSITE TITLE</h1>
             </Link>
-            <div className="navbar-end has-text-centered">
-              <img src={baku} alt="baku" style={{ height: '45px', paddingTop: '10px', paddingRight: "20px" }} />
-            </div>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -66,9 +62,9 @@ const Navbar = class extends React.Component {
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered has-text-weight-bold is-bold-light" style={{ paddingTop: '10px'}}>
+            <div className="navbar-start has-text-centered" style={{ paddingTop: '10px'}}>
               {data.allMarkdownRemark.group.map(tag => (
-                <Link className="navbar-item" to={`/categories/${kebabCase(tag.fieldValue)}/`}>
+                <Link className="navbar-item aldrich" to={`/categories/${kebabCase(tag.fieldValue)}/`}>
                   {tag.fieldValue}
                 </Link>
               ))}
