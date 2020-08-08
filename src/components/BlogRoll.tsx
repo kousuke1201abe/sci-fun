@@ -16,11 +16,11 @@ class BlogRoll extends React.Component {
             <div className="is-parent column is-6" key={post.id}>
               <Link to={post.fields.slug}>
                 <article
-                  className={`blog-list-item tile is-child box`}
+                  className="blog-list-item tile is-child box"
                 >
-                  <header>
+                  <div>
                     {post.frontmatter.featuredimage ? (
-                      <div className="featured-thumbnail">
+                      <div className="featured-thumbnail" style={{marginBottom: "20px"}}>
                         <PreviewCompatibleImage
                           imageInfo={{
                             image: post.frontmatter.featuredimage,
@@ -29,19 +29,16 @@ class BlogRoll extends React.Component {
                         />
                       </div>
                     ) : null}
-                    <p className="post-meta">
+                    <p className="post-meta" style={{marginBottom: "20px"}}>
                       <span className="is-size-5 has-text-weight-bold">
                         {post.frontmatter.title}
                       </span>
                     </p>
-                  </header>
+                  </div>
                   <p>
                     {post.excerpt}
                   </p>
-                  <div className="josefin" style={{display: "flex", alignItems: "center", marginBottom: "5px"}}>
-                    <Img style={{width: "25px", borderRadius: "50%", marginRight: "5px"}} fluid={post.frontmatter.authorimage.childImageSharp.fluid} alt={post.frontmatter.author} />
-                    <p className="josefin" style={{color: "#333", fontSize: "12px"}}>written by {post.frontmatter.author}</p>
-                  </div>
+                  <p className="josefin" style={{color: "#333", fontSize: "15px"}}>{post.frontmatter.issuedAt}</p>
                 </article>
               </Link>
             </div>
@@ -69,7 +66,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(truncate: true)
+              excerpt(truncate: true, pruneLength: 100)
               id
               fields {
                 slug
@@ -77,14 +74,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                author
-                authorimage {
-                  childImageSharp {
-                    fluid(maxWidth: 240, quality: 64) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
+                issuedAt
                 featuredpost
                 featuredimage {
                   childImageSharp {

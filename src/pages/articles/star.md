@@ -7,10 +7,9 @@ authorimage: /img/harushion.png
 featuredpost: false
 featuredimage: /img/yakei.jpg
 link: https://note.mu/y3y3y3y_chan/n/n3feb402b3775
+issuedAt: 2020.08.01 FRY 12:00
 tags:
-  - 春紫苑
-  - 祝祭
-  - 百合
+  - MOVIES
 ---
 夏。ギラギラと照りつける日差しが、白い校舎に反射し、天国のような真っ白な世界を作り上げている。
 

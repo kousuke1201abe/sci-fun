@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-import BlogNoteLink from '../components/BlogNoteLink'
+import SnsLinksfrom from '../components/SnsLinks'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTag } from '@fortawesome/free-solid-svg-icons'
 import Img from 'gatsby-image'
@@ -36,14 +36,14 @@ export const BlogPostTemplate = ({
                 <ul className="taglist">
                   {tags.map(tag => (
                     <li key={tag + `tag`} className="tag-item">
-                      <Link to={`/tags/${kebabCase(tag)}/`}>
+                      <Link to={`/categories/${kebabCase(tag)}/`}>
                         <FontAwesomeIcon icon={faTag} style={{marginRight: "3px", color: "grey"}}/>
                         {tag}
                       </Link>
                     </li>
                   ))}
                 </ul>
-                <Link to={`/tags/${author.replace(" ", "-")}/`} style={{display: "flex", alignItems: "center"}}>
+                <Link to={`/categories/${author.replace(" ", "-")}/`} style={{display: "flex", alignItems: "center"}}>
                   <Img style={{width: "25px", borderRadius: "50%", margin: "5px"}} fluid={authorimage.childImageSharp.fluid} alt={author} />
                   <p className="josefin" style={{color: "#333", fontSize: "12px"}}>written by {author}</p>
                 </Link>
@@ -51,7 +51,7 @@ export const BlogPostTemplate = ({
             ) : null}
             <div style={{marginTop: "30px"}}>
               <PostContent content={content} />
-              <BlogNoteLink link={link} />
+              <SnsLinksfrom url={link} />
             </div>
           </div>
         </div>

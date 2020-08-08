@@ -6,10 +6,9 @@ author: meme
 authorimage: /img/meme.png
 featuredpost: false
 featuredimage: /img/salute.jpg
+issuedAt: 2020.08.01 FRY 12:00
 tags:
-  - meme
-  - 令和の怪談
-  - ミステリー
+  - GADGETS
 ---
 　今、GitHubにアップロードされた一枚のファイルをわたしは眺めている。
 

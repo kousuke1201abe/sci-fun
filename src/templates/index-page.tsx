@@ -9,20 +9,35 @@ export const IndexPageTemplate = ({
   image,
   title,
   subheading,
-  mainpitch,
+  link,
 }) => (
   <div>
-    <div className="columns" style={{ paddingTop: "120px", paddingLeft: "40px", paddingRight: "40px" }}>
-      <div className="column is-10 is-offset-1">
-        <div className="columns is-multiline">
-          <div className="is-parent column is-6 has-text-centered">
-            <img src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} width="500" height="128" alt="イラスト1" style={{borderRadius: "5px"}}></img>
-          </div>
-          <div className="is-parent column is-6 has-text-centered">
-            <h5 className="has-text-weight-bold">
-              {title}
-            </h5>
-            {subheading}
+    <div className="container" style={{ padding: "50px 15px 0px 15px" }}>
+      <div className="section">
+        <div className="columns">
+          <div className="column is-10 is-offset-1">
+            <div className="content">
+              <div className="column is-12">
+                <h1 className="is-size-5 has-text-weight-bold">
+                  FEATURED ARTICLE
+                </h1>
+              </div>
+              <Link className="btn" to={link}>
+                <article className="columns is-multiline is-marginless">
+                  <div className="is-parent column is-6 has-text-centered">
+                    <img src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} width="500" height="128" alt="イラスト1" style={{borderRadius: "5px"}}></img>
+                  </div>
+                  <div className="is-parent column is-6 has-text-centered">
+                    <h2 className="has-text-weight-bold is-size-2 is-size-5-mobile">
+                      {title}
+                    </h2>
+                    <p className="is-size-5" style={{ marginTop: "20px"}}>
+                      {subheading}
+                    </p>
+                  </div>
+                </article>
+              </Link>
+            </div>
           </div>
         </div>
       </div>
@@ -33,13 +48,13 @@ export const IndexPageTemplate = ({
           <div className="column is-10 is-offset-1">
             <div className="content">
               <div className="column is-12">
-                <h1 className="has-text-centered josefin" style={{ paddingTop: "40px" }}>
-                  Latest Stories
+                <h1 className="is-size-5 has-text-weight-bold" style={{ padding: "0px 15px" }}>
+                  LATEST ARTICLES
                 </h1>
                 <BlogRoll />
-                <div className="column is-12 has-text-centered josefin">
-                  <Link className="btn" to="/stories">
-                    More Stories
+                <div className="column is-12 has-text-centered">
+                  <Link className="btn" to="/articles">
+                    MORE...
                   </Link>
                 </div>
               </div>
@@ -55,7 +70,7 @@ IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
+  link: PropTypes.string,
 }
 
 const IndexPage = ({ data }) => {
@@ -67,7 +82,7 @@ const IndexPage = ({ data }) => {
         image={frontmatter.image}
         title={frontmatter.title}
         subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
+        link={frontmatter.link}
       />
     </Layout>
   )
@@ -96,10 +111,7 @@ export const pageQuery = graphql`
           }
         }
         subheading
-        mainpitch {
-          title
-          description
-        }
+        link
       }
     }
   }

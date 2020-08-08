@@ -7,10 +7,9 @@ authorimage: /img/kawaiiyumegirl.png
 featuredpost: false
 featuredimage: /img/dream_of_manashiki.jpg
 link: https://note.mu/machidania/n/n36d64b7f47d1
+issuedAt: 2020.08.01 FRY 12:00
 tags:
-  - kawaiiyumegirl
-  - リクナビ2084
-  - SF
+  - ARTS
 ---
 　どこかで繋がっている。街は村でした。お互いがお互いを知り、ホームとよべる場所がどこなのか知っていました。我々はそのテクノロジーで人々を繋げています。繋がりは万人が求めるひとつの切望です。どこにいたってありのままの自分でいながら歓迎されている、リスペクトされている、認められているという切望です。
 

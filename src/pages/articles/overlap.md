@@ -7,10 +7,9 @@ authorimage: /img/meme.png
 featuredpost: false
 featuredimage: /img/overrap.jpg
 link: https://note.mu/machidania/n/n189c7f725fe1
+issuedAt: 2020.08.01 FRY 12:00
 tags:
-  - meme
-  - リクナビ2084
-  - SF
+  - GADGETS
 ---
 
 　左耳のモニターからビープ音が鳴る。　

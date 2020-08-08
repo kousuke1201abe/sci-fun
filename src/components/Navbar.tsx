@@ -41,7 +41,7 @@ const Navbar = class extends React.Component {
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
-        style={{borderBottom: '0.5px solid #abb1b5', position: "fixed", width: "100%", paddingTop: "10px"}}
+        style={{borderBottom: '0.5px solid #abb1b5', position: "fixed", width: "100%"}}
       >
         <div className="container">
           <div className="navbar-brand">
@@ -66,9 +66,9 @@ const Navbar = class extends React.Component {
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered josefin" style={{ paddingTop: '10px'}}>
+            <div className="navbar-start has-text-centered has-text-weight-bold is-bold-light" style={{ paddingTop: '10px'}}>
               {data.allMarkdownRemark.group.map(tag => (
-                <Link className="navbar-item" to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                <Link className="navbar-item" to={`/categories/${kebabCase(tag.fieldValue)}/`}>
                   {tag.fieldValue}
                 </Link>
               ))}

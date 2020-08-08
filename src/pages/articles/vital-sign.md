@@ -7,10 +7,9 @@ authorimage: /img/kawaiiyumegirl.png
 featuredpost: false
 featuredimage: /img/vitalsign.jpg
 link: https://note.mu/machidania/n/ndd7cb9891cb9
+issuedAt: 2020.08.01 FRY 12:00
 tags:
-  - kawaiiyumegirl
-  - 祝祭
-  - SF
+  - GADGETS
 ---
 　おれたち人類は太古の昔から何かを書きのこしたり、とりあえず物として残しておくことが大好きだ。例えば洞窟に獣の油とか樹液を使って描かれた壁画、どうやってくみ上げたかもわからない意味不明のオブジェ、放課後の黒板に描かれた日直の相合傘。
 

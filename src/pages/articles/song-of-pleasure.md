@@ -7,9 +7,9 @@ authorimage: /img/akkt.png
 featuredpost: false
 featuredimage: /img/kyorakunouta.jpg
 link: https://note.mu/machidania/n/n174aa8d50b55
+issuedAt: 2020.08.01 FRY 12:00
 tags:
-  - akkt
-  - 祝祭
+  - GADGETS
 ---
 　川が流れている。いや、流れていると言えるだろうか。川幅が太く、凍りついたそれは、ほとんど流れているとは言えない。さながら海にまで続く、長い一本の氷の道のようだ。
 

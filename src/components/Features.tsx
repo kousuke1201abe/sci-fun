@@ -28,7 +28,7 @@ const FeatureGrid = ({ gridItems }) => (
             <NoteLink link={item.link} />
           </div>
           <p>{item.text}</p>
-          <Link to={`/tags/${kebabCase(item.name)}/`} className="josefin" style={{
+          <Link to={`/categories/${kebabCase(item.name)}/`} className="josefin" style={{
             color: "#2b2523", paddingRight: "5px", fontSize: "18px"
             }}>
             Read Stories

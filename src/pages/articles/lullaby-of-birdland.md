@@ -7,10 +7,9 @@ authorimage: /img/nanicamarui.png
 featuredpost: false
 featuredimage: /img/lullaby_of_birdland.jpg
 link: https://note.mu/machidania/n/n827c4d930722
+issuedAt: 2020.08.01 FRY 12:00
 tags:
-  - nanica marui
-  - リクナビ2084
-  - SF
+  - CULTURE
 ---
 [Noise: Rain drops] [Place: Sector - 35094813]
 
