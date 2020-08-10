@@ -60,7 +60,7 @@ export const BlogPostTemplate = ({
                 <div style={{marginTop: "30px"}}>
                   <PostContent content={content} />
                   <div style={{marginTop: "30px"}}>
-                    <SnsLinksfrom url={window.location.href} />
+                    <SnsLinksfrom url={typeof window !== "undefined" ? window.location.href : ""} />
                   </div>
                 </div>
               </div>
