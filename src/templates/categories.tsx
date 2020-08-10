@@ -6,6 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTag } from '@fortawesome/free-solid-svg-icons'
 import Img from 'gatsby-image'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Seo from '../components/Seo'
 
 class TagRoute extends React.Component<TagType> {
   render() {
@@ -46,6 +47,7 @@ class TagRoute extends React.Component<TagType> {
 
     return (
       <Layout>
+        <Seo />
         <div className="container" style={{paddingTop: "50px"}}>
           <section className="section column is-10 is-offset-1">
             <div className="column is-12" style={{marginLeft: "20px"}}>

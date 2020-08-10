@@ -10,6 +10,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTag } from '@fortawesome/free-solid-svg-icons'
 import Img from 'gatsby-image'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Seo from '../components/Seo'
 
 export const BlogPostTemplate = ({
   content,
@@ -59,7 +60,7 @@ export const BlogPostTemplate = ({
                 <div style={{marginTop: "30px"}}>
                   <PostContent content={content} />
                   <div style={{marginTop: "30px"}}>
-                    <SnsLinksfrom url={link} />
+                    <SnsLinksfrom url={window.location.href} />
                   </div>
                 </div>
               </div>
@@ -86,6 +87,11 @@ const BlogPost = ({ data }) => {
 
   return (
     <Layout>
+      <Seo
+        title={post.frontmatter.title}
+        description={post.frontmatter.description}
+        image={post.frontmatter.featuredimage.name}
+      />
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
@@ -125,8 +131,10 @@ export const pageQuery = graphql`
         title
         link
         tags
+        description
         issuedAt
         featuredimage {
+          name
           childImageSharp {
             fluid(maxWidth: 120, quality: 100) {
               ...GatsbyImageSharpFluid

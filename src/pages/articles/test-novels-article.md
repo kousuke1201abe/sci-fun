@@ -5,6 +5,7 @@ title: 人工知能の「知能」とは、そもそも何を意味するのか�
 featuredpost: false
 featuredimage: /img/home-jumbotron.jpg
 issuedAt: 2020.08.01 FRY 12:00
+description: test description
 tags:
   - NOVELS
 ---
