@@ -12,7 +12,7 @@ const Footer = class extends React.Component<SNSlink> {
     return (
       <footer className="footer has-background-white">
         <div className="content has-text-centered" style={{marginBottom: '10px'}}>
-          <Link className="btn" to="/contact" style={{padding: '10px', fontSize: '12px'}}>
+          <Link className="link" to="/contact" style={{padding: '10px', fontSize: '12px'}}>
             <p>お問い合わせ</p>
           </Link>
           <p style={{ fontSize: '10px' }}>© 2020 WEBSITE TITLE</p>

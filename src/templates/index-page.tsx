@@ -23,7 +23,7 @@ export const IndexPageTemplate = ({
                   FEATURED ARTICLE
                 </h1>
               </div>
-              <Link className="btn" to={link}>
+              <Link className="link" to={link}>
                 <article className="columns is-multiline is-marginless">
                   <div className="is-parent column is-6 has-text-centered">
                     <img src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} width="500" height="128" alt="イラスト1" style={{borderRadius: "5px"}}></img>
@@ -54,7 +54,7 @@ export const IndexPageTemplate = ({
                 </h1>
                 <BlogRoll />
                 <div className="column is-12 has-text-centered">
-                  <Link className="btn aldrich" to="/articles">
+                  <Link className="btn" to="/articles">
                     MORE...
                   </Link>
                 </div>

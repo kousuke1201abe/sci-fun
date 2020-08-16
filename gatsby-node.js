@@ -75,6 +75,21 @@ exports.createPages = ({ actions, graphql }) => {
         })
       })
     })
+
+    const postsPerPage = 6
+    const numPages = Math.ceil(posts.length / postsPerPage)
+    Array.from({ length: numPages }).forEach((_, i) => {
+      createPage({
+        path: i === 0 ? `/articles` : `/articles/${i + 1}`,
+        component: path.resolve("./src/templates/articles.tsx"),
+        context: {
+          limit: postsPerPage,
+          skip: i * postsPerPage,
+          numPages,
+          currentPage: i + 1,
+        },
+      })
+    })
   })
 }
 
