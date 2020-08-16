@@ -11,6 +11,7 @@ import { faTag } from '@fortawesome/free-solid-svg-icons'
 import Img from 'gatsby-image'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import Seo from '../components/Seo'
+import GlobalCss from '../components/GlobalCss'
 
 export const BlogPostTemplate = ({
   content,
@@ -87,6 +88,7 @@ const BlogPost = ({ data }) => {
 
   return (
     <Layout>
+      <GlobalCss />
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description}

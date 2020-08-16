@@ -38,6 +38,8 @@
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
     "react-share": "^4.2.1",
+    "styled-components": "^5.1.1",
+    "styled-reset": "^4.2.2",
     "typescript": "^3.6.4",
     "uuid": "^3.2.1"
   },
