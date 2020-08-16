@@ -42,8 +42,13 @@ class TagRoute extends React.Component<TagType> {
     ))
     const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
-    const totalCount = this.props.data.allMarkdownRemark.totalCount
-    const tagHeader = `${tag} (${totalCount}件)`
+    console.log(this.props.pageContext)
+    const { currentPage, numPages } = this.props.pageContext
+    const isFirst = currentPage === 1
+    const isLast = currentPage === numPages
+    const path = `/categories/${tag.toLowerCase()}`
+    const prevPage = currentPage - 1 === 1 ? path : `${path}/${(currentPage - 1).toString()}`
+    const nextPage = `${path}/${(currentPage + 1).toString()}`
 
     return (
       <Layout>
@@ -59,6 +64,16 @@ class TagRoute extends React.Component<TagType> {
               <Helmet title={`${tag} | ${title}`} />
               {postLinks}
             </div>
+            {!isFirst && (
+              <Link to={prevPage} rel="prev">
+                ← Previous Page
+              </Link>
+            )}
+            {!isLast && (
+              <Link to={nextPage} rel="next">
+                Next Page →
+              </Link>
+            )}
           </section>
         </div>
       </Layout>
@@ -69,15 +84,16 @@ class TagRoute extends React.Component<TagType> {
 export default TagRoute
 
 export const tagPageQuery = graphql`
-  query TagPage($tag: String) {
+  query TagPage($tag: String, $skip: Int!, $limit: Int!) {
     site {
       siteMetadata {
         title
       }
     }
     allMarkdownRemark(
-      limit: 1000
       filter: { frontmatter: { tags: { in: [$tag] } } }
+      skip: $skip
+      limit: $limit
     ) {
       totalCount
       edges {

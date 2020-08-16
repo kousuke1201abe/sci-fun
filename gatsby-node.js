@@ -8,7 +8,7 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      posts: allMarkdownRemark(limit: 1000) {
         edges {
           node {
             id
@@ -22,6 +22,11 @@ exports.createPages = ({ actions, graphql }) => {
           }
         }
       }
+      tags: allMarkdownRemark(limit: 1000) {
+        group(field: frontmatter___tags) {
+          fieldValue
+        }
+      }
     }
   `).then(result => {
     if (result.errors) {
@@ -29,7 +34,7 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(result.errors)
     }
 
-    const posts = result.data.allMarkdownRemark.edges
+    const posts = result.data.posts.edges
 
     posts.forEach(edge => {
       const id = edge.node.id
@@ -47,26 +52,27 @@ exports.createPages = ({ actions, graphql }) => {
     })
 
     // Tag pages:
-    let tags = []
+    const tags = result.data.tags.group
     // Iterate through each post, putting all found tags into `tags`
-    posts.forEach(edge => {
-      if (_.get(edge, `node.frontmatter.tags`)) {
-        tags = tags.concat(edge.node.frontmatter.tags)
-      }
-    })
-    // Eliminate duplicate tags
-    tags = _.uniq(tags)
 
     // Make tag pages
     tags.forEach(tag => {
-      const tagPath = `/categories/${_.kebabCase(tag)}/`
+      const tagPath = `/categories/${_.kebabCase(tag.fieldValue)}/`
+      const postsPerPage = 3
+      const numPages = Math.ceil(posts.length / postsPerPage)
 
-      createPage({
-        path: tagPath,
-        component: path.resolve(`src/templates/categories.tsx`),
-        context: {
-          tag,
-        },
+      Array.from({ length: numPages }).forEach((_, i) => {
+        createPage({
+          path: i === 0 ? tagPath : `${tagPath}${i + 1}`,
+          component: path.resolve(`src/templates/categories.tsx`),
+          context: {
+            tag: tag.fieldValue,
+            limit: postsPerPage,
+            skip: i * postsPerPage,
+            numPages,
+            currentPage: i + 1,
+          },
+        })
       })
     })
   })
