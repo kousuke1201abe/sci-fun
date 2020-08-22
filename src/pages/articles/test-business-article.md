@@ -6,7 +6,7 @@ featuredimage: /img/home-jumbotron.jpg
 featuredpost: false
 issuedAt: 2020.08.01 FRY 12:00
 description: test description
-tags:
+categories:
   - BUSINESS
 ---
 <details><summary>目次</summary>

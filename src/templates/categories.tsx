@@ -8,7 +8,7 @@ import Img from 'gatsby-image'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import Seo from '../components/Seo'
 
-class TagRoute extends React.Component<TagType> {
+class CategoryRoute extends React.Component<CategoryType> {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map(post => (
@@ -40,12 +40,12 @@ class TagRoute extends React.Component<TagType> {
         </Link>
       </div>
     ))
-    const tag = this.props.pageContext.tag
+    const category = this.props.pageContext.category
     const title = this.props.data.site.siteMetadata.title
     const { currentPage, numPages } = this.props.pageContext
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
-    const path = `/categories/${tag.toLowerCase()}`
+    const path = `/categories/${category.toLowerCase()}`
     const prevPage = currentPage - 1 === 1 ? path : `${path}/${(currentPage - 1).toString()}`
     const nextPage = `${path}/${(currentPage + 1).toString()}`
 
@@ -56,11 +56,11 @@ class TagRoute extends React.Component<TagType> {
           <section className="section column is-10 is-offset-1">
             <div className="column is-12" style={{marginLeft: "20px"}}>
               <h1 className="is-size-5 has-text-weight-bold aldrich">
-                {tag}
+                {category}
               </h1>
             </div>
             <div className="columns is-multiline is-marginless">
-              <Helmet title={`${tag} | ${title}`} />
+              <Helmet title={`${category} | ${title}`} />
               {postLinks}
             </div>
             <div className="has-text-centered" style={{ margin: "20px" }}>
@@ -82,17 +82,17 @@ class TagRoute extends React.Component<TagType> {
   }
 }
 
-export default TagRoute
+export default CategoryRoute
 
-export const tagPageQuery = graphql`
-  query TagPage($tag: String, $skip: Int!, $limit: Int!) {
+export const categoryPageQuery = graphql`
+  query CategoryPage($category: String, $skip: Int!, $limit: Int!) {
     site {
       siteMetadata {
         title
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: [$tag] } } }
+      filter: { frontmatter: { categories: { in: [$category] } } }
       skip: $skip
       limit: $limit
     ) {

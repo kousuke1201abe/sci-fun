@@ -63,9 +63,9 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered" style={{ paddingTop: '10px'}}>
-              {data.allMarkdownRemark.group.map(tag => (
-                <Link className="navbar-item aldrich" to={`/categories/${kebabCase(tag.fieldValue)}/`}>
-                  {tag.fieldValue}
+              {data.allMarkdownRemark.group.map(category => (
+                <Link className="navbar-item aldrich" to={`/categories/${kebabCase(category.fieldValue)}/`}>
+                  {category.fieldValue}
                 </Link>
               ))}
             </div>
@@ -79,14 +79,14 @@ const Navbar = class extends React.Component {
 export default () => (
   <StaticQuery
     query={graphql`
-      query TagQuery {
+      query CategoryQuery {
         site {
           siteMetadata {
             title
           }
         }
         allMarkdownRemark(limit: 1000) {
-          group(field: frontmatter___tags) {
+          group(field: frontmatter___categories) {
             fieldValue
             totalCount
           }

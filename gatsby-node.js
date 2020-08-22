@@ -16,14 +16,14 @@ exports.createPages = ({ actions, graphql }) => {
               slug
             }
             frontmatter {
-              tags
+              categories
               templateKey
             }
           }
         }
       }
-      tags: allMarkdownRemark(limit: 1000) {
-        group(field: frontmatter___tags) {
+      categories: allMarkdownRemark(limit: 1000) {
+        group(field: frontmatter___categories) {
           fieldValue
         }
       }
@@ -40,7 +40,7 @@ exports.createPages = ({ actions, graphql }) => {
       const id = edge.node.id
       createPage({
         path: edge.node.fields.slug,
-        tags: edge.node.frontmatter.tags,
+        categories: edge.node.frontmatter.categories,
         component: path.resolve(
           `src/templates/${String(edge.node.frontmatter.templateKey)}.tsx`
         ),
@@ -51,22 +51,22 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
 
-    // Tag pages:
-    const tags = result.data.tags.group
-    // Iterate through each post, putting all found tags into `tags`
+    // categorie pages:
+    const categories = result.data.categories.group
+    // Iterate through each post, putting all found categories into `categories`
 
-    // Make tag pages
-    tags.forEach(tag => {
-      const tagPath = `/categories/${_.kebabCase(tag.fieldValue)}/`
+    // Make categorie pages
+    categories.forEach(category => {
+      const categoryPath = `/categories/${_.kebabCase(category.fieldValue)}/`
       const postsPerPage = 3
       const numPages = Math.ceil(posts.length / postsPerPage)
 
       Array.from({ length: numPages }).forEach((_, i) => {
         createPage({
-          path: i === 0 ? tagPath : `${tagPath}${i + 1}`,
+          path: i === 0 ? categoryPath : `${categoryPath}${i + 1}`,
           component: path.resolve(`src/templates/categories.tsx`),
           context: {
-            tag: tag.fieldValue,
+            category: category.fieldValue,
             limit: postsPerPage,
             skip: i * postsPerPage,
             numPages,
