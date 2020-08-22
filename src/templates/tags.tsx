@@ -9,7 +9,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import Seo from '../components/Seo'
 import { kebabCase } from 'lodash'
 
-class CategoryRoute extends React.Component<CategoryType> {
+class TagRoute extends React.Component<TagType> {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map(post => (
@@ -41,12 +41,12 @@ class CategoryRoute extends React.Component<CategoryType> {
         </Link>
       </div>
     ))
-    const category = this.props.pageContext.category
+    const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
     const { currentPage, numPages } = this.props.pageContext
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
-    const path = `/categories/${kebabCase(category)}`
+    const path = `/tags/${kebabCase(tag)}`
     const prevPage = currentPage - 1 === 1 ? path : `${path}/${(currentPage - 1).toString()}`
     const nextPage = `${path}/${(currentPage + 1).toString()}`
 
@@ -57,11 +57,12 @@ class CategoryRoute extends React.Component<CategoryType> {
           <section className="section column is-10 is-offset-1">
             <div className="column is-12" style={{marginLeft: "20px"}}>
               <h1 className="is-size-5 has-text-weight-bold aldrich">
-                {category}
+                #{tag}
               </h1>
+              <p> {this.props.data.allMarkdownRemark.totalCount}件</p>
             </div>
             <div className="columns is-multiline is-marginless">
-              <Helmet title={`${category} | ${title}`} />
+              <Helmet title={`${tag} | ${title}`} />
               {postLinks}
             </div>
             <div className="has-text-centered" style={{ margin: "20px" }}>
@@ -83,17 +84,17 @@ class CategoryRoute extends React.Component<CategoryType> {
   }
 }
 
-export default CategoryRoute
+export default TagRoute
 
-export const categoryPageQuery = graphql`
-  query CategoryPage($category: String, $skip: Int!, $limit: Int!) {
+export const tagPageQuery = graphql`
+  query TagPage($tag: String, $skip: Int!, $limit: Int!) {
     site {
       siteMetadata {
         title
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { categories: { in: [$category] } } }
+      filter: { frontmatter: { tags: { in: [$tag] } } }
       skip: $skip
       limit: $limit
     ) {

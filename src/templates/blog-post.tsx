@@ -18,6 +18,7 @@ export const BlogPostTemplate = ({
   contentComponent,
   link,
   categories,
+  tags,
   title,
   helmet,
   issuedAt,
@@ -45,6 +46,15 @@ export const BlogPostTemplate = ({
                     {title}
                   </h1>
                   <p className="aldrich" style={{color: "#333", fontSize: "18px", paddingTop: "15px"}}>{issuedAt}</p>
+                  <ul className="categorylist aldrich" style={{marginTop: "10px"}}>
+                    {tags.map(tag => (
+                      <Link to={`/tags/${kebabCase(tag)}/`}>
+                        <li key={tag + `category`} className="tag-item">
+                          #{tag}
+                        </li>
+                      </Link>
+                    ))}
+                  </ul>
                 </div>
                 <div className="is-parent column is-6">
                   {featuredimage ? (
@@ -108,6 +118,7 @@ const BlogPost = ({ data }) => {
           </Helmet>
         }
         categories={post.frontmatter.categories}
+        tags={post.frontmatter.tags}
         title={post.frontmatter.title}
         issuedAt={post.frontmatter.issuedAt}
         featuredimage={post.frontmatter.featuredimage}
@@ -133,6 +144,7 @@ export const pageQuery = graphql`
         title
         link
         categories
+        tags
         description
         issuedAt
         featuredimage {

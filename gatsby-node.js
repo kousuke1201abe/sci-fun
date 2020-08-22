@@ -27,6 +27,11 @@ exports.createPages = ({ actions, graphql }) => {
           fieldValue
         }
       }
+      tags: allMarkdownRemark(limit: 1000) {
+        group(field: frontmatter___tags) {
+          fieldValue
+        }
+      }
     }
   `).then(result => {
     if (result.errors) {
@@ -67,6 +72,31 @@ exports.createPages = ({ actions, graphql }) => {
           component: path.resolve(`src/templates/categories.tsx`),
           context: {
             category: category.fieldValue,
+            limit: postsPerPage,
+            skip: i * postsPerPage,
+            numPages,
+            currentPage: i + 1,
+          },
+        })
+      })
+    })
+
+    // tag pages:
+    const tags = result.data.tags.group
+    // Iterate through each post, putting all found tags into `tags`
+
+    // Make tag pages
+    tags.forEach(tag => {
+      const tagPath = `/tags/${_.kebabCase(tag.fieldValue)}/`
+      const postsPerPage = 3
+      const numPages = Math.ceil(posts.length / postsPerPage)
+
+      Array.from({ length: numPages }).forEach((_, i) => {
+        createPage({
+          path: i === 0 ? tagPath : `${tagPath}${i + 1}`,
+          component: path.resolve(`src/templates/tags.tsx`),
+          context: {
+            tag: tag.fieldValue,
             limit: postsPerPage,
             skip: i * postsPerPage,
             numPages,
