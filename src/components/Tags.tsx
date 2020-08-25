@@ -13,14 +13,14 @@ class Tags extends React.Component {
             <div className="column is-10 is-offset-1">
               <div className="content">
                 <div className="column is-12">
-                  <h1 className="is-size-5 has-text-weight-bold aldrich" style={{ padding: "0px 15px" }}>Tags</h1>
+                  <h1 className="headline has-text-weight-bold aldrich" style={{ padding: "0px 15px" }}>Tags</h1>
                   <ul className="categorylist aldrich" style={{ padding: "0px 15px", marginTop: "30px" }}>
                     {group.map(tag => (
-                      <li key={tag.fieldValue} className="tag-item">
-                        <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                      <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                        <li key={tag.fieldValue} className="tag-item">
                           #{tag.fieldValue}
-                        </Link>
-                      </li>
+                        </li>
+                      </Link>
                     ))}
                   </ul>
                 </div>

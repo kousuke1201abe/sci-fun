@@ -17,7 +17,7 @@ export const ArticlesTemplate = ({
           <div className="column is-10 is-offset-1">
             <div className="columns">
               <div className="column is-12" style={{marginLeft: "20px"}}>
-                <h1 className="is-size-5 has-text-weight-bold aldrich">
+                <h1 className="headline has-text-weight-bold aldrich">
                   ALL ARTICLES
                 </h1>
               </div>

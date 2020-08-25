@@ -42,7 +42,7 @@ export const BlogPostTemplate = ({
                       </li>
                     ))}
                   </ul>
-                  <h1 className="is-size-5-mobile is-size-2-widescreen has-text-weight-bold is-bold-light is-marginless">
+                  <h1 className="is-size-5-mobile is-size-2-widescreen has-text-weight-bold is-bold-light is-marginless" style={{lineHeight: "140%"}}>
                     {title}
                   </h1>
                   <p className="aldrich" style={{color: "#333", fontSize: "18px", paddingTop: "15px"}}>{issuedAt}</p>

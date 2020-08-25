@@ -20,7 +20,7 @@ export const IndexPageTemplate = ({
           <div className="column is-10 is-offset-1">
             <div className="content">
               <div className="column is-12">
-                <h1 className="is-size-5 has-text-weight-bold aldrich">
+                <h1 className="headline has-text-weight-bold aldrich" style={{ marginBottom: "30px"}}>
                   FEATURED ARTICLE
                 </h1>
               </div>
@@ -30,7 +30,7 @@ export const IndexPageTemplate = ({
                     <img src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} width="500" height="128" alt="イラスト1" style={{borderRadius: "5px"}}></img>
                   </div>
                   <div className="is-parent column is-6 has-text-centered">
-                    <h2 className="has-text-weight-bold is-size-2 is-size-5-mobile">
+                    <h2 className="has-text-weight-bold is-size-2 is-size-5-mobile" style={{lineHeight: "140%"}}>
                       {title}
                     </h2>
                     <p style={{ marginTop: "20px", lineHeight: "30px"}}>
@@ -50,13 +50,13 @@ export const IndexPageTemplate = ({
           <div className="column is-10 is-offset-1">
             <div className="content">
               <div className="column is-12">
-                <h1 className="is-size-5 has-text-weight-bold aldrich" style={{ padding: "0px 15px" }}>
+                <h1 className="headline has-text-weight-bold aldrich" style={{ padding: "0px 15px" }}>
                   LATEST ARTICLES
                 </h1>
                 <BlogRoll />
-                <div className="column is-12 has-text-centered">
-                  <Link className="btn" to="/articles">
-                    MORE...
+                <div className="column is-12">
+                  <Link className="btn aldrich" to="/articles">
+                    READ MORE >
                   </Link>
                 </div>
               </div>
