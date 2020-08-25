@@ -11,7 +11,7 @@
 
 `yarn start`
 
-3. http://http://localhost:8000 にアクセスします
+3. http://localhost:8000 にアクセスします
 
 
 ## 記事の書き方
