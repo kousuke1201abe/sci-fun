@@ -12,30 +12,38 @@ export const IndexPageTemplate = ({
   title,
   subheading,
   link,
+  featuredTags,
 }) => (
   <div>
     <div className="container" style={{ padding: "50px 15px 0px 15px" }}>
-      <div className="section">
+      <div className="section" style={{ margin: "10px"}}>
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="content">
               <div className="column is-12">
-                <h1 className="headline has-text-weight-bold aldrich" style={{ marginBottom: "30px"}}>
-                  FEATURED ARTICLE
+                <h1 className="headline has-text-weight-bold" style={{ marginBottom: "30px"}}>
+                  Featured Ariticle
                 </h1>
               </div>
               <Link className="link" to={link}>
                 <article className="columns is-multiline is-marginless">
-                  <div className="is-parent column is-6 has-text-centered">
+                  <div className="is-parent column is-6">
                     <img src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} width="500" height="128" alt="イラスト1" style={{borderRadius: "5px"}}></img>
                   </div>
-                  <div className="is-parent column is-6 has-text-centered">
-                    <h2 className="has-text-weight-bold is-size-2 is-size-5-mobile" style={{lineHeight: "140%"}}>
+                  <div className="is-parent column is-6">
+                    <h2 className="has-text-weight-bold is-size-3 is-size-5-mobile" style={{lineHeight: "140%"}}>
                       {title}
                     </h2>
                     <p style={{ marginTop: "20px", lineHeight: "30px"}}>
                       {subheading}
                     </p>
+                    <ul className="categorylist aldrich" style={{marginTop: "15px"}}>
+                    {featuredTags.map(tag => (
+                      <li key={tag + `category`} className="tag-item">
+                        #{tag}
+                      </li>
+                    ))}
+                  </ul>
                   </div>
                 </article>
               </Link>
@@ -45,18 +53,20 @@ export const IndexPageTemplate = ({
       </div>
     </div>
     <div className="container">
-      <div className="section">
+      <div className="section" style={{ margin: "10px"}}>
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="content">
               <div className="column is-12">
-                <h1 className="headline has-text-weight-bold aldrich" style={{ padding: "0px 15px" }}>
-                  LATEST ARTICLES
-                </h1>
+                <div style={{padding: "0px 15px"}}>
+                  <h1 className="headline has-text-weight-bold">
+                    Latest Articles
+                  </h1>
+                </div>
                 <BlogRoll />
                 <div className="column is-12">
-                  <Link className="btn aldrich" to="/articles">
-                    READ MORE >
+                  <Link className="btn" to="/articles">
+                    Read More
                   </Link>
                 </div>
               </div>
@@ -74,6 +84,7 @@ IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   subheading: PropTypes.string,
   link: PropTypes.string,
+  featuredTags: PropTypes.array,
 }
 
 const IndexPage = ({ data }) => {
@@ -87,6 +98,7 @@ const IndexPage = ({ data }) => {
         title={frontmatter.title}
         subheading={frontmatter.subheading}
         link={frontmatter.link}
+        featuredTags={frontmatter.featuredTags}
       />
     </Layout>
   )
@@ -116,6 +128,7 @@ export const pageQuery = graphql`
         }
         subheading
         link
+        featuredTags
       }
     }
   }

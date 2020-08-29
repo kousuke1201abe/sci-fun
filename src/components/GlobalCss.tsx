@@ -3,16 +3,16 @@ import { createGlobalStyle } from 'styled-components'
 import reset from 'styled-reset'
 
 const Global = createGlobalStyle`
-@import url('https://fonts.googleapis.com/css?family=Caveat');
-@import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,400,500,700&display=swap')
   ${reset}
   body {
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     line-height: 1.5;
     details {
+      text-decoration: none;
       padding: 20px;
       p {
-        padding: 5px;
+        padding-top: 15px;
       }
       a {
         color: black;
@@ -28,8 +28,12 @@ const Global = createGlobalStyle`
         cursor: pointer;
       }
       summary {
-        text-align: center;
+        border: none;
+        text-align: left;
         font-size: 20px;
+      }
+      summary:focus {
+        outline: none;
       }
     }
     blockquote {
@@ -53,7 +57,7 @@ const Global = createGlobalStyle`
       margin-top: 10px;
     }
     a {
-      color: #7f1184;
+      color: #cf74a2;
     }
   }
 `

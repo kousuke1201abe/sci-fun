@@ -35,10 +35,14 @@ class BlogRoll extends React.Component {
                       </span>
                     </p>
                   </div>
-                  <p style={{marginBottom: "10px"}}>
-                    {post.excerpt}
-                  </p>
                   <p className="aldrich" style={{color: "gray", fontSize: "10px"}}>{post.frontmatter.issuedAt}</p>
+                  <ul className="categorylist aldrich" style={{marginTop: "15px"}}>
+                    {post.frontmatter.tags.map(tag => (
+                      <li key={tag + `category`} className="tag-item">
+                        #{tag}
+                      </li>
+                    ))}
+                  </ul>
                 </article>
               </Link>
             </div>
@@ -84,6 +88,7 @@ export default () => (
                     }
                   }
                 }
+                tags
               }
             }
           }

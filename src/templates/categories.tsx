@@ -33,10 +33,16 @@ class CategoryRoute extends React.Component<CategoryType> {
             <div className="post-meta is-size-5 has-text-weight-bold" style={{ marginBottom: "20px" }}>
                 {post.node.frontmatter.title}
             </div>
-            <p style={{ marginBottom: "10px" }}>
-              {post.node.excerpt}
-            </p>
             <p className="aldrich" style={{color: "gray", fontSize: "10px"}}>{post.node.frontmatter.issuedAt}</p>
+            <div className="is-flex" >
+            <ul className="categorylist aldrich" style={{marginTop: "15px", display: "flex", flexWrap: "wrap"}}>
+              {post.node.frontmatter.tags.map(tag => (
+                <li key={tag + `category`} className="tag-item">
+                  #{tag}
+                </li>
+              ))}
+            </ul>
+            </div>
           </article>
         </Link>
       </div>
@@ -56,8 +62,8 @@ class CategoryRoute extends React.Component<CategoryType> {
         <div className="container" style={{paddingTop: "50px"}}>
           <section className="section column is-10 is-offset-1">
             <div className="column is-12" style={{marginLeft: "20px"}}>
-              <h1 className="headline has-text-weight-bold aldrich">
-                {category}
+              <h1 className="headline has-text-weight-bold">
+                {category.charAt(0).toUpperCase() + category.slice(1).toLowerCase()}
               </h1>
             </div>
             <div className="columns is-multiline is-marginless">
@@ -114,6 +120,7 @@ export const categoryPageQuery = graphql`
                 }
               }
             }
+            tags
           }
         }
       }

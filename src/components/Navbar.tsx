@@ -62,10 +62,10 @@ const Navbar = class extends React.Component {
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered" style={{ paddingTop: '10px'}}>
+            <div className="navbar-start has-text-centered">
               {data.allMarkdownRemark.group.map(category => (
-                <Link className="navbar-item aldrich" to={`/categories/${kebabCase(category.fieldValue)}/`}>
-                  {category.fieldValue}
+                <Link className="navbar-item has-text-weight-semibold" to={`/categories/${kebabCase(category.fieldValue)}/`}>
+                  {category.fieldValue.toUpperCase()}
                 </Link>
               ))}
             </div>
