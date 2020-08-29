@@ -1,11 +1,8 @@
 ---
 templateKey: blog-post
-id: 3
 title: 人工知能の「知能」とは、そもそも何を意味するのか？：「考える機械」の未来図（5）
-featuredpost: false
 featuredimage: /img/home-jumbotron.jpg
-issuedAt: 2020.08.01 FRY 12:00
-description: test description
+issuedAt: 2020-08-29T17:33:16.896Z
 categories:
   - CULTURE
 tags: ["testA", "testB"]

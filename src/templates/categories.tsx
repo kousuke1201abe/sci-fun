@@ -100,6 +100,7 @@ export const categoryPageQuery = graphql`
     }
     allMarkdownRemark(
       filter: { frontmatter: { categories: { in: [$category] } } }
+      sort: { fields: [frontmatter___issuedAt], order: DESC }
       skip: $skip
       limit: $limit
     ) {
@@ -112,7 +113,7 @@ export const categoryPageQuery = graphql`
           }
           frontmatter {
             title
-            issuedAt
+            issuedAt(formatString: "YYYY.MM.DD HH:hh")
             featuredimage {
               childImageSharp {
                 fluid(maxWidth: 2048, quality: 100) {

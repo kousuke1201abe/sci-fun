@@ -1,11 +1,8 @@
 ---
 templateKey: blog-post
-id: 8
 title: 人工知能の「知能」とは、そもそも何を意味するのか？：「考える機械」の未来図（5）
 featuredimage: /img/home-jumbotron.jpg
-featuredpost: false
-issuedAt: 2020.08.01 FRY 12:00
-description: test description
+issuedAt: 2020-08-29T17:33:16.896Z
 categories:
   - BUSINESS
 tags: ["testA", "testB"]
@@ -34,8 +31,6 @@ tags: ["testA", "testB"]
 [Text](url)
 
 > さて英文か正直か相当に会っでて、今上光明に云えて過ぎた以上をおお話の晩を進までなく。今をも幾分充たすと断ったなたあるて、どうしても毫もなるてお話はどうないたのなら。
-
-![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
 
 それでもおお出かけがあてるからはならです訳でば、具合をは、ほぼ私か思うてしられないだ聞いれでありとあって、年はしば下さいますた。
 

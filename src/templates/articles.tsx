@@ -101,7 +101,7 @@ export const pageQuery = graphql`
   query BlogRoll($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-      sort: { fields: [frontmatter___id], order: DESC }
+      sort: { fields: [frontmatter___issuedAt], order: DESC }
       skip: $skip
       limit: $limit
     ) {
@@ -115,8 +115,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             templateKey
-            issuedAt
-            featuredpost
+            issuedAt(formatString: "YYYY.MM.DD HH:hh")
             featuredimage {
               childImageSharp {
                 fluid(maxWidth: 2048, quality: 100) {

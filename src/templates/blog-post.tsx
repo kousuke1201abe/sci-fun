@@ -101,7 +101,6 @@ const BlogPost = ({ data }) => {
       <GlobalCss />
       <Seo
         title={post.frontmatter.title}
-        description={post.frontmatter.description}
         image={post.frontmatter.featuredimage.name}
       />
       <BlogPostTemplate
@@ -145,8 +144,7 @@ export const pageQuery = graphql`
         link
         categories
         tags
-        description
-        issuedAt
+        issuedAt(formatString: "YYYY.MM.DD HH:hh")
         featuredimage {
           name
           childImageSharp {
