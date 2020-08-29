@@ -1,0 +1,26 @@
+backend:
+  name: git-gateway
+  branch: master
+
+publish_mode: editorial_workflow
+
+media_folder: "static/img"
+
+site_url: https://confident-euler-cf03d1.netlify.app/
+
+collections:
+  - name: "article"
+    label: "新規記事作成"
+    folder: "src/pages/articles"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: true
+    fields:
+      - { label: "", name: "templateKey", widget: "hidden", default: "blog-post" }
+      - { label: "タイトル", name: "title", widget: "string" }
+      - { label: "カテゴリー", name: "categories", widget: "list" }
+      - { label: "タグ", name: "tags", widget: "list" }
+      - { label: "見出し画像", name: "featuredimage", widget: "file" }
+      - { label: "公開日", name: "issuedAt", widget: "datetime" }
+      - { label: "本文", name: "body", widget: "markdown" }
