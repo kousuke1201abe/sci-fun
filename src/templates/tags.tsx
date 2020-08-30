@@ -8,6 +8,7 @@ import Img from 'gatsby-image'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import Seo from '../components/Seo'
 import { kebabCase } from 'lodash'
+import Pagenation from '../components/Pagenation'
 
 class TagRoute extends React.Component<TagType> {
   render() {
@@ -43,12 +44,7 @@ class TagRoute extends React.Component<TagType> {
     ))
     const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
-    const { currentPage, numPages } = this.props.pageContext
-    const isFirst = currentPage === 1
-    const isLast = currentPage === numPages
     const path = `/tags/${kebabCase(tag)}`
-    const prevPage = currentPage - 1 === 1 ? path : `${path}/${(currentPage - 1).toString()}`
-    const nextPage = `${path}/${(currentPage + 1).toString()}`
 
     return (
       <Layout>
@@ -64,18 +60,7 @@ class TagRoute extends React.Component<TagType> {
               <Helmet title={`${tag} | ${title}`} />
               {postLinks}
             </div>
-            <div className="has-text-centered" style={{ margin: "20px" }}>
-              {!isFirst && (
-                <Link to={prevPage} rel="prev" className="btn" style={{ margin: "5px" }}>
-                  Prev
-                </Link>
-              )}
-              {!isLast && (
-                <Link to={nextPage} rel="next" className="btn" style={{ margin: "5px" }}>
-                  Next
-                </Link>
-              )}
-            </div>
+            <Pagenation pageContext={this.props.pageContext} path={path}/>
           </section>
         </div>
       </Layout>

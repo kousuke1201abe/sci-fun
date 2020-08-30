@@ -4,6 +4,7 @@ import Layout from '../components/Layout'
 import { graphql, Link } from 'gatsby'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import Seo from '../components/Seo'
+import Pagenation from '../components/Pagenation'
 
 export const ArticlesTemplate = ({
   allMarkdownRemark
@@ -66,11 +67,7 @@ export const ArticlesTemplate = ({
 }
 
 const Articles = ({ data, pageContext }) => {
-  const { currentPage, numPages } = pageContext
-  const isFirst = currentPage === 1
-  const isLast = currentPage === numPages
-  const prevPage = currentPage - 1 === 1 ? `articles` : `articles/${(currentPage - 1).toString()}`
-  const nextPage = `articles/${(currentPage + 1).toString()}`
+  const path = `/articles`
 
   return (
     <Layout>
@@ -78,18 +75,7 @@ const Articles = ({ data, pageContext }) => {
       <ArticlesTemplate
         allMarkdownRemark={data.allMarkdownRemark}
       />
-      <div className="has-text-centered" style={{ margin: "20px" }}>
-        {!isFirst && (
-          <Link to={prevPage} rel="prev" className="btn" style={{ margin: "5px" }}>
-            Prev
-          </Link>
-        )}
-        {!isLast && (
-          <Link to={nextPage} rel="next" className="btn" style={{ margin: "5px" }}>
-            Next
-          </Link>
-        )}
-      </div>
+      <Pagenation pageContext={pageContext} path={path}/>
     </Layout>
   )
 }

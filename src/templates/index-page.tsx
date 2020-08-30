@@ -64,11 +64,9 @@ export const IndexPageTemplate = ({
                   </h1>
                 </div>
                 <BlogRoll />
-                <div className="column is-12">
-                  <Link className="btn" to="/articles">
-                    Read More
-                  </Link>
-                </div>
+                <Link className="column is-12 btn-outline aldrich" to="/articles">
+                  View All
+                </Link>
               </div>
             </div>
           </div>

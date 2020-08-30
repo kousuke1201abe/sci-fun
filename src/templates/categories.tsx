@@ -8,6 +8,7 @@ import Img from 'gatsby-image'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import Seo from '../components/Seo'
 import { kebabCase } from 'lodash'
+import Pagenation from '../components/Pagenation'
 
 class CategoryRoute extends React.Component<CategoryType> {
   render() {
@@ -47,14 +48,10 @@ class CategoryRoute extends React.Component<CategoryType> {
         </Link>
       </div>
     ))
+
     const category = this.props.pageContext.category
     const title = this.props.data.site.siteMetadata.title
-    const { currentPage, numPages } = this.props.pageContext
-    const isFirst = currentPage === 1
-    const isLast = currentPage === numPages
     const path = `/categories/${kebabCase(category)}`
-    const prevPage = currentPage - 1 === 1 ? path : `${path}/${(currentPage - 1).toString()}`
-    const nextPage = `${path}/${(currentPage + 1).toString()}`
 
     return (
       <Layout>
@@ -70,18 +67,7 @@ class CategoryRoute extends React.Component<CategoryType> {
               <Helmet title={`${category} | ${title}`} />
               {postLinks}
             </div>
-            <div className="has-text-centered" style={{ margin: "20px" }}>
-              {!isFirst && (
-                <Link to={prevPage} rel="prev" className="btn" style={{ margin: "5px" }}>
-                  Prev
-                </Link>
-              )}
-              {!isLast && (
-                <Link to={nextPage} rel="next" className="btn" style={{ margin: "5px" }}>
-                  Next
-                </Link>
-              )}
-            </div>
+            <Pagenation pageContext={this.props.pageContext} path={path}/>
           </section>
         </div>
       </Layout>

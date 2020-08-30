@@ -9,7 +9,7 @@ const ArticlePreview = ({ entry, widgetsFor, widgetFor }) => {
   if (typeof entry.getIn(["data", "tags"]) !== "undefined") {
     tags = entry.getIn(["data", "tags"]).map(element => element)
   }
-  const issuedAt = moment(widgetFor('issuedAt').props.value).format("YYYY.MM.DD HH:hh")
+  const issuedAt = widgetFor('issuedAt') && moment(widgetFor('issuedAt').props.value).format("YYYY.MM.DD HH:hh")
   return (
     <BlogPostTemplate
       content={widgetFor('body')}
