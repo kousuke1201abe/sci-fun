@@ -95,7 +95,7 @@ export const tagPageQuery = graphql`
             issuedAt(formatString: "YYYY.MM.DD HH:hh")
             featuredimage {
               childImageSharp {
-                fluid(maxWidth: 2048, quality: 100) {
+                fluid(maxWidth: 1000, quality: 90) {
                   ...GatsbyImageSharpFluid
                 }
               }

@@ -3,7 +3,6 @@ import { createGlobalStyle } from 'styled-components'
 import reset from 'styled-reset'
 
 const Global = createGlobalStyle`
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,400,500,700&display=swap')
   ${reset}
   body {
     font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
