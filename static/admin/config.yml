@@ -8,6 +8,8 @@ publish_mode: editorial_workflow
 
 media_folder: "static/img"
 
+public_folder: "/img"
+
 site_url: https://confident-euler-cf03d1.netlify.app/
 
 display_url: https://confident-euler-cf03d1.netlify.app/
@@ -27,6 +29,6 @@ collections:
       - { label: "タイトル", name: "title", widget: "string" }
       - { label: "カテゴリー", name: "categories", widget: "select", options: ["ARTS", "GADGETS", "BUSINESS", "NOVELS", "MOVIES", "CULTURE"], multiple: true, default: ["BUSINESS"], min: 1 }
       - { label: "タグ", name: "tags", widget: "list" }
-      - { label: "見出し画像", name: "featuredimage", widget: "file" }
+      - { label: "見出し画像", name: "featuredimage", widget: "file", allow_multiple: false }
       - { label: "公開日", name: "issuedAt", widget: "datetime" }
       - { label: "本文", name: "body", widget: "markdown" }
