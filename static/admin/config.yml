@@ -25,8 +25,10 @@ collections:
     editor:
       preview: true
     fields:
-      - { label: "", name: "templateKey", widget: "hidden", default: "blog-post" }
+      - { label: "テンプレートキー", name: "templateKey", widget: "hidden", default: "blog-post" }
       - { label: "タイトル", name: "title", widget: "string" }
+      - { label: "特集記事(3記事まで表示可能)", name: "featured", widget: "boolean", default: false }
+      - { label: "説明(特集記事の場合は必須)", name: "description", widget: "text", required: false }
       - { label: "カテゴリー", name: "categories", widget: "select", options: ["ARTS", "GADGETS", "BUSINESS", "NOVELS", "MOVIES", "CULTURE"], multiple: true, default: ["BUSINESS"], min: 1 }
       - { label: "タグ", name: "tags", widget: "list" }
       - { label: "見出し画像", name: "featuredimage", widget: "file", allow_multiple: false }
