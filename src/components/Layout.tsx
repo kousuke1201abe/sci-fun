@@ -14,7 +14,7 @@ interface SiteMetadataType {
 const TemplateWrapper = ({ children }) => {
   const { title, description }: SiteMetadataType = useSiteMetadata()
   return (
-    <div>
+    <div style={{maxWidth: "100%"}}>
       <Navbar />
       <div>{children}</div>
       <Footer />

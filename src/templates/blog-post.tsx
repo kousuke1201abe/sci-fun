@@ -27,7 +27,7 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <div className="container" style={{padding: "70px 20px 0px 20px"}}>
+    <div className="container" style={{padding: "70px 10px 0px 10px"}}>
       <section className="section">
         {helmet || ''}
         <div className="content blogpost">
@@ -45,7 +45,7 @@ export const BlogPostTemplate = ({
                   <h1 className="is-size-5-mobile is-size-2-widescreen has-text-weight-bold is-bold-light is-marginless" style={{lineHeight: "140%"}}>
                     {title}
                   </h1>
-                  <p className="aldrich" style={{color: "#333", fontSize: "18px", paddingTop: "15px"}}>{issuedAt}</p>
+                  <p className="aldrich" style={{color: "grey", fontSize: "12px", paddingTop: "10px"}}>{issuedAt}</p>
                   <ul className="categorylist aldrich" style={{marginTop: "10px"}}>
                     {tags.map(tag => (
                       <Link to={`/tags/${kebabCase(tag)}/`}>

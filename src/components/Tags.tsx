@@ -7,29 +7,23 @@ class Tags extends React.Component {
     const { data } = this.props
     const { group: group } = data.allMarkdownRemark
     return (
-      <div className="container">
-        <div className="section" style={{ margin: "10px"}}>
+        <div className="section">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-10 is-offset-1" style={{padding: "5px"}}>
               <div className="content">
-                <div className="column is-12">
-                  <div style={{ padding: "0px 15px" }}>
-                    <h1 className="headline has-text-weight-bold">Tags</h1>
-                  </div>
-                  <ul className="categorylist aldrich" style={{ padding: "0px 15px", marginTop: "30px" }}>
-                    {group.map(tag => (
-                      <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                        <li key={tag.fieldValue} className="tag-item">
-                          #{tag.fieldValue}
-                        </li>
-                      </Link>
-                    ))}
-                  </ul>
-                </div>
+                <h1 className="headline has-text-weight-bold">Tags</h1>
+                <ul className="categorylist aldrich" style={{ marginTop: "30px" }}>
+                  {group.map(tag => (
+                    <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                      <li key={tag.fieldValue} className="tag-item">
+                        #{tag.fieldValue}
+                      </li>
+                    </Link>
+                  ))}
+                </ul>
               </div>
             </div>
           </div>
-        </div>
       </div>
     )
   }

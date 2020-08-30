@@ -18,7 +18,7 @@ const Pagenation = ({path, pageContext}) => {
           Prev
         </div>
       }
-      <span className="aldrich" style={{margin: "10px", fontSize: "8px"}}>page {currentPage} of {numPages}</span>
+      <span className="aldrich" style={{margin: "10px", fontSize: "12px"}}>page {currentPage} of {numPages}</span>
       {!isLast ? (
         <Link to={nextPage} rel="next" className="btn" style={{ margin: "5px" }}>
           Next

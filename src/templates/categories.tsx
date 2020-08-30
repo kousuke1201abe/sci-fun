@@ -58,7 +58,7 @@ class CategoryRoute extends React.Component<CategoryType> {
         <Seo />
         <div className="container" style={{paddingTop: "50px"}}>
           <section className="section column is-10 is-offset-1">
-            <div className="column is-12" style={{marginLeft: "20px"}}>
+            <div className="column is-12" style={{marginBottom: "20px"}}>
               <h1 className="headline has-text-weight-bold">
                 {category.charAt(0).toUpperCase() + category.slice(1).toLowerCase()}
               </h1>
