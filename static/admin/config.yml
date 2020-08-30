@@ -18,7 +18,7 @@ locale: 'ja'
 
 collections:
   - name: "article"
-    label: "記事作成"
+    label: "記事"
     folder: "src/pages/articles"
     create: true
     slug: "{{slug}}"
