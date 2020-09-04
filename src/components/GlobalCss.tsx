@@ -6,7 +6,7 @@ const Global = createGlobalStyle`
   ${reset}
   body {
     font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    line-height: 1.5;
+    line-height: 1.5!important;
     details {
       text-decoration: none;
       padding: 20px;
@@ -14,7 +14,12 @@ const Global = createGlobalStyle`
         padding-top: 15px;
       }
       a {
-        color: black;
+        color: #cf74a2;
+        border-bottom: 1px solid #cf74a2;
+        cursor: pointer;
+        &:hover {
+          color: #d6aec2;
+        }
       }
       width: 100%;
       background: #f5f5f5;
@@ -23,10 +28,8 @@ const Global = createGlobalStyle`
       .summary-title {
         user-select: none;
       }
-      &:hover {
-        cursor: pointer;
-      }
       summary {
+        font-weight: bold;
         border: none;
         text-align: left;
         font-size: 20px;
@@ -34,6 +37,9 @@ const Global = createGlobalStyle`
       summary:focus {
         outline: none;
       }
+    }
+    details summary::-webkit-details-marker {
+      display: none;
     }
     blockquote {
       margin-top: 15px;
@@ -57,6 +63,9 @@ const Global = createGlobalStyle`
     }
     a {
       color: #cf74a2;
+      &:hover {
+        color: #d6aec2;
+      }
     }
   }
 `
