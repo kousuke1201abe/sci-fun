@@ -9,7 +9,7 @@ tags:
   - SFノベル
   - SFグルメ
   - フードエッセイ
-featuredimage: /img/10-tennenebifly.jpg
+featuredimage: /img/503986.jpg
 issuedAt: 2020-09-16T14:44:55.346Z
 ---
 ## 第1回目は『おもいでエマノン』
