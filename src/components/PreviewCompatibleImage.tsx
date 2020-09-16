@@ -26,7 +26,6 @@ const PreviewCompatibleImage = ({ imageInfo }: imageInfoType) => {
   }
 
   if (!!image && typeof image === 'string')
-  console.log("aaaaaaaaa")
     return <img style={imageStyle} src={image} alt={alt} />
 
   return null
