@@ -5,7 +5,7 @@ import moment from 'moment'
 
 const ArticlePreview = ({ entry, widgetsFor, widgetFor }) => {
   let categories = []
-  if (entry.getIn(["data", "categories"]) !== null) {
+  if (typeof entry.getIn(["data", "categories"]) !== "undefined") {
     categories = entry.getIn(["data", "categories"]).map(element => element)
   }
   let tags = []
