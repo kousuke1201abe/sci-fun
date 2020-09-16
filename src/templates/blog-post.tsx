@@ -36,7 +36,7 @@ export const BlogPostTemplate = ({
               <div className="columns is-multiline">
                 <div className="is-parent column is-6">
                   <ul className="categorylist aldrich" style={{margin: "0px"}}>
-                    {categories?.map(category => (
+                    {categories.map(category => (
                       <li key={category + `category`} className="category-item">
                         {category}
                       </li>
