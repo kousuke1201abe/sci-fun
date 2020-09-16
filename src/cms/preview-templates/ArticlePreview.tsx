@@ -4,7 +4,10 @@ import { BlogPostTemplate } from '../../templates/blog-post'
 import moment from 'moment'
 
 const ArticlePreview = ({ entry, widgetsFor, widgetFor }) => {
-  const categories = entry.getIn(["data", "categories"]).map(element => element)
+  let categories = []
+  if (typeof entry.getIn(["data", "categories"]) !== "undefined") {
+    categories = entry.getIn(["data", "categories"]).map(element => element)
+  }
   let tags = []
   if (typeof entry.getIn(["data", "tags"]) !== "undefined") {
     tags = entry.getIn(["data", "tags"]).map(element => element)
