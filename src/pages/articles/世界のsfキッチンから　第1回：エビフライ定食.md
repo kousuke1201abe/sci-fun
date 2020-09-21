@@ -9,7 +9,7 @@ tags:
   - SFノベル
   - SFグルメ
   - フードエッセイ
-featuredimage: /img/503986.jpg
+featuredimage: /img/emanon.jpg
 issuedAt: 2020-09-16T14:44:55.346Z
 ---
 <details open><summary>目次</summary>
