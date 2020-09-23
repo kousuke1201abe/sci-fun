@@ -10,13 +10,13 @@ tags:
   - FASHION
   - SF
   - MOVIES
-featuredimage: /img/home-jumbotron.png
+featuredimage: /img/75-l2.jpg
 issuedAt: 2020-09-22T23:12:57.795Z
 ---
 
 
-映画に於いて、コスチュームデザインは欠かすことのできない重要な要素である。<br>
-特にSF映画におけるコスチュームは、遠い未来や宇宙など、現代の私たちとは全く異なる土地や文化の中で生きる人々(あるいは地球外生命体)の暮らしを物語り、その映画の世界観を、より印象深いものにする役割を担う。<br><br>
+映画において、コスチュームデザインは欠かすことのできない重要な演出要素である。<br>
+特に、SF映画におけるコスチュームは、遠い未来の世界や、はるか遠い宇宙など、私たちの住む世界とは全く異なる土地や文化の中で生きる人々(あるいは地球外生命体)の暮らしを物語り、その世界全体に深みを持たせる役割を担う。<br><br>
 この特集ではSF映画のコスチュームに焦点をあて、その魅力を余すことなく伝えていきたい。
 記念すべき第一回は、誰もが知っている名作、STAR WARSについて取り上げる。<br>
 
@@ -26,32 +26,32 @@ issuedAt: 2020-09-22T23:12:57.795Z
 
 
 
-![](https://lh4.googleusercontent.com/zoqXNXLqfbniM0B9FKeM5SQl7pXHWXnxJtHhsIP079VEscD_VyRhTvRST5cJjjJScYCXwYPRFZFIAFPP9-ARSc9sWBsfTFGF6E10x4FgB4ZfhEw4FKEUbyf71jC_sunQ0Wcf_4OY)![](https://lh6.googleusercontent.com/LCEaKcuH2X2oxdX120o-Yn9M19xT1sglIgmh9Px6lYHI_xQQ1OOol12q0HWjplmtGeicIbh3pVSv053wXotLNoyAtFVi2zbR4hDiGFvzMK7Spn8QhP0Fu_0KNDuni6tBYacz0L-0)![](https://lh3.googleusercontent.com/vostiHcpbU_dyD6kN83ZVSqMljs4MEow578Mifvg2pTHquHj41IQ5OOoWjH7IBCfLyQsFzcMRKCPhuCS7klo5Uexy65mFWi5Ji1kiwcxaDWVsTPDXhlozD_8cvlcSuJg_fbsZ9Jz)
-
-STARWARSの名を知らないものはいないだろう。
-
-「遠い昔、はるか彼方の銀河系で」で起こった「全宇宙を巻き込んだ壮大な親子ゲンカ」と揶揄されるSTARWARSとは、果たしてSFなのか、という議論はこの場では置いておこう。(ジョージルーカス自身が「スターウォーズはSFではない」と断言していることを知っていた上で、特集の第一弾として選ばせていただいたことをどうか許してほしい。)
+![](https://lh4.googleusercontent.com/zoqXNXLqfbniM0B9FKeM5SQl7pXHWXnxJtHhsIP079VEscD_VyRhTvRST5cJjjJScYCXwYPRFZFIAFPP9-ARSc9sWBsfTFGF6E10x4FgB4ZfhEw4FKEUbyf71jC_sunQ0Wcf_4OY)!<br><br>
 
 
-
-1977年に劇場公開されたエピソード４は、当時の人々が目を見張るような宇宙戦争という壮大な世界観と、魅力的なキャラクター達の活躍に、誰もが熱狂した。
-
-そしてウォルトディズニーに引き継がれた今、スターウォーズシリーズは、世代を問わず愛され続ける名作となった。
+STARWARSの名を知らないものはいないだろう。<br><br>
+「遠い昔、はるか彼方の銀河系で」で起こった「全宇宙を巻き込んだ壮大な親子ゲンカ」と揶揄されるSTARWARSとは、果たしてSFなのか、という議論はこの場では置いておこう。(ジョージルーカス自身が「スターウォーズはSFではない」と断言していることを知っていた上で、特集の第一弾として選ばせていただいたことをどうか許してほしい。)<br><br>
 
 
 
-たとえ映画を観たことがないとしても、ストームトルーパーやR2-D2などのアイコニックな外見を知らぬものはいない。現代においても数々のブランドがそのアイコンをモティーフとして採用するほどに、スターウォーズのキャラクターデザインは普遍的に愛され続けているおだ。
+1977年に劇場公開されたエピソード４は、当時の人々が目を見張るような宇宙戦争という壮大な世界観と、魅力的なキャラクター達の活躍に、誰もが熱狂した。<br>
+
+そしてウォルトディズニーに引き継がれた今、スターウォーズシリーズは、世代を問わず愛され続ける名作となった。<br><br>
 
 
 
-「スカイウォーカー・サーガ」と言われる9作品の公開順序はEp.4-6 ⇨EP.1-3⇨ep.7-9であるが、今回は、銀河系の年表に合わせ、ep.1-3からコスチュームの系譜を辿っていこうと思う。
+たとえ映画を観たことがないとしても、ストームトルーパーやR2-D2などのアイコニックな外見を知らぬものはいない。現代においても数々のブランドがそのアイコンをモティーフとして採用するほどに、スターウォーズのキャラクターデザインは普遍的に愛され続けているのだ。<br>
+
+
+
+「スカイウォーカー・サーガ」と言われる9作品の公開順序はEp.4-6 ⇨EP.1-3⇨ep.7-9であるが、今回は、銀河系の年表に合わせ、ep.1-3からコスチュームの系譜を辿っていこうと思う。<br><br>
 
 
 
 ## ep.1-3 帝国の暮らしを鮮やかに彩る、華麗な王族のコスチューム
 
 ![](https://lh4.googleusercontent.com/FtMZNf69TtGRcQEScDS_Tp0p1Ae6WSiKaKXMks4FiLloXHiHpr04SM4mqS3L28m8iZM9X-3409DneV4AixoIyA-ohmBFtccuMvCuS14nVvjP9wDH1z5SquJFiJEOq-svykfrvuqf)![](https://lh4.googleusercontent.com/XY3CcM5Lr0bOBvb7A2No9b4QSKzgL3FSvtOAK81m-_2rxt5PKaFIA9a1XhgWgpYi9zmjX8DZDUF_3r_CcNxAg8iztpO-DPwjPPjUU_I8W6A45plkxEujtIbDDpAdg9erve31XdWi)![](https://lh5.googleusercontent.com/4NLfavcYlDLDsbA5ghZtSOXM-qK2UeV4WOmRn7H6XrTUQi39AvuxHSdgfHwInkWciSYrAgY4ZAjAsWpX3YRKuPJMMBBD_gpGT8r_QVq9p2ZfYgkj3bJ3ZBDu0vHecQvtBAP6RjNU)
-
+<br>
 スターウォーズのコスチュームにおいて、全作品の中で圧倒的なインパクトを残すのは、やはりトリシャ・ビガーがコスチュームを担当したep.1-3だろう。
 
 ep.4-6以降の、帝国の支配とジェダイが激減した時代とは異なり、ep.1-3では洗練された文明を背景に、莫大な資産と強大な権力を持つ人が登場する。
@@ -198,11 +198,11 @@ ep.1-3の衣裳についても、まだまだ語りきれないが、今回の�
 
 (written by Nanica Marui)
 
-\---------------------------------
 
 
 
-## 参考文献：より深く知りたい方はこちらをCheck！
+
+### 参考文献：より深く知りたい方はこちらをCheck！
 
 ・Dressing Garaxy
 
@@ -210,17 +210,8 @@ ep.1-3の衣裳についても、まだまだ語りきれないが、今回の�
 
 ・流行通信 2005年 8月号
 
-・the kessel runway
+・the kessel runway <http://www.thekesselrunway.com/queen-amidala-inspired-fashion/>
 
-<http://www.thekesselrunway.com/queen-amidala-inspired-fashion/>
-
-
-
-論文書けそう。
-
-
-
-ーーーーーーーーーーーーーーーーーーーー
 
 
 
