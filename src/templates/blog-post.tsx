@@ -10,6 +10,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTag } from '@fortawesome/free-solid-svg-icons'
 import Img from 'gatsby-image'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import RelatedArticles from '../components/RelatedArticles'
 import Seo from '../components/Seo'
 import GlobalCss from '../components/GlobalCss'
 
@@ -94,7 +95,7 @@ BlogPostTemplate.propTypes = {
 }
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post, related: related } = data
 
   return (
     <Layout>
@@ -122,6 +123,7 @@ const BlogPost = ({ data }) => {
         issuedAt={post.frontmatter.issuedAt}
         featuredimage={post.frontmatter.featuredimage}
       />
+      <RelatedArticles posts={related.edges}/>
     </Layout>
   )
 }
@@ -129,13 +131,14 @@ const BlogPost = ({ data }) => {
 BlogPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
+    related: PropTypes.object,
   }),
 }
 
 export default BlogPost
 
 export const pageQuery = graphql`
-  query BlogPostByID($id: String!) {
+  query BlogPostByID($id: String!, $category: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
@@ -151,6 +154,32 @@ export const pageQuery = graphql`
             fluid(maxWidth: 1000, quality: 90) {
               ...GatsbyImageSharpFluid
             }
+          }
+        }
+      }
+    }
+    related :allMarkdownRemark(
+      filter: { frontmatter: { categories: { in: [$category] } } }
+      sort: { fields: [frontmatter___issuedAt], order: DESC }
+      limit: 3
+    ) {
+      totalCount
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            issuedAt(formatString: "YYYY.MM.DD HH:hh")
+            featuredimage {
+              childImageSharp {
+                fluid(maxWidth: 1000, quality: 90) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            tags
           }
         }
       }
