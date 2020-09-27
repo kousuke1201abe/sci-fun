@@ -8,18 +8,15 @@ import {
   LineIcon,
 } from 'react-share';
 
-const SnsLinks = ({url}) => {
+const SnsLinks = () => {
   return (
-    <div className="sns-links">
-      <FacebookShareButton url={url} style={{margin: "5px"}}>
-        <FacebookIcon size={40} round />
+    <div className="">
+      <FacebookShareButton url="/" style={{margin: "5px"}}>
+        <FacebookIcon size={40}/>
       </FacebookShareButton>
-      <TwitterShareButton url={url} style={{margin: "5px"}}>
-        <TwitterIcon size={40} round />
+      <TwitterShareButton url="/" style={{margin: "5px"}}>
+        <TwitterIcon size={40}/>
       </TwitterShareButton>
-      <LineShareButton url={url} style={{margin: "5px"}}>
-        <LineIcon size={40} round />
-      </LineShareButton>
     </div>
   )
 }
