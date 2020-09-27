@@ -17,7 +17,7 @@ export const IndexPageTemplate = ({
           <div className="content">
             <div className="column is-12" style={{ marginBottom: "20px", paddingLeft: "0px" }}>
               <h1 className="headline has-text-weight-bold">
-                Featured Ariticles
+                Featured Articles
               </h1>
             </div>
             <div style={{width: "100%"}}>
