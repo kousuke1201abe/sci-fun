@@ -16,6 +16,7 @@ exports.createPages = ({ actions, graphql }) => {
               slug
             }
             frontmatter {
+              title
               categories
               templateKey
             }
@@ -43,6 +44,7 @@ exports.createPages = ({ actions, graphql }) => {
 
     posts.forEach(edge => {
       const id = edge.node.id
+      const title = edge.node.frontmatter.title
       let category = ""
       if (edge.node.frontmatter.categories !== null) {
         category = edge.node.frontmatter.categories[0]
@@ -57,6 +59,7 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id: id,
+          title: title,
           category: category,
         },
       })

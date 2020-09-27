@@ -33,9 +33,9 @@ export const BlogPostTemplate = ({
         {helmet || ''}
         <div className="content blogpost">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-6 is-offset-one-quarter">
               <div className="columns is-multiline">
-                <div className="is-parent column is-6">
+                <div className="is-parent column is-12">
                   <ul className="categorylist aldrich" style={{margin: "0px"}}>
                     {categories.map(category => (
                       <li key={category + `category`} className="category-item">
@@ -46,6 +46,18 @@ export const BlogPostTemplate = ({
                   <h1 className="is-size-5-mobile is-size-2-widescreen has-text-weight-bold is-bold-light is-marginless" style={{lineHeight: "140%"}}>
                     {title}
                   </h1>
+                  <div style={{marginTop: "20px"}}>
+                    {featuredimage ? (
+                      <div className="featured-thumbnail" style={{marginBottom: "20px"}}>
+                        <PreviewCompatibleImage
+                          imageInfo={{
+                            image: featuredimage,
+                            alt: `featured image thumbnail for post ${title}`,
+                          }}
+                        />
+                      </div>
+                    ) : null}
+                  </div>
                   <p className="aldrich" style={{color: "grey", fontSize: "12px", paddingTop: "10px"}}>{issuedAt}</p>
                   <ul className="categorylist aldrich" style={{marginTop: "10px"}}>
                     {tags.map(tag => (
@@ -56,18 +68,6 @@ export const BlogPostTemplate = ({
                       </Link>
                     ))}
                   </ul>
-                </div>
-                <div className="is-parent column is-6">
-                  {featuredimage ? (
-                    <div className="featured-thumbnail" style={{marginBottom: "20px"}}>
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: featuredimage,
-                          alt: `featured image thumbnail for post ${title}`,
-                        }}
-                      />
-                    </div>
-                  ) : null}
                 </div>
                 <div style={{marginTop: "30px"}}>
                   <PostContent content={content} />
@@ -138,7 +138,7 @@ BlogPost.propTypes = {
 export default BlogPost
 
 export const pageQuery = graphql`
-  query BlogPostByID($id: String!, $category: String!) {
+  query BlogPostByID($id: String!, $category: String!, $title: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
@@ -159,7 +159,7 @@ export const pageQuery = graphql`
       }
     }
     related :allMarkdownRemark(
-      filter: { frontmatter: { categories: { in: [$category] } } }
+      filter: { frontmatter: { categories: { in: [$category] }, title: { ne: $title } } }
       sort: { fields: [frontmatter___issuedAt], order: DESC }
       limit: 3
     ) {
