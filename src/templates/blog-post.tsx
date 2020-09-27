@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-import SnsLinksfrom from '../components/SnsLinks'
+import SnsShare from '../components/SnsShare'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTag } from '@fortawesome/free-solid-svg-icons'
 import Img from 'gatsby-image'
@@ -71,7 +71,7 @@ export const BlogPostTemplate = ({
                 <div style={{marginTop: "30px"}}>
                   <PostContent content={content} />
                   <div style={{marginTop: "30px"}}>
-                    <SnsLinksfrom url={typeof window !== "undefined" ? window.location.href : ""} />
+                    <SnsShare url={typeof window !== "undefined" ? window.location.href : ""} />
                   </div>
                 </div>
               </div>

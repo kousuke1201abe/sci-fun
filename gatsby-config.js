@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'WEBSITE TITLE',
+    title: 'SY_FY:laboratory',
     description:
-      'WEBSITE DESCRIPTION',
+      'SCIENCE FICTION and CULTURE media',
   },
   plugins: [
     {
