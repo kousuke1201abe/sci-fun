@@ -7,13 +7,9 @@ categories:
   - MOVIES
 tags:
   - YURUTALK
-featuredimage: /img/home-jumbotron.png
+featuredimage: /img/yurutalk001.png
 issuedAt: 2020-08-29T17:33:16.896Z
 ---
-
-
-![](/img/yurutalk001.png)
-
 はじめまして、**なにか**です。
 <br>
 <br>
@@ -27,7 +23,7 @@ issuedAt: 2020-08-29T17:33:16.896Z
 <br>
 <br>
 
-同じく友人の**ROBO**です。冷蔵庫です。
+**ROBO**です。冷蔵庫です。
 
 <br>
 <br>
