@@ -89,6 +89,127 @@ article:hover
   h3
     line-height: 1.5!important
     font-size: 1.5rem!important
+
+  .talk-right
+    display: flex
+    align-items: center
+    width: 100%
+    padding: 20px 0
+    overflow: hidden
+    flex-direction: row-reverse
+    .serif
+      position: relative
+      padding: 20px
+      border-radius: 10px
+      max-width: 65%
+      word-wrap: break-word
+      margin: 10px
+      background: #eeeaec
+      &:after
+        transform: scale(-1, 1)
+        right: -22px
+        border-right: 20px solid #eeeaec
+
+  .talk-left
+    display: flex
+    align-items: center
+    width: 100%
+    padding: 20px 0
+    overflow: hidden
+    justify-content: flex-start
+    .serif
+      position: relative
+      padding: 20px
+      border-radius: 10px
+      max-width: 65%
+      word-wrap: break-word
+      margin: 10px
+      background: #ede4e1
+      &:after
+        left: -22px
+        border-right: 20px solid #ede4e1
+
+  .serif:after
+    content: ""
+    position: absolute
+    top: 15px
+    border-top: 10px solid transparent
+    border-bottom: 5px solid transparent
+    border-left: 5px solid transparent
+
+  .robo
+    width: 70px
+    height: 70px
+    margin: 10px
+    background: url('/img/robo.png')
+    background-size: 70px
+    border: solid 4px #C2CBD9
+    border-radius: 50%
+    background-position: center
+    position: relative
+    &:after
+      content: "ROBO"
+      position: absolute
+      bottom: -20px
+      right: 16px
+      font-family: aldrich
+      color: gray
+      font-size: 10px
+  .nanika
+    width: 70px
+    height: 70px
+    margin: 10px
+    background: url('/img/nanika.png')
+    background-size: 70px
+    border: solid 4px #A1E4D2
+    border-radius: 50%
+    background-position: center
+    position: relative
+    &:after
+      content: "NANIKA"
+      position: absolute
+      bottom: -20px
+      right: 12px
+      font-family: aldrich
+      color: gray
+      font-size: 10px
+  .uma
+    width: 70px
+    height: 70px
+    margin: 10px
+    background: url('/img/uma.png')
+    background-size: 70px
+    border: solid 4px #D6C5E9
+    border-radius: 50%
+    background-position: center
+    position: relative
+    &:after
+      content: "UMA"
+      position: absolute
+      bottom: -20px
+      right: 20px
+      font-family: aldrich
+      color: gray
+      font-size: 10px
+  .usa
+    width: 70px
+    height: 70px
+    margin: 10px
+    background: url('/img/usa.png')
+    background-size: 70px
+    border: solid 4px #F7EEA1
+    border-radius: 50%
+    background-position: center
+    position: relative
+    &:after
+      content: "USA"
+      position: absolute
+      bottom: -20px
+      right: 20px
+      font-family: aldrich
+      color: gray
+      font-size: 10px
+
 .content .categorylist
   list-style: none
   display: flex
@@ -253,10 +374,10 @@ $menu-label-color: $white-ter
 .blog-title
   text-decoration: none!important
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
+  display: flex
+  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
+  flex-basis: 35%
 
 .footer-logo
   width: 100%
@@ -267,15 +388,15 @@ $menu-label-color: $white-ter
 // responsiveness
 +tablet-only
   .blog-list-item .featured-thumbnail
-    flex-basis: 50%;
+    flex-basis: 50%
 
 +mobile
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
-    text-align: center;
-    max-width: 100%;
-    margin: 0 0 1em;
+    text-align: center
+    max-width: 100%
+    margin: 0 0 1em
   .sns-share
     right: 0
     bottom: 0
