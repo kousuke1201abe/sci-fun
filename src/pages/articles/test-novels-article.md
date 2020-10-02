@@ -7,7 +7,7 @@ categories:
   - MOVIES
 tags:
   - YURUTALK
-featuredimage: /img/yurutalk001.png
+featuredimage: /img/yurutalk002.png
 issuedAt: 2020-08-29T17:33:16.896Z
 ---
 はじめまして、**なにか**です。
@@ -51,10 +51,6 @@ issuedAt: 2020-08-29T17:33:16.896Z
 
 <br>
 <br>
-
-
-
-![](https://lh6.googleusercontent.com/g3rh63poNMDueVqOlBdqONDfuzFIVMDrx5RmmKqG_LILNSg5qrZkbeFdemWm1yxYiN4E5FQjhtNjpvBdTXbviAxTfahh95ra_7yqSmY2XDXkpN0N2r3n2yoyDrush9tckz5iHWl1)
 
 
 
