@@ -48,6 +48,7 @@ issuedAt: 2020-08-29T17:33:16.896Z
     <p>みなさま、はじめまして！
 
 このコーナーでは、SFの気になる話題について、ゆるっと話していこうと思います。
+
 </p>
   </div>
 </div>
@@ -59,8 +60,6 @@ issuedAt: 2020-08-29T17:33:16.896Z
 
 <br>
 <br>
-
-
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -78,12 +77,8 @@ issuedAt: 2020-08-29T17:33:16.896Z
   </div>
 </div>
 
-
-
 <br>
 <br>
-
-
 
 **第一回のお題は・・・**
 
@@ -102,8 +97,7 @@ issuedAt: 2020-08-29T17:33:16.896Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <p>・・・SFっぽいからでしょ。
-</p>
+    <h5>・・・SFっぽいからでしょ。<h5></p>
   </div>
 </div>
 
@@ -118,24 +112,16 @@ issuedAt: 2020-08-29T17:33:16.896Z
 <br>
 <br>
 
-
-
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
     <p>でも一理あるよね。
 
-SF映画って基本的に未来が舞台になっているわけで、そこで現代風の美味しそうなごはんが出てきたら、世界観ぶちこわしだもん。
+SF映画って基本的に未来が舞台なわけで、そこで現実味ありすぎるごはんが出てきたら、世界観ぶちこわしだもん。
+
 </p>
   </div>
 </div>
-
-<br>
-<br>
-
-
-
-# **アナキン・スカイウォーカーが、おにぎりとサバ味噌**なんか食べていたら、残念だよね！
 
 <br>
 <br>
@@ -143,23 +129,34 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 
 
 <div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <div style="font-size: 30px;">アナキン・スカイウォーカーが、おにぎりとサバ味噌なんか食べていたら、残念だよね！</div>
+</p>
+  </div>
+</div>   
+
+<div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
     <p>アナキンだったらせめて洋食チョイスしてよ・・・
+。
 </p>
   </div>
 </div>
 
 
+  </div>
+</div>
 
 <br>
 <br>
 
 ディストピア系SFだと
 
-「核戦争により荒廃した世界では、穀物が実らなくなった。」
+**「核戦争により荒廃した世界では、穀物が実らなくなった。」**
 
-みたいな設定も多いから、**固形食**や**保存食**みたいな食事をしている作品が多いね。
+みたいな設定も多いから、**固形食**や**保存食**みたいな食事をしているシーンが多いね。
 
 <br>
 <br>
@@ -174,8 +171,6 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 
 <br><br>
 
-
-
 「ユートピア」や「人工知能」を描いた作品でも、
 
 「**AIが調理した、栄養バランスが完璧な食事**」が出てくる。
@@ -185,12 +180,10 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>食欲は湧かないんだけど・・・
+    <p>食欲湧かないんだけど・・・
 </p>
   </div>
 </div>
-
-
 
 <div class="talk-right">
   <div class="nanika"></div>
@@ -218,6 +211,8 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 
 ![https://www.google.com/search?q=%E3%82%BD%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88&sxsrf=ALeKk03gtOdb4L6wGC9pAfK3c74xeCGQRQ:1601641400428&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj9i-uV85XsAhWGHKYKHU3HC7cQ_AUoA3oECBoQBQ&biw=1282&bih=649#imgrc=rComGsLWL25miM](/img/unnamed.jpg)
 
+https://soylent.com/
+
 <br>
 <br>
 
@@ -231,9 +226,6 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 
 
 
-<br>
-<br>
-
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
@@ -242,9 +234,13 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
   </div>
 </div>
 
-# 地球を大切に。
+<br>
+<br>
 
-# **レッツ・サスティナブル！**
+
+ <div style="color: #db7093; font-size: 50px;">
+地球を大切に。
+<br>レッツ・サスティナブル！</div>
 
 <br>
 <br>
@@ -259,8 +255,6 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 <br>
 <br>
 
-
-
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
@@ -269,7 +263,8 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
   </div>
 </div>
 
-# **ウェエェエエエエエエエ**
+<div style="color: #478384; font-size: 50px;">
+ウェエェエエエエエ</div>
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -279,21 +274,16 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
   </div>
 </div>
 
-
-
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
     <p>UMAくんは帰国子女だもんねー。
 
 生の魚はちょっとチャレンジだよね。
+
 </p>
   </div>
 </div>
-
-
-
-
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -301,11 +291,10 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
     <p>地球だけを見ても、見慣れないとグロテスクな食べ物って結構あるよね。
 
 宇宙系SFに登場する、得体の知れない生命体のの手足のぶつ切りみたいなアレも、もしかしたら、慣れなのかもしれない。
+
 </p>
   </div>
 </div>
-
-
 
 <div class="talk-right">
   <div class="uma"></div>
@@ -314,8 +303,6 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 </p>
   </div>
 </div>
-
-
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -328,8 +315,6 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 <br>
 <br>
 
-
-
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
@@ -338,14 +323,12 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
   </div>
 </div>
 
-
-
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-    <p>イケイケInstagramerが投稿している「ランチ♡」写真も、
-
+    <p>イケイケInstagramerが投稿している<div style="color: #db7093; font-size: 30px;">「ランチ♡」</div>写真も、
 だいたい暖色寄り&彩度高めで加工されているよね。
+
 </p>
   </div>
 </div>
@@ -364,6 +347,7 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
     <p>ということは、写真の色味を反転させたら、
 
 SFっぽいごはんを再現できるってことかな。
+
 </p>
   </div>
 </div>
@@ -383,7 +367,6 @@ SFっぽいごはんを再現できるってことかな。
 <br>
 
 # **写真**
-
 
 # **写真**
 
@@ -413,8 +396,6 @@ SFっぽいごはんを再現できるってことかな。
 <br>
 <br>
 
-
-
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
@@ -422,8 +403,6 @@ SFっぽいごはんを再現できるってことかな。
 </p>
   </div>
 </div>
-
-
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -449,10 +428,7 @@ SFっぽいごはんを再現できるってことかな。
 
 # **過去にJAXAがディストピアめしを提供しているよ。**
 
-###### 
 https://otakei.otakuma.net/archives/2018022302.html
-
-
 
 <br>
 <br>
@@ -477,8 +453,6 @@ https://otakei.otakuma.net/archives/2018022302.html
 
 # **「CRYSTAL TACOYAKI」**
 
-
-
 #### と名付けられたタコ焼き。」
 
 <br>
@@ -492,8 +466,6 @@ https://otakei.otakuma.net/archives/2018022302.html
   </div>
 </div>
 
-
-
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
@@ -501,8 +473,6 @@ https://otakei.otakuma.net/archives/2018022302.html
 </p>
   </div>
 </div>
-
-
 
 **肉はちょっぴり、紫いもにメインの座を奪われたステーキ**
 
@@ -526,8 +496,6 @@ https://otakei.otakuma.net/archives/2018022302.html
   </div>
 </div>
 
-
-
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
@@ -536,19 +504,16 @@ https://otakei.otakuma.net/archives/2018022302.html
   </div>
 </div>
 
-
-
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
     <p>そろそろキャラクターコラボカフェも飽きられてきた頃だし、
 
 ディストピアレストランオープンしたら、案外ヒットするかもよ。
+
 </p>
   </div>
 </div>
-
-
 
 <br>
 <br>
