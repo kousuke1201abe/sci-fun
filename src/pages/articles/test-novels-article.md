@@ -84,9 +84,7 @@ issuedAt: 2020-08-29T17:33:16.896Z
 
 **第一回のお題は・・・**
 
-# **「SF映画のごはんって、**
-
-# **どうしてマズそうなの！？」**
+# **「SFのごはんはどうしてマズそうなの！？」**
 
 **です！**
 
@@ -94,6 +92,12 @@ issuedAt: 2020-08-29T17:33:16.896Z
 <br>
 
 ![https://ameblo.jp/kensuzukitxt/entry-12323317669.html](/img/o0627035414057358007.jpg)
+
+<!--StartFragment-->
+
+https://ameblo.jp/kensuzukitxt/entry-12323317669.html
+
+<!--EndFragment-->
 
 <br>
 <br>
@@ -133,7 +137,7 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-    <div style="font-size: 30px;">アナキン・スカイウォーカーが、おにぎりとサバ味噌なんか食べていたら、残念だよね！</div>
+    <div style="font-size: 30px;">アナキン・スカイウォーカーが、おにぎりとサバ味噌食べていたら、なんか残念だよね！</div>
 </p>
   </div>
 </div>   
@@ -191,6 +195,31 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 
 「**AIが調理した、栄養バランスが完璧な食事**」が出てくる。
 
+<!--StartFragment-->
+
+<!--StartFragment-->
+
+![碇くん on Twitter: "エヴァQでシンジくんが食べたこの謎のペースト飯。作ってから写真撮ったらちゃんと料理ってスマホが認識してた思い出。… "](https://pbs.twimg.com/media/EWIAbU0U8AAcSdL.jpg)
+
+<!--EndFragment-->
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>エヴァQのシンジくんのごはんがそれっぽい
+
+</p>
+  </div>
+</div>
+
+
+
+![『スター・ウォーズ』に出てくる｢ブルー・ミルク｣はマズイらしい。マーク・ハミルがツイート](https://assets.media-platform.com/gizmodo/dist/images/2019/09/02/190903_bluemilk-w1280.png)
+
+<!--EndFragment-->
+
+
+
 <br><br>
 
 <div class="talk-left">
@@ -204,7 +233,7 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    <p>マズそうな食事を美味しそうに食べている未来人の顔にゾクゾクする。
+    <p>ブルーミルクって実際もクソまずいらしいね。
 </p>
   </div>
 </div>
