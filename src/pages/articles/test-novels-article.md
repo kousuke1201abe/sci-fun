@@ -249,7 +249,7 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 <br>
 <br>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
     <p>ぼくはお寿司が好き。お寿司食べたい。
@@ -259,51 +259,121 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 <br>
 <br>
 
-お寿司と言えば、はじめて日本に来た時、お寿司のイクラを見て
 
-**ウェエエエエエエエ**
 
-ってなったよね。どう見てもグロテスクでしょ。赤い魚卵。
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>お寿司と言えば、はじめて日本に来た時、お寿司のイクラを見て
+</p>
+  </div>
+</div>
 
-<br>
-<br>
+# **ウェエェエエエエエエエ**
 
-STARWARSみたいな作品に登場する、宇宙人の手足のぶつ切りみたいなアレも、
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>ってなったよね。どう見てもグロテスクでしょ。赤いツブツブ。
+</p>
+  </div>
+</div>
 
-もしかしたら、慣れなのかもしれない。
 
-<br>
-<br>
 
-UMAくんは帰国子女だもんねー。
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>UMAくんは帰国子女だもんねー。
 
 生の魚はちょっとチャレンジだよね。
+</p>
+  </div>
+</div>
+
+
+
+
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>地球だけを見ても、見慣れないとグロテスクな食べ物って結構あるよね。
+
+宇宙系SFに登場する、得体の知れない生命体のの手足のぶつ切りみたいなアレも、もしかしたら、慣れなのかもしれない。
+</p>
+  </div>
+</div>
+
+
+
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>「美味しそうに見える色」も異星人は色彩感覚が違いそうだから納得が行く
+</p>
+  </div>
+</div>
+
+
+
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>じゃあ人類が美味しそうに感じる要素って、なに？
+</p>
+  </div>
+</div>
 
 <br>
 <br>
 
-**「美味しそうに見える色」**も異星人は色彩感覚が違いそうだから納得が行く。
 
-<br>
-<br>
 
-じゃあ人類が美味しそうに感じる要素って、なに？
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>人類は一般的に、暖色で濃い色の食材の方が美味しそうに感じるらしい。
+</p>
+  </div>
+</div>
 
-<br>
-<br>
 
-人類は一般的に、**暖色**で**色が濃い**食材の方が美味しそうに感じるらしい。
 
-食欲減退の**青色ダイエット**もそうだし、
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>「美味しそうに見える色」も異星人は色彩感覚が違いそうだから納得が行く
+</p>
+  </div>
+</div>
 
-イケイケInstagramerが投稿している**「ランチ♡」**写真も、
+
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>人類は一般的に、暖色で濃い色の食材の方が美味しそうに感じるらしい。
+</p>
+  </div>
+</div>
+
+
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>イケイケInstagramerが投稿している「ランチ♡」写真も、
 
 だいたい暖色寄り&彩度高めで加工されているよね。
+</p>
+  </div>
+</div>
 
 <br>
 <br>
 
-#### ちょっと悪意がこもってない？
+# ちょっと悪意がこもってない？
 
 <br>
 <br>
