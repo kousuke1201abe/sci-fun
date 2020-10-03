@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 「SF映画のごはんって、どうしてマズそうなの！？」
+title: 「SFに出てくるごはんって、どうしてマズそうなの！？」
 featured: false
 description: "SF YURU TALK "
 categories:
