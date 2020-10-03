@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 「SFメシってどうしてマズそうなの！？」
+title: 「SF映画のごはんって、どうしてマズそうなの！？」
 featured: false
 description: "SF YURU TALK "
 categories:
@@ -47,7 +47,9 @@ issuedAt: 2020-08-29T17:33:16.896Z
   <div class="serif">
     <p>みなさま、はじめまして！
 
-このコーナーでは、SFの気になる話題について、ゆるっと話していこうと思います。
+このコーナーでは、SFの気になる話題について、
+
+ゆるっと話していこうと思います。
 
 </p>
   </div>
@@ -126,8 +128,6 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 <br>
 <br>
 
-
-
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
@@ -144,7 +144,6 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 </p>
   </div>
 </div>
-
 
   </div>
 </div>
@@ -224,8 +223,6 @@ https://soylent.com/
   </div>
 </div>
 
-
-
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
@@ -236,7 +233,6 @@ https://soylent.com/
 
 <br>
 <br>
-
 
  <div style="color: #db7093; font-size: 50px;">
 地球を大切に。
