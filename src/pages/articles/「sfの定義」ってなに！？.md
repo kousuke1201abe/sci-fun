@@ -27,7 +27,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
 </div>
 
 <div class="talk-left">
-  <div class="ua"></div>
+  <div class="uma"></div>
   <div class="serif">
     <p>UMAです。
 　　<br>今年こそマルジェラのレザージャケットを手に入れたいです。</p>
@@ -45,7 +45,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 **・・・というわけで、第2回がやってきました。**
 
-<br>
+<br><br>
 
 <div class="talk-right">
   <div class="usa"></div>
@@ -54,11 +54,16 @@ issuedAt: 2020-10-02T15:08:28.286Z
   </div>
 </div>
 
-<br>
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>ホントだね。</p>
+  </div>
+</div>
 
-ホントだね。
 
-<br>
+
+<br><br><br>
 
 本日のゆるトークテーマは
 
@@ -66,25 +71,44 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 **「SFの定義」ってなに！？**
 
+<br>
+
 です。
 
 <br>
 
 <br>
 
-・・・個人の解釈に依ると思う。
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>・・・個人の解釈に依ると思う。</p>
+  </div>
+</div>
 
 <br>
 
-だからそれを言ったらコーナー終わっちゃうでしょ。
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>だからそれを言ったらコーナー終わっちゃうでしょ。</p>
+  </div>
+</div>
+
+
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>まずは広辞苑先生に聞いてみよう。</p>
+  </div>
+</div>
+
+
 
 <br>
 
-<br>
-
-まずは広辞苑先生に聞いてみよう。
-
-<br>
+\---------------------------------
 
 ***エス‐エフ*【*ＳＦ*】** 
 
@@ -94,11 +118,24 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 <https://sakura-paris.org/dict/%E5%BA%83%E8%BE%9E%E8%8B%91/prefix/SF>
 
-<br>
+\---------------------------------
 
-<br>
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>ふむふむ。</p>
+  </div>
+</div>
 
-あんまり役に立たなかったね。
+
+
+
+
+
+
+
+
+# ここから先はちょっと書き方考える
 
 <br>
 
