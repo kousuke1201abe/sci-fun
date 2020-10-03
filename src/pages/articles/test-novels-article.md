@@ -341,26 +341,6 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 
 
 <div class="talk-left">
-  <div class="uma"></div>
-  <div class="serif">
-    <p>「美味しそうに見える色」も異星人は色彩感覚が違いそうだから納得が行く
-</p>
-  </div>
-</div>
-
-
-
-<div class="talk-right">
-  <div class="robo"></div>
-  <div class="serif">
-    <p>人類は一般的に、暖色で濃い色の食材の方が美味しそうに感じるらしい。
-</p>
-  </div>
-</div>
-
-
-
-<div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
     <p>イケイケInstagramerが投稿している「ランチ♡」写真も、
@@ -373,22 +353,41 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 <br>
 <br>
 
-# ちょっと悪意がこもってない？
+# **ちょっと悪意がこもってない？**
 
 <br>
 <br>
 
-ということは、**写真の色味を反転**させたら、
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>ということは、写真の色味を反転させたら、
 
 SFっぽいごはんを再現できるってことかな。
+</p>
+  </div>
+</div>
 
 <br>
 <br>
 
-とりあえず、やってみよう
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>とりあえず、やってみよう
+</p>
+  </div>
+</div>
 
 <br>
 <br>
+
+# **写真**
+
+
+# **写真**
+
+# **写真**
 
 <br>
 <br>
@@ -398,70 +397,158 @@ SFっぽいごはんを再現できるってことかな。
 <br>
 <br>
 
-#### ・・・たしかに
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>・・・たしかに
+</p>
+  </div>
+</div>
 
 <br>
 <br>
 
-#### クソまずそう。SFっぽい。
+# **クソまずそう。SFっぽい。**
 
 <br>
 <br>
 
-地球でSFっぽいランチを出しているレストランがあったら興味あるかも。
 
-『OK、ROBOくん。地球でディストピア飯が食べれる場所を教えて』
+
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>地球でSFっぽいランチを出しているレストランがあったら食べてみたいかも。
+</p>
+  </div>
+</div>
+
+
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>『OK、ROBOくん。地球でディストピア飯が食べれる場所を教えて』
+</p>
+  </div>
+</div>
 
 <br>
 <br>
 
-・・・ありました！過去にJAXAがディストピアめしを提供しているよ。
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>・・・ありました！
+</p>
+  </div>
+</div>
+
+<br>
+<br>
+
+# **過去にJAXAがディストピアめしを提供しているよ。**
+
+###### 
 https://otakei.otakuma.net/archives/2018022302.html
 
-<br>
-<br>
 
-期間限定だったみたいだね。残念。
 
 <br>
 <br>
 
-#### まじか。
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>期間限定だったみたいだね。残念。
+</p>
+  </div>
+</div>
+
+<br>
+<br>
+
+# **写真**
+
+<br>
+<br>
 
 #### 「タコをだし汁のゼリーでコーティングした
 
-#### 「CRYSTAL TACOYAKI」と名付けられたタコ焼き。」
+# **「CRYSTAL TACOYAKI」**
+
+
+
+#### と名付けられたタコ焼き。」
 
 <br>
 <br>
 
-#### これ、たこ焼きのくせに、焼いてなくないか？
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>これ、たこ焼きのくせに、焼いてなくないか？
+</p>
+  </div>
+</div>
 
-<br>
-<br>
 
-まあまあ。
 
-<br>
-<br>
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>まあまあ。
+</p>
+  </div>
+</div>
+
+
 
 **肉はちょっぴり、紫いもにメインの座を奪われたステーキ**
 
-**「STEAK ON THE SIDE」**
+# **「STEAK ON THE SIDE」**
 
-**残念だ…残念過ぎる。**
+<br>
+
+# **写真**
 
 <br>
 <br>
 
-ちょっと食べてみたい気もするよね。
-
 <br>
 <br>
 
-そろそろ**キャラクターコラボカフェも飽きられてきた**頃だし、
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>残念だ…残念過ぎる。
+</p>
+  </div>
+</div>
+
+
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>でも、ちょっと食べてみたい気もするよね。
+</p>
+  </div>
+</div>
+
+
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>そろそろキャラクターコラボカフェも飽きられてきた頃だし、
 
 ディストピアレストランオープンしたら、案外ヒットするかもよ。
+</p>
+  </div>
+</div>
+
+
 
 <br>
 <br>
