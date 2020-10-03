@@ -10,29 +10,47 @@ tags:
 featuredimage: /img/yurutalk002.png
 issuedAt: 2020-08-29T17:33:16.896Z
 ---
-はじめまして、**なにか**です。
-<br>
-<br>
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>こんにちは、なにかです。
+</p>
+  </div>
+</div>
 
-ペットの**USA**です。宇宙人です。
-<br>
-<br>
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>ペットのUSAです。宇宙人です。
+</p>
+  </div>
+</div>
 
-友人の**UMA**です。おしゃれです。
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>友人のUMAです。おしゃれです。
+</p>
+  </div>
+</div>
 
-<br>
-<br>
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>ROBOです。冷蔵庫です。
+</p>
+  </div>
+</div>
 
-**ROBO**です。冷蔵庫です。
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>みなさま、はじめまして！
 
-<br>
-<br>
-
-みなさま、はじめまして！
-
-このコーナーでは、SFの気になる話題について、
-
-ゆるっと話していこうと思います。
+このコーナーでは、SFの気になる話題について、ゆるっと話していこうと思います。
+</p>
+  </div>
+</div>
 
 <br>
 <br>
@@ -42,23 +60,36 @@ issuedAt: 2020-08-29T17:33:16.896Z
 <br>
 <br>
 
-どうぞよろしく！
+
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>どうぞよろしく！
+</p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>・・・もうちょっとちゃんと紹介しなよ。
+</p>
+  </div>
+</div>
+
+
 
 <br>
 <br>
 
-・・・もうちょっとちゃんと紹介しなよ。
 
-<br>
-<br>
 
-というわけで、早速！
+**第一回のお題は・・・**
 
-第一回のお題は・・・
+# **「SF映画のごはんって、どうして全部マズそうなの！？」**
 
-#### 「SF映画のごはんって、どうして全部マズそうなの！？」
-
-です！
+**です！**
 
 <br>
 <br>
@@ -68,35 +99,60 @@ issuedAt: 2020-08-29T17:33:16.896Z
 <br>
 <br>
 
-#### **・・・SFっぽいからでしょ。**
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>・・・SFっぽいからでしょ。
+</p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>それを言ったらこのコーナーおしまいなんじゃ・・・
+</p>
+  </div>
+</div>
 
 <br>
 <br>
 
-それを言ったらこのコーナーおしまいなんじゃ・・・
+
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>でも一理あるよね。
+
+SF映画って基本的に未来が舞台になっているわけで、そこで現代風の美味しそうなごはんが出てきたら、世界観ぶちこわしだもん。
+</p>
+  </div>
+</div>
 
 <br>
 <br>
 
-でも一理あるよね。
 
-SF映画って基本的に未来が舞台になっているわけで、
 
-そこで現代風の美味しそうなごはんが出てきたら、
+# たしかに！
 
-世界観ぶちこわしだもん。
+# **アナキン・スカイウォーカーが、おにぎりとサバ味噌**なんか食べていたら、残念だよね！
 
 <br>
 <br>
 
-#### たしかに、宇宙船の中で**アナキン・スカイウォーカーが**
 
-#### **おにぎりとサバ味噌**なんか食べていたら、興ざめだよね。
 
-<br>
-<br>
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>アナキンだったらせめて洋食チョイスしてよ・・・
+</p>
+  </div>
+</div>
 
-アナキンだったらせめて洋食チョイスしてよ・・・
+
 
 <br>
 <br>
@@ -154,7 +210,6 @@ SF映画って基本的に未来が舞台になっているわけで、
 <br>
 <br>
 
-
 STARWARSみたいな作品に登場する、宇宙人の手足のぶつ切りみたいなアレも、
 
 もしかしたら、慣れなのかもしれない。
@@ -180,7 +235,6 @@ UMAくんは帰国子女だもんねー。
 <br>
 
 人類は一般的に、**暖色**で**色が濃い**食材の方が美味しそうに感じるらしい。
-
 
 食欲減退の**青色ダイエット**もそうだし、
 
@@ -235,8 +289,6 @@ SFっぽいごはんを再現できるってことかな。
 
 ・・・ありました！過去にJAXAがディストピアめしを提供しているよ。
 https://otakei.otakuma.net/archives/2018022302.html
-
-
 
 <br>
 <br>
