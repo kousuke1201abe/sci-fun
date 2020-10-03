@@ -84,7 +84,9 @@ issuedAt: 2020-08-29T17:33:16.896Z
 
 **第一回のお題は・・・**
 
-# **「SF映画のごはんって、どうして全部マズそうなの！？」**
+# **「SF映画のごはんって、**
+
+# **どうしてマズそうなの！？」**
 
 **です！**
 
@@ -99,7 +101,7 @@ issuedAt: 2020-08-29T17:33:16.896Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h5>・・・SFっぽいからでしょ。<h5></p>
+    <h5>SFっぽいからでしょ。<h5></p>
   </div>
 </div>
 
@@ -140,7 +142,7 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
   <div class="uma"></div>
   <div class="serif">
     <p>アナキンだったらせめて洋食チョイスしてよ・・・
-。
+
 </p>
   </div>
 </div>
@@ -160,10 +162,25 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 <br>
 <br>
 
+<!--StartFragment-->
+
+![http://scifi.stackexchange.com/questions/51297/why-were-they-eating-bowls-of-snot](https://theriver.jp/wp-content/uploads/2017/03/xpd8b.jpg)
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+<https://theriver.jp/sf-foods/>
+
+<!--EndFragment-->
+
+<br>
+<br>
+
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-    <p>SF映画では核戦争や自然災害で、食糧危機が起こる確率が高い！
+    <p>SF映画は核戦争や自然災害で、食糧危機が起こる確率が高い！
 </p>
   </div>
 </div>
@@ -187,7 +204,7 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    <p>そのマズそうな食事を美味しそうに食べている未来人の表情萌え。
+    <p>マズそうな食事を美味しそうに食べている未来人の顔にゾクゾクする。
 </p>
   </div>
 </div>
@@ -387,7 +404,13 @@ SFっぽいごはんを再現できるってことかな。
 <br>
 <br>
 
-# **クソまずそう。SFっぽい。**
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <div style="font-size: 30px;">クソまずそう。SFっぽい。</div>
+</p>
+  </div>
+</div>   
 
 <br>
 <br>
@@ -424,7 +447,17 @@ SFっぽいごはんを再現できるってことかな。
 
 # **過去にJAXAがディストピアめしを提供しているよ。**
 
-https://otakei.otakuma.net/archives/2018022302.html
+<!--StartFragment-->
+
+![](https://otakei.otakuma.net/wp/wp-content/uploads/2018/02/d40ecea12801f5e31f2455d89321221a.jpg)
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+<https://otakei.otakuma.net/archives/2018022302.html>
+
+<!--EndFragment-->
 
 <br>
 <br>
@@ -440,19 +473,29 @@ https://otakei.otakuma.net/archives/2018022302.html
 <br>
 <br>
 
-# **写真**
+<br>
+<br>
+
+「タコをだし汁のゼリーでコーティングした
+
+<div style="color: #db7093; font-size: 30px;">「CRYSTAL TACOYAKI」</div>
+
+と名付けられたタコ焼き。」
 
 <br>
 <br>
 
-#### 「タコをだし汁のゼリーでコーティングした
+<!--StartFragment-->
 
-# **「CRYSTAL TACOYAKI」**
+![](https://otakei.otakuma.net/wp/wp-content/uploads/2018/02/5dc80f379994eb5b0d005941bc8ce2fb.jpg)
 
-#### と名付けられたタコ焼き。」
+<!--EndFragment-->
 
-<br>
-<br>
+<!--StartFragment-->
+
+<https://otakei.otakuma.net/archives/2018022302.html>
+
+<!--EndFragment-->
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -470,13 +513,28 @@ https://otakei.otakuma.net/archives/2018022302.html
   </div>
 </div>
 
-**肉はちょっぴり、紫いもにメインの座を奪われたステーキ**
+<br><br>
+<br><br>
 
-# **「STEAK ON THE SIDE」**
+
+
+肉はちょっぴり、紫いもにメインの座を奪われたステーキ
+
+<div style="color: #db7093; font-size: 30px;">「STEAK ON THE SIDE」</div>
 
 <br>
 
-# **写真**
+<!--StartFragment-->
+
+![](https://otakei.otakuma.net/wp/wp-content/uploads/2018/02/5640b2140f84fbf18a5a65d183f51758.jpg)
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+<https://otakei.otakuma.net/archives/2018022302.html>
+
+<!--EndFragment-->
 
 <br>
 <br>
@@ -485,12 +543,25 @@ https://otakei.otakuma.net/archives/2018022302.html
 <br>
 
 <div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p><h1>Almost POTATO<h1>
+</p>
+  </div>
+</div>
+
+<div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
     <p>残念だ…残念過ぎる。
 </p>
   </div>
 </div>
+
+
+
+
+
 
 <div class="talk-right">
   <div class="robo"></div>
@@ -514,4 +585,103 @@ https://otakei.otakuma.net/archives/2018022302.html
 <br>
 <br>
 
-・・・なんかおなか空いてきちゃったので、今日のコーナーはこのへんでお開きにしようと思います。それでは！
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>ちょっとそろそろ美味しいものの話しよう。。
+</p>
+  </div>
+</div>
+
+<br>
+<br>
+
+<!--StartFragment-->
+
+![The Fifth Element (1997) - Siu Mei Lunch scene - YouTube](https://i.ytimg.com/vi/wRkW6lJBwPY/maxresdefault.jpg)
+
+<!--EndFragment-->https://www.youtube.com/watch?v=wRkW6lJBwPY
+
+
+
+<br><br>
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>フィフスエレメントの自宅の窓越しに来てくれる、屋台飛行艇は良かった。
+</p>
+  </div>
+</div>
+
+<br><br>
+
+<!--StartFragment-->
+
+![fifth-element Concept Art  I am so ready for the furture's Chinese Food air-boats.](https://i.pinimg.com/564x/5c/91/e9/5c91e9f6c12ecaee6e2e15a35ca97765.jpg)
+
+<!--EndFragment-->
+
+https://www.pinterest.fr/pin/726486983615159344/?nic_v2=1a5hclEEW
+
+
+
+<br><br>
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>未来のウーバーイーツ！
+
+</p>
+  </div>
+</div>
+
+<br><br>
+
+<!--StartFragment-->
+
+![ ](https://i.pinimg.com/564x/d6/56/1d/d6561d495be711d51f011b5d9e6ddc3e.jpg)
+
+<!--EndFragment-->
+
+
+
+<br><br>
+
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>フィフスエレメントのMcDonald's girl好き！
+</p>
+  </div>
+</div>
+
+
+
+<br><br>
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>夜も遅くなってきたし、そろそろウーバーでも頼むかね。
+</p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>賛成～♡
+
+</p>
+  </div>
+</div>
+
+
+
+<br><br>
+
+今日のコーナーはこのへんでお開きにしようと思います。
+
+皆さんもオススメのSFメシ、教えて下さいね！それでは！
