@@ -4,7 +4,7 @@ title: 「SF映画のごはんって、どうしてマズそうなの！？」
 featured: false
 description: "SF YURU TALK "
 categories:
-  - MOVIES
+  - CULTURE
 tags:
   - YURUTALK
 featuredimage: /img/yurutalk002.png
