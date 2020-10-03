@@ -2,11 +2,13 @@
 templateKey: blog-post
 title: 「SFに出てくるごはんって、どうしてマズそうなの！？」
 featured: false
-description: "SF YURU TALK "
+description: ""
 categories:
   - CULTURE
 tags:
   - YURUTALK
+  - BradeRunner
+  - Starwars
 featuredimage: /img/yurutalk002.png
 issuedAt: 2020-08-29T17:33:16.896Z
 ---
@@ -125,7 +127,7 @@ https://ameblo.jp/kensuzukitxt/entry-12323317669.html
   <div class="serif">
     <p>でも一理あるよね。
 
-SF映画って基本的に未来が舞台なわけで、そこで現実味ありすぎるごはんが出てきたら、世界観ぶちこわしだもん。
+SF映画って基本的に未来が舞台なわけで、そこで現実味ありすぎるごはんが出てきたら、世界観ぶちこわしだし。
 
 </p>
   </div>
@@ -195,6 +197,9 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 
 「**AIが調理した、栄養バランスが完璧な食事**」が出てくる。
 
+<br>
+<br>
+
 <!--StartFragment-->
 
 <!--StartFragment-->
@@ -202,6 +207,8 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 ![碇くん on Twitter: "エヴァQでシンジくんが食べたこの謎のペースト飯。作ってから写真撮ったらちゃんと料理ってスマホが認識してた思い出。… "](https://pbs.twimg.com/media/EWIAbU0U8AAcSdL.jpg)
 
 <!--EndFragment-->
+
+<br><br>
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -282,10 +289,13 @@ https://soylent.com/
 
  <div style="color: #db7093; font-size: 50px;">
 地球を大切に。
-<br>レッツ・サスティナブル！</div>
+<br>レッツ
 
-<br>
-<br>
+<br>サスティナブル！</div>
+
+
+
+<br><br>
 
 <div class="talk-right">
   <div class="usa"></div>
@@ -416,11 +426,13 @@ SFっぽいごはんを再現できるってことかな。
 <br>
 <br>
 
-# **写真**
+![](/img/o9vfwsaypgirerq1601710135_1601710160.jpg)
 
-# **写真**
 
-# **写真**
+
+![](/img/qt5rwlqsvqtryzf1601710302_1601710306.jpg)
+
+![](/img/3m4doe5wposgatk1601710340_1601710344.jpg)
 
 <br>
 <br>
