@@ -104,7 +104,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 \---------------------------------
 
-# ***エス‐エフ*【*ＳＦ*】** 
+# ***エス‐エフ*【*ＳＦ*】**
 
 (science fictionの略)科学の発想をもとにし、未来社会の人間を描く空想的小説。ヴェルヌの「海底二万里」やＨ.Ｇ.ウェルズの「タイムマシン」「宇宙戦争」などに始まる。空想科学小説。科学小説。
 
@@ -114,6 +114,8 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 \---------------------------------
 
+<br><br>
+
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
@@ -121,73 +123,180 @@ issuedAt: 2020-10-02T15:08:28.286Z
   </div>
 </div>
 
-# ここから先はちょっと書き方考える
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>とりあえずポイントは「未来」と「科学」にありそうだ。</p>
+  </div>
+</div>
 
 <br>
 
-とりあえず争点は「未来」と「科学」にありそうだ。
+
 
 <br>
 
-未来社会の人間を描く、というところが若干納得いかないけれど、
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>「過去」を描いたSFってあったっけ？</p>
+  </div>
+</div>
 
-「科学」であることはマストだよね。
 
-<br>
 
-その「科学」の定義が曖昧なんだよね。
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>バックトゥザフューチャーとか？</p>
+  </div>
+</div>
 
-<br>
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>デロリアンを開発したのは未来だから、「過去に行く」タイムトラベル系は過去ではない</p>
+  </div>
+</div>
 
-そうそう。ファンタジーとサイエンスの境界が分からないよね。
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>世界観が現代に近いやつは「近未来SF」ジャンルだね。</p>
+  </div>
+</div>
 
-<br>
 
-とりあえず「魔法」って言葉が出てきた時点でアウトだと思っている。
 
-<br>
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>パラレルワールド、いう線もある。</p>
+  </div>
+</div>
 
-「魔法」はセコい。どんなクソ理論でも科学的根拠が必要。
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>あれは未来いう時系列ではないけど、世界線が違うからなあ。例外として認める</p>
+  </div>
+</div>
 
-<br>
 
-うん、ハリーポッターがSFではないのは確か。
 
-<br>
+# **SFの条件①** 
 
-あくまで人類が発明した、(なにかしらの)根拠のある科学であることはマストかな。
+# **未来の世界、または別の次元の世界線が舞台になっている。**
 
-<br>
+　
 
-え、そうしたら現代社会に宇宙人侵略系はダメ？
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>「未来」はそれでOKとして「科学」であることはマストだよね。</p>
+  </div>
+</div>
 
-<br>
 
-宇宙人が発明した技術は？
 
-<br>
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>ただその「科学」の定義が曖昧なんだよね。</p>
+  </div>
+</div>
 
-宇宙人という未知の存在に対して、人類がどう対処するか、であればSFだと思う。
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">そうなんだよね
+    <p>ファンタジーとサイエンスの境界が分からないよね。</p>
+  </div>
+</div>
 
-<br>
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p<h5>とりあえず「魔法」って言葉が出てきた時点でアウトだと思っている。</h5></p>
+  </div>
+</div>
 
-ゴジラは？
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>「魔法」はセコい。SFならどんなクソ理論でも科学的根拠が必要。</p>
+  </div>
+</div>
 
-<br>
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>少なくともハリーポッターがSFではないのは確か。</p>
+  </div>
+</div>
 
-ゴジラは宇宙人じゃないでしょ。「人間の怨念が生み出した怪獣」
+# **SFの条件②** 
+
+# **「魔法」ダメ、ゼッタイ。**
+
+　
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>宇宙人侵略系はどう？</p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>未確認生命物体 VS 人類は、SFだと思う。</p>
+  </div>
+</div>
+
+
+
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>ゴジラは？   <h3>
+  </div>
+</div>
+
+<!--StartFragment-->
+
+![ソース画像を表示](https://img.cinematoday.jp/a/N0084553/_size_1200x/_v_1468407900/main.jpg)
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+<https://www.cinematoday.jp/news/N0084553>
+
+<!--EndFragment-->
+
+
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>ゴジラは宇宙人じゃないでしょ。「人間の怨念が生み出した怪獣」   <p>
+  </div>
+</div>
 
 <br>
 
 怨念、はちょっとアウトかもね。
 
-<br>
+シン・ゴジラではエネルギー源は核燃料だし、未確認生命物体VS人類だからSFでOK
+
+
 
 スーパーマンは宇宙人だよね。
 
-<br>
 
-うん、あいつはSFっぽくない。ウルトラマンに近い。
+
+そうなんだけど、なんかヒーローものはSF臭しないのだよね
 
 <br>
 
