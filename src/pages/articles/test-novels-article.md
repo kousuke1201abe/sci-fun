@@ -135,8 +135,6 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 
 
 
-# たしかに！
-
 # **アナキン・スカイウォーカーが、おにぎりとサバ味噌**なんか食べていたら、残念だよね！
 
 <br>
@@ -157,7 +155,7 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 <br>
 <br>
 
-その観点では、ディストピア系SFだと
+ディストピア系SFだと
 
 「核戦争により荒廃した世界では、穀物が実らなくなった。」
 
@@ -166,16 +164,54 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 <br>
 <br>
 
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>SF映画では核戦争や自然災害で、食糧危機が起こる確率が高い！
+</p>
+  </div>
+</div>
+
+<br><br>
+
+
+
 「ユートピア」や「人工知能」を描いた作品でも、
 
 「**AIが調理した、栄養バランスが完璧な食事**」が出てくる。
 
-食欲は湧かないんだけど・・・
+<br><br>
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>食欲は湧かないんだけど・・・
+</p>
+  </div>
+</div>
+
+
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>そのマズそうな食事を美味しそうに食べている未来人の表情萌え。
+</p>
+  </div>
+</div>
+
+<br>
 
 <br>
 <br>
 
-**Soylent(ソイレント)**みたいな完全栄養食はSFっぽいよね。
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>Soylent(ソイレント)みたいな完全栄養食はSFっぽいよね。
+</p>
+  </div>
+</div>
 
 <br>
 <br>
@@ -185,19 +221,41 @@ SF映画って基本的に未来が舞台になっているわけで、そこで
 <br>
 <br>
 
-いつか、ソイレントで生活する時代が本当に来るのかな。やだなあ
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>いつか、ソイレントで生活する時代が本当に来るのかな。やだなあ
+</p>
+  </div>
+</div>
+
+
 
 <br>
 <br>
 
-食糧危機が起こらなければ、来ないでしょ。
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>食糧危機が起こらなければ、きっと大丈夫。
+</p>
+  </div>
+</div>
 
-地球を大切に。**レッツ・サスティナブル！**
+# 地球を大切に。
+
+# **レッツ・サスティナブル！**
 
 <br>
 <br>
 
-ぼくはお寿司が好き。
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>ぼくはお寿司が好き。お寿司食べたい。
+</p>
+  </div>
+</div>
 <br>
 <br>
 
