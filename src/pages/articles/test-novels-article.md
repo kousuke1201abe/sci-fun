@@ -268,6 +268,8 @@ https://soylent.com/
 <br>
 <br>
 
+<br><br>
+
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
@@ -276,8 +278,14 @@ https://soylent.com/
   </div>
 </div>
 
+
+
+<br><br>
+
 <div style="color: #478384; font-size: 50px;">
 ウェエェエエエエエ</div>
+
+<br><br>
 
 <div class="talk-left">
   <div class="uma"></div>
