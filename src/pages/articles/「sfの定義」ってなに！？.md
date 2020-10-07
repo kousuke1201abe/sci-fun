@@ -164,6 +164,18 @@ issuedAt: 2020-10-02T15:08:28.286Z
 </div>
 </div>
 
+<!--StartFragment-->
+
+![裏山のヒグマに顔面を食われたドラえもん - ドラえもんへのボケ\[9159306\] - ボケて（bokete）](https://d2dcan0armyq93.cloudfront.net/photo/odai/400/e0a89da119b48d30a1eb2d2cc30b0a3a_400.jpg)
+
+<!--EndFragment-->
+
+https://bokete.jp/boke/9159306
+
+
+
+
+
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
@@ -380,6 +392,16 @@ issuedAt: 2020-10-02T15:08:28.286Z
   </div>
 </div>
 
+<!--StartFragment-->
+
+![誕生80周年！クリストファー・リーブ版映画『スーパーマン』Blu-ray新発売決定 ─  大阪・梅田でDCポップアップショップ、としまえんでコラボイベントも | THE RIVER](https://theriver.jp/wp-content/uploads/2018/03/cf0e1acbe8daf684794df179ad401fae-1024x660.jpg)
+
+<!--EndFragment-->
+
+https://theriver.jp/super-man-80-release/
+
+<br><br>
+
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
@@ -393,6 +415,16 @@ issuedAt: 2020-10-02T15:08:28.286Z
      <div style="color: #db7093; font-size: 20px;">全身赤タイツのおっさんは？ </div>
   </div>
 </div>
+
+<!--StartFragment-->
+
+![東映スパイダーマンのお題一覧 - ボケて（bokete）](https://d2dcan0armyq93.cloudfront.net/photo/odai/600/415d9695896b5a5621c1c2e4b2b6ccde_600.jpg)
+
+<!--EndFragment-->
+
+https://bokete.jp/odai/tag/%E6%9D%B1%E6%98%A0%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3
+
+
 
 <div class="talk-left">
   <div class="nanika"></div>
