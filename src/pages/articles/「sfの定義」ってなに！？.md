@@ -43,7 +43,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 <br><br>
 
-**・・・というわけで、第2回がやってきました。**
+　**　　・・・というわけで、第2回がやってきました。**
 
 <br><br>
 
@@ -63,19 +63,11 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 <br><br><br>
 
-**本日のゆるトークテーマは**
+　**　本日のテーマは**
 
-<br>
+# 　**　「SFの定義」ってなに！？**
 
-# **「SFの定義」ってなに！？**
-
-<br>
-
-**です。**
-
-<br>
-
-<br>
+<br><br>
 
 <div class="talk-right">
   <div class="usa"></div>
@@ -83,8 +75,6 @@ issuedAt: 2020-10-02T15:08:28.286Z
     <p>・・・個人の解釈に依ると思う。</p>
   </div>
 </div>
-
-<br>
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -100,7 +90,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
   </div>
 </div>
 
-<br>
+<br><br>
 
 \---------------------------------
 
@@ -130,9 +120,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
   </div>
 </div>
 
-<br>
-
-<br>
+<br><br>
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -151,7 +139,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
-    <p>デロリアンを開発したのは未来だから、「過去に行く」タイムトラベル系は過去ではない</p>
+    <p>デロリアンを発明したのは未来だから「過去に行く」タイムトラベル系は過去ではない</p>
   </div>
 </div>
 
@@ -179,7 +167,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-   <p>青いおっさんはSFなんだけど、秘密道具と四次元ポケットはチート感ある</p>
+   <p>青いおっさんはSFだけど、秘密道具と四次元ポケットはチート感ある</p>
 </div>
 </div>
 
@@ -198,13 +186,31 @@ issuedAt: 2020-10-02T15:08:28.286Z
 </div>
 
 <div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <div style="color: #4682b4; font-size: 40px;">だからいま！</div>
+</div>
+</div>
+
+<div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>あれは未来いう時系列ではないけど、世界線が違うからなあ。例外として認める</p>
+    <p>未来という時系列に当てはまらない気もするけど</p>
   </div>
 </div>
 
-## **SFの条件① 未来の世界、または別の世界線が舞台**
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>世界線が違う、は現代が舞台でもセーフかな。</p>
+  </div>
+</div>
+
+<br><br>
+
+## **SFの条件① 未来の世界 or 別の世界線が舞台**
+
+<br><br>
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -272,12 +278,12 @@ issuedAt: 2020-10-02T15:08:28.286Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h3>セーフ？ <h3>
+    <h3>うーん、セーフ？ <h3>
   </div>
 </div><br><br>
 
-**SFは、フィクションの法則に理屈が存在する。<br>
-ファンタジーは、フィクションの法則に理屈が存在しない物語。**
+　**　　SFは、フィクションの法則に理屈が存在する。<br>
+　　　ファンタジーは、フィクションの法則に理屈が存在しない物語。**
 
 <br><br>
 
@@ -285,6 +291,13 @@ issuedAt: 2020-10-02T15:08:28.286Z
   <div class="usa"></div>
   <div class="serif">
     <p>SF作品で、理屈がない事象が起きると、めんどくさいSFファンがキレるよ！SF作品作る時は気をつけよう！</p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>SFファンのNGワード<br><h3>魔法・愛・奇跡<h3></p>
   </div>
 </div>
 
@@ -302,8 +315,6 @@ issuedAt: 2020-10-02T15:08:28.286Z
   </div>
 </div>
 
-
-
 ## **SFの条件② 「魔法」ダメ、ゼッタイ。**
 
 <div class="talk-left">
@@ -316,7 +327,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-    <p>未確認生命物体 VS 人類は、SFだと思う。</p>
+    <p>宇宙人VS 人類は、SFだと思う。</p>
   </div>
 </div>
 
@@ -372,21 +383,21 @@ issuedAt: 2020-10-02T15:08:28.286Z
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>そうなんだけど、なんかヒーローものはSF臭しないのだよね  <p>
+    <p>そうなんだけど、なんかアメコミヒーローはSF感が弱いんだよね  <p>
   </div>
 </div>
 
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <p>なら全身赤タイツのお兄さんは？ <p>
+     <div style="color: #db7093; font-size: 20px;">全身赤タイツのおっさんは？ </div>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-    <p>「蜘蛛に噛まれて遺伝子が変異」 <p>
+    <h5>「蜘蛛に噛まれて遺伝子が変異」 <h5>
   </div>
 </div>
 
@@ -407,18 +418,16 @@ issuedAt: 2020-10-02T15:08:28.286Z
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    <p>非科学的なことでも、理屈さえ存在すればOK？<p>
+    <p>非科学的でも、理屈さえ存在すればOK？<p>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
-    <p>ゴーストバスターズとかね。一応ゴーストを科学しているからね<p>
+    <p>ゴーストバスターズとかね。一応ゴーストを科学しているから<p>
   </div>
 </div>
-
-
 
 ## まとめ
 
@@ -426,7 +435,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 **①タイムトラベル系：**
 
-　タイムトラベルの方法に理屈がある必要がある。
+　タイムトラベルの方法に理屈が必要。
 
 　「魔法で時空間移動」「気が付けば過去の世界にトリップ！」はNG
 
@@ -440,36 +449,36 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 　薬物などによる遺伝子的な突然変異などは理屈があるのでOK
 
-　「魔法使い」は基本的にNG。
+　「魔法使い」はNG。
 
-　スーパーヒーローは、ヒーローとなった経緯に「理屈」があるか
+　スーパーヒーローは、ヒーローの能力・経緯に「理屈」があるか
 
 **④未確認生命物体系**
 
 　未確認生命物体に対して、人類が科学の力によって応戦・交渉する
 
-　プリキュアはNG、ウルトラマンは両方宇宙人だからセーフ？
+　プリキュアはNG
 
 **⑤AI系**
 
-　人工知能はそのものが科学なので、基本的にはOK
+　人工知能はそのものが科学的根拠があるので、基本的にはOK
 
 **⑥ディストピア系**
 
-　未来の人間社会を描いていることが前提、魔法は禁止。
+　未来の人間社会を描いていることが前提なのでOK、魔法は禁止。
 
 **⑦パラレルワールド系**
 
-　異次元空間の存在証明が必要
+　異次元空間の存在に科学的根拠が必要
 
-　ゲームの世界に転生しちゃった♡はファンタジー
+　突然ゲームの世界に転生しちゃった♡はファンタジー
 
-
+<br><br>
 
 <div class="talk-left">
-  <div class="robo"></div>
+  <div class="nanika"></div>
   <div class="serif">
-    <p>作者が「これは魔法ではない！！科学だ！！」という強い気持ちがあればSFってことでいいかな。<p>
+    <p>魔法みたいな技術でも、作者が「これは魔法ではない！！科学だ！！」という強い気持ちがあればSFってことでいいかな。<p>
   </div>
 </div>
 
@@ -481,45 +490,26 @@ issuedAt: 2020-10-02T15:08:28.286Z
 </div>
 
 <div class="talk-left">
-  <div class="nanika"></div>
+  <div class="robo"></div>
   <div class="serif">
     <p>こうやって並べると、SFって一括りにしても本当に幅広いよね。<p>
   </div>
 </div>
 
 <div class="talk-right">
-  <div class="robo"></div>
-  <div class="serif">
-    <p>結局のところ、別に「SF」でも「SF」でなくても面白かったらOKだけど、クライマックスで「魔法」とか「奇跡」とか「愛の力」とか「神の力」
-
-で全てを解決されると、SFファンとしては興ざめしちゃうんだよね。<p>
-  </div>
-</div>
-
-<div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>人間の知性が及ばない範疇が出てきた時の対象法が「魔法」か「神」か「科学」なのか<p>
-  </div>
-</div>
+    <p>結局のところ、別に「SF」でも「SF」でなくても面白かったらOKだけど、クライマックスで「魔法」とか「奇跡」とか「愛」とか「神」が登場して全てを解決されると、SFファンとしては興ざめしちゃうんだよね。<p>
 
-<div class="talk-right">
-  <div class="robo"></div>
-  <div class="serif">
-    <p>すべてのファンタジーは科学的に証明可能か<p>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-    <p>おもしろいよねー、空想科学読本<p>
+    <p>ハリウッドは結局、殴り合いで解決している気がするけれど<p>
   </div>
 </div>
-
-
-
-
 
 <div class="talk-right">
   <div class="uma"></div>
@@ -529,19 +519,12 @@ issuedAt: 2020-10-02T15:08:28.286Z
 </div>
 
 <div class="talk-left">
-  <div class="nanika"></div>
-  <div class="serif">
-    <p>これだからSFファンは「めんどくさい」って嫌われるんだよ<p>
-  </div>
-</div>
-
-<div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h3>ゴジラが好き！！！！<h3>
+    <h3>ゴジラが好き！！！<br>東京ドカンしたい！！！<h3>
   </div>
 </div>
 
 <br>
 
-じゃあそういうわけで。解散！
+### 　　　　・・・解散！
