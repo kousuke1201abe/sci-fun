@@ -193,9 +193,30 @@ issuedAt: 2020-10-06T11:12:33.774Z
   </div>
 </div>
 
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>やっぱり個性出るね～<p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>記事書いてるの、一人なんだけどね～<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>今回はちゃんとリサーチしたからね。<p>
+  </div>
+</div>
+
 <br><br>
 
-**お気にいりのSFサントラがあったら教えてくださいね。**
+**みなさんも、お気にいりのSFサントラがあったら教えてくださいね。**
 
 <br><br>
 
@@ -205,6 +226,12 @@ issuedAt: 2020-10-06T11:12:33.774Z
     <p>公式Twitterに送ってね！<p>
   </div>
 </div>
+
+
+
+
+
+
 
 <br>
 
