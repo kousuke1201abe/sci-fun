@@ -7,7 +7,7 @@ categories:
   - CULTURE
 tags:
   - YURUTALK
-featuredimage: /img/sfyututalk.png
+featuredimage: /img/sftop002.png
 issuedAt: 2020-10-02T15:08:28.286Z
 ---
 <div class="talk-left">
