@@ -132,8 +132,6 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 <br>
 
-
-
 <br>
 
 <div class="talk-left">
@@ -142,8 +140,6 @@ issuedAt: 2020-10-02T15:08:28.286Z
     <p>「過去」を描いたSFってあったっけ？</p>
   </div>
 </div>
-
-
 
 <div class="talk-right">
   <div class="nanika"></div>
@@ -160,13 +156,39 @@ issuedAt: 2020-10-02T15:08:28.286Z
 </div>
 
 <div class="talk-right">
-  <div class="uma"></div>
+  <div class="usa"></div>
   <div class="serif">
-    <p>世界観が現代に近いやつは「近未来SF」ジャンルだね。</p>
+    <p>「ぼく、未来から来たんだ。」系は？</p>
   </div>
 </div>
 
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>時をかけるなにかちゃん？</p>
+  </div>
+</div>
 
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <div style="color: #4682b4; font-size: 40px;">青いおっさん？</div>
+</div>
+</div>
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+   <p>青いおっさんはSFなんだけど、秘密道具と四次元ポケットはチート感ある</p>
+</div>
+</div>
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>コメディ系のSFは基本的に科学的根拠はユルい。</p>
+  </div>
+</div>
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -182,11 +204,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
   </div>
 </div>
 
-
-
 ## **SFの条件① 未来の世界、または別の世界線が舞台**
-
-　
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -194,8 +212,6 @@ issuedAt: 2020-10-02T15:08:28.286Z
     <p>「未来」はそれでOKとして「科学」であることはマストだよね。</p>
   </div>
 </div>
-
-
 
 <div class="talk-right">
   <div class="usa"></div>
@@ -232,10 +248,8 @@ issuedAt: 2020-10-02T15:08:28.286Z
   </div>
 </div>
 
-
-
 <div class="talk-left">
-  <div class="nanika"></div>
+  <div class="uma"></div>
   <div class="serif">
     <p>「魔法と科学が融合する世界」は？</p>
   </div>
@@ -255,22 +269,42 @@ issuedAt: 2020-10-02T15:08:28.286Z
   </div>
 </div>
 
-
-
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
     <h3>セーフ？ <h3>
   </div>
+</div><br><br>
+
+**SFは、フィクションの法則に理屈が存在する。<br>
+ファンタジーは、フィクションの法則に理屈が存在しない物語。**
+
+<br><br>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>SF作品で、理屈がない事象が起きると、めんどくさいSFファンがキレるよ！SF作品作る時は気をつけよう！</p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>SF好きって理屈っぽいオタク多いよね♡</p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>ケンカ売っちゃダメ。</p>
+  </div>
 </div>
 
 
 
-
-
 ## **SFの条件② 「魔法」ダメ、ゼッタイ。**
-
-　
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -285,8 +319,6 @@ issuedAt: 2020-10-02T15:08:28.286Z
     <p>未確認生命物体 VS 人類は、SFだと思う。</p>
   </div>
 </div>
-
-
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -307,8 +339,6 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 <!--EndFragment-->
 
-
-
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
@@ -318,35 +348,75 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 <br>
 
-怨念、はちょっとアウトかもね。
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>さっきのルールだと「怨念」は魔法に近いからアウトかも   <p>
+  </div>
+</div>
 
-シン・ゴジラではエネルギー源は核燃料だし、未確認生命物体VS人類だからSFでOK
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>シン・ゴジラはエネルギー源は核燃料だし、未確認生命物体VS人類だからSFで良い。というかSFとしたい。  <p>
+  </div>
+</div>
 
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>スーパーマンは宇宙人だよね。  <p>
+  </div>
+</div>
 
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>そうなんだけど、なんかヒーローものはSF臭しないのだよね  <p>
+  </div>
+</div>
 
-スーパーマンは宇宙人だよね。
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>なら全身赤タイツのお兄さんは？ <p>
+  </div>
+</div>
 
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>「蜘蛛に噛まれて遺伝子が変異」 <p>
+  </div>
+</div>
 
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>グレーだね。かなりファンタジー寄り。<p>
+  </div>
+</div>
 
-そうなんだけど、なんかヒーローものはSF臭しないのだよね
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>MARVELとDCは基本的にグレーだ。<p>
+  </div>
+</div>
 
-<br>
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>非科学的なことでも、理屈さえ存在すればOK？<p>
+  </div>
+</div>
 
-ならスパイダーマンは？
-
-「蜘蛛に噛まれて遺伝子が変異」
-
-<br>
-
-グレーだね。かなりファンタジー寄り。
-
-<br>
-
-MARVELとDCは基本的にグレーだ。
-
-<br>
-
-
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>ゴーストバスターズとかね。一応ゴーストを科学しているからね<p>
+  </div>
+</div>
 
 
 
@@ -356,25 +426,27 @@ MARVELとDCは基本的にグレーだ。
 
 **①タイムトラベル系：**
 
-　タイムトラベルできる「技術」が開発されていることが必要
+　タイムトラベルの方法に理屈がある必要がある。
 
-　タイムトラベルの手法が「魔法」はNG
+　「魔法で時空間移動」「気が付けば過去の世界にトリップ！」はNG
 
 **②宇宙旅行系**
 
-　開発した宇宙船に乗り探検・または戦争ものは基本的にOK
+　開発した宇宙船に乗り探検する、宇宙戦争など基本的にOK
 
-　スターウォーズは過去なのでNG。
+　スターウォーズは「過去」が舞台なのでNG
 
 **③進化した人類系**
 
-　遺伝子的な改造・突然変異・薬物などはOKだが
+　薬物などによる遺伝子的な突然変異などは理屈があるのでOK
 
-　「魔法使い」は基本的にNG。スーパーヒーロー系はここがボーダー
+　「魔法使い」は基本的にNG。
 
-**④地球外生命体侵略系**
+　スーパーヒーローは、ヒーローとなった経緯に「理屈」があるか
 
-　未確認生命物体に対して、人類が科学の力によって応戦・交渉することが重要
+**④未確認生命物体系**
+
+　未確認生命物体に対して、人類が科学の力によって応戦・交渉する
 
 　プリキュアはNG、ウルトラマンは両方宇宙人だからセーフ？
 
@@ -388,34 +460,88 @@ MARVELとDCは基本的にグレーだ。
 
 **⑦パラレルワールド系**
 
-　内容次第で賛否が別れる。
+　異次元空間の存在証明が必要
+
+　ゲームの世界に転生しちゃった♡はファンタジー
+
+
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>作者が「これは魔法ではない！！科学だ！！」という強い気持ちがあればSFってことでいいかな。<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>まぁいいんじゃない？<p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>こうやって並べると、SFって一括りにしても本当に幅広いよね。<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>結局のところ、別に「SF」でも「SF」でなくても面白かったらOKだけど、クライマックスで「魔法」とか「奇跡」とか「愛の力」とか「神の力」
+
+で全てを解決されると、SFファンとしては興ざめしちゃうんだよね。<p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>人間の知性が及ばない範疇が出てきた時の対象法が「魔法」か「神」か「科学」なのか<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>すべてのファンタジーは科学的に証明可能か<p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>おもしろいよねー、空想科学読本<p>
+  </div>
+</div>
 
 
 
 
 
-要するに、作者が「これは魔法ではない！！科学だ！！」という強い気持ちがあればSFってことでいいかな。
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>SFファンとしてはヘンテコ科学もSFの醍醐味だから、議論の余地を残してほしい。<p>
+  </div>
+</div>
 
-<br><br>
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>これだからSFファンは「めんどくさい」って嫌われるんだよ<p>
+  </div>
+</div>
 
-色々抜け漏れがある気がするけど、まぁいいんじゃない？
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>ゴジラが好き！！！！<h3>
+  </div>
+</div>
 
-<br><br>
-
-
-
-こうやって並べると、SFって一括りにしても本当に幅広いよね。
-
-
-
-結局のところ、別に「SF」でも「SF」でなくても
-
-面白かったらOKだけど
-
-クライマックスで「魔法」とか「奇跡」とか「愛の力」とか「神の力」
-
-で全てを解決されると、SFファンとしては興ざめしちゃうんだよね。
-
-SFファンとしてはヘンテコ科学もSFの醍醐味だから、議論の余地を残してほしい。
+<br>
 
 じゃあそういうわけで。解散！
