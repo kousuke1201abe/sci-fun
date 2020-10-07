@@ -12,7 +12,7 @@ issuedAt: 2020-10-06T14:11:58.321Z
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-    <p>こんにちは、なにかです。
+    <p>こんにちは！なにかです。
 </p>
   </div>
 </div>
@@ -122,9 +122,9 @@ https://ameblo.jp/kensuzukitxt/entry-12323317669.html
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-    <p>でも一理あるよね。
+    <p>軽く思い出す限り、たしかにマズそうなこと多いよね
 
-SF映画って基本的に未来が舞台なわけで、そこで現実味ありすぎるごはんが出てきたら、世界観ぶちこわしだし。
+まあ、SF映画って基本的に未来が舞台だし、そこで現実味ありすぎるごはんが出てきたら、世界観ぶちこわしなのかも。
 
 </p>
   </div>
@@ -190,8 +190,6 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 
 <br><br>
 
-「ユートピア」や「人工知能」を描いた作品でも、
-
 「**AIが調理した、栄養バランスが完璧な食事**」が出てくる。
 
 <br>
@@ -210,11 +208,18 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>エヴァQのシンジくんのごはんがそれっぽい
-
-</p>
+    <p>エヴァQのシンジくんのごはんがそれっぽい</p>
   </div>
 </div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <h5>まぢ無理。<h5></p>
+  </div>
+</div>
+
+<br><br>
 
 ![『スター・ウォーズ』に出てくる｢ブルー・ミルク｣はマズイらしい。マーク・ハミルがツイート](https://assets.media-platform.com/gizmodo/dist/images/2019/09/02/190903_bluemilk-w1280.png)
 
@@ -222,11 +227,20 @@ SF映画って基本的に未来が舞台なわけで、そこで現実味あり
 
 <br><br>
 
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <h5>出た、ブルーミルク。<h5></p>
+  </div>
+</div>
+
+
+
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>食欲湧かないんだけど・・・
-</p>
+    <h5>なんの乳だよ。これ。
+</h5>
   </div>
 </div>
 
@@ -617,7 +631,7 @@ SFっぽいごはんを再現できるってことかな。
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-    <p>ちょっとそろそろ美味しいものの話しよう。。
+    <p>あ、美味しいもの出てくるSF思い出した！
 </p>
   </div>
 </div>
@@ -680,7 +694,21 @@ https://www.pinterest.fr/pin/726486983615159344/?nic_v2=1a5hclEEW
   </div>
 </div>
 
-<br><br>
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>コスチュームは労働社会階級の象徴としてゴルチエがデザインしたのだけどね、やっぱりかわいいと思っちゃうよね。
+</p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>ポテト食べたーい！
+<h3>
+  </div>
+</div>
 
 <div class="talk-right">
   <div class="robo"></div>
