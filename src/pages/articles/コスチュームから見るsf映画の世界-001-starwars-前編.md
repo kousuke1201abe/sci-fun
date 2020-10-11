@@ -138,7 +138,6 @@ ep.4-6以降の、帝国の支配とジェダイが激減して、人々が希�
 
 ![](https://lh3.googleusercontent.com/Ji4ilbBQBzCfJqUF3CaBOhOx04iLJDjzjTf7SgbjB2v4e4KHwXTmvHIeUD-BZb2hc6jL_bgEKjm0AR_7QaHnf41wECr9EaecABr7QmLImh76w6OuqM-40lAh_nIwXlLc8-Uj6RlS)
 
-\
 <!--EndFragment-->
 
 
