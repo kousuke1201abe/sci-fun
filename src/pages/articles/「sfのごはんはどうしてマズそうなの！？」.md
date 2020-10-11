@@ -92,7 +92,6 @@ issuedAt: 2020-10-06T14:11:58.321Z
 
 ![https://ameblo.jp/kensuzukitxt/entry-12323317669.html](/img/o0627035414057358007.jpg)
 
-
 <br>
 <br>
 
@@ -161,8 +160,10 @@ issuedAt: 2020-10-06T14:11:58.321Z
 <br>
 
 
-![http://scifi.stackexchange.com/questions/51297/why-were-they-eating-bowls-of-snot](https://theriver.jp/wp-content/uploads/2017/03/xpd8b.jpg)
-出典: [the river](https://theriver.jp/sf-foods/)
+
+![sffood](/img/sf-food.jpg "sffood")
+
+出典: [StackExchange](https://scifi.stackexchange.com/questions/51297/why-were-they-eating-bowls-of-snot)
 
 <br>
 <br>
@@ -181,7 +182,6 @@ issuedAt: 2020-10-06T14:11:58.321Z
 
 <br>
 <br>
-
 
 ![碇くん on Twitter: "エヴァQでシンジくんが食べたこの謎のペースト飯。作ってから写真撮ったらちゃんと料理ってスマホが認識してた思い出。… "](https://pbs.twimg.com/media/EWIAbU0U8AAcSdL.jpg)
 
@@ -217,8 +217,6 @@ issuedAt: 2020-10-06T14:11:58.321Z
   </div>
 </div>
 
-
-
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
@@ -235,11 +233,6 @@ issuedAt: 2020-10-06T14:11:58.321Z
   </div>
 </div>
 
-<br>
-
-<br>
-<br>
-
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
@@ -251,9 +244,9 @@ issuedAt: 2020-10-06T14:11:58.321Z
 <br>
 <br>
 
-![https://www.google.com/search?q=%E3%82%BD%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88&sxsrf=ALeKk03gtOdb4L6wGC9pAfK3c74xeCGQRQ:1601641400428&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj9i-uV85XsAhWGHKYKHU3HC7cQ_AUoA3oECBoQBQ&biw=1282&bih=649#imgrc=rComGsLWL25miM](/img/unnamed.jpg)
+![soylent](/img/soylent.jpg "soylent")
 
-出典: [soylent](https://soylent.com/)
+出典: [beveragedaily.com](https://www.beveragedaily.com/Article/2018/09/17/Soylent-cult-following-in-the-US-leads-to-UK-launch)
 
 <br>
 <br>
@@ -292,10 +285,7 @@ issuedAt: 2020-10-06T14:11:58.321Z
 </p>
   </div>
 </div>
-<br>
-<br>
 
-<br><br>
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -358,9 +348,6 @@ issuedAt: 2020-10-06T14:11:58.321Z
   </div>
 </div>
 
-<br>
-<br>
-
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
@@ -397,9 +384,6 @@ SFっぽいごはんを再現できるってことかな。
 </p>
   </div>
 </div>
-
-<br>
-<br>
 
 <div class="talk-right">
   <div class="robo"></div>
@@ -464,9 +448,6 @@ SFっぽいごはんを再現できるってことかな。
   </div>
 </div>
 
-<br>
-<br>
-
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
@@ -480,11 +461,9 @@ SFっぽいごはんを再現できるってことかな。
 
 # **過去にJAXAがディストピアめしを提供しているよ。**
 
-
 ![](https://otakei.otakuma.net/wp/wp-content/uploads/2018/02/d40ecea12801f5e31f2455d89321221a.jpg)
 
 出典: [おたくま経済新聞](https://otakei.otakuma.net/archives/2018022302.html)
-
 
 <br>
 <br>
@@ -511,10 +490,10 @@ SFっぽいごはんを再現できるってことかな。
 
 <br>
 <br>
+
 ![](https://otakei.otakuma.net/wp/wp-content/uploads/2018/02/5dc80f379994eb5b0d005941bc8ce2fb.jpg)
 
 出典: [おたくま経済新聞](https://otakei.otakuma.net/archives/2018022302.html)
-
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -544,9 +523,6 @@ SFっぽいごはんを再現できるってことかな。
 ![](https://otakei.otakuma.net/wp/wp-content/uploads/2018/02/5640b2140f84fbf18a5a65d183f51758.jpg)
 
 出典: [おたくま経済新聞](https://otakei.otakuma.net/archives/2018022302.html)
-
-<br>
-<br>
 
 <br>
 <br>
@@ -586,8 +562,7 @@ SFっぽいごはんを再現できるってことかな。
   </div>
 </div>
 
-<br>
-<br>
+
 
 <div class="talk-right">
   <div class="uma"></div>
@@ -599,7 +574,6 @@ SFっぽいごはんを再現できるってことかな。
 
 <br>
 <br>
-
 
 ![The Fifth Element (1997) - Siu Mei Lunch scene - YouTube](https://i.ytimg.com/vi/wRkW6lJBwPY/maxresdefault.jpg)
 
@@ -616,7 +590,6 @@ SFっぽいごはんを再現できるってことかな。
 </div>
 
 <br><br>
-
 
 ![fifth-element Concept Art  I am so ready for the furture's Chinese Food air-boats.](https://i.pinimg.com/564x/5c/91/e9/5c91e9f6c12ecaee6e2e15a35ca97765.jpg)
 
@@ -635,9 +608,7 @@ SFっぽいごはんを再現できるってことかな。
 
 <br><br>
 
-
 ![](https://i.pinimg.com/564x/d6/56/1d/d6561d495be711d51f011b5d9e6ddc3e.jpg)
-
 
 <br><br>
 
