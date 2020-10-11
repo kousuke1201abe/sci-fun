@@ -6,7 +6,7 @@ categories:
   - CULTURE
 tags:
   - YURUTALK
-featuredimage: /img/usa.png
+featuredimage: /img/サントラ.png
 issuedAt: 2020-10-06T11:12:33.774Z
 ---
 <div class="talk-left">
