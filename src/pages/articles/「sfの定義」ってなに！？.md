@@ -37,7 +37,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-    <p>Roboです。テネット4回見た。</p>
+    <p>ROBOです。テネット4回見た。</p>
   </div>
 </div>
 
@@ -92,17 +92,12 @@ issuedAt: 2020-10-02T15:08:28.286Z
 
 <br><br>
 
-\---------------------------------
 
-# ***エス‐エフ*【*ＳＦ*】**
-
+># ***エス‐エフ*【*ＳＦ*】**
 (science fictionの略)科学の発想をもとにし、未来社会の人間を描く空想的小説。ヴェルヌの「海底二万里」やＨ.Ｇ.ウェルズの「タイムマシン」「宇宙戦争」などに始まる。空想科学小説。科学小説。
 
-**出展：広辞苑**　
+出典: [広辞苑](https://sakura-paris.org/dict/%E5%BA%83%E8%BE%9E%E8%8B%91/prefix/SF)
 
-<https://sakura-paris.org/dict/%E5%BA%83%E8%BE%9E%E8%8B%91/prefix/SF>
-
-\---------------------------------
 
 <br><br>
 
@@ -120,7 +115,7 @@ issuedAt: 2020-10-02T15:08:28.286Z
   </div>
 </div>
 
-<br><br>
+
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -164,23 +159,20 @@ issuedAt: 2020-10-02T15:08:28.286Z
 </div>
 </div>
 
-<!--StartFragment-->
 
 ![裏山のヒグマに顔面を食われたドラえもん - ドラえもんへのボケ\[9159306\] - ボケて（bokete）](https://d2dcan0armyq93.cloudfront.net/photo/odai/400/e0a89da119b48d30a1eb2d2cc30b0a3a_400.jpg)
 
-<!--EndFragment-->
-
-https://bokete.jp/boke/9159306
+出典: [bokete](https://bokete.jp/boke/9159306)
 
 
-
+<br>
 
 
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
    <p>青いおっさんはSFだけど、秘密道具と四次元ポケットはチート感ある</p>
-</div>
+  </div>
 </div>
 
 <div class="talk-right">
@@ -352,13 +344,12 @@ https://bokete.jp/boke/9159306
 
 <!--StartFragment-->
 
-![ソース画像を表示](https://img.cinematoday.jp/a/N0084553/_size_1200x/_v_1468407900/main.jpg)
+![ゴジラ](https://img.cinematoday.jp/a/N0084553/_size_1200x/_v_1468407900/main.jpg)
 
 <!--EndFragment-->
 
 <!--StartFragment-->
-
-<https://www.cinematoday.jp/news/N0084553>
+出典: [シネマトゥデイ](https://www.cinematoday.jp/news/N0084553)
 
 <!--EndFragment-->
 
@@ -397,10 +388,9 @@ https://bokete.jp/boke/9159306
 ![誕生80周年！クリストファー・リーブ版映画『スーパーマン』Blu-ray新発売決定 ─  大阪・梅田でDCポップアップショップ、としまえんでコラボイベントも | THE RIVER](https://theriver.jp/wp-content/uploads/2018/03/cf0e1acbe8daf684794df179ad401fae-1024x660.jpg)
 
 <!--EndFragment-->
+出典: [the river](https://theriver.jp/super-man-80-release/)
 
-https://theriver.jp/super-man-80-release/
-
-<br><br>
+<br>
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -416,13 +406,10 @@ https://theriver.jp/super-man-80-release/
   </div>
 </div>
 
-<!--StartFragment-->
 
 ![東映スパイダーマンのお題一覧 - ボケて（bokete）](https://d2dcan0armyq93.cloudfront.net/photo/odai/600/415d9695896b5a5621c1c2e4b2b6ccde_600.jpg)
 
-<!--EndFragment-->
-
-https://bokete.jp/odai/tag/%E6%9D%B1%E6%98%A0%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3
+出典: [bokete](https://bokete.jp/odai/tag/%E6%9D%B1%E6%98%A0%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3)
 
 
 
@@ -505,7 +492,7 @@ https://bokete.jp/odai/tag/%E6%9D%B1%E6%98%A0%E3%82%B9%E3%83%91%E3%82%A4%E3%83%8
 
 　突然ゲームの世界に転生しちゃった♡はファンタジー
 
-<br><br>
+<br>
 
 <div class="talk-left">
   <div class="nanika"></div>
