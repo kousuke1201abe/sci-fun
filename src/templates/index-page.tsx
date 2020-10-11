@@ -110,7 +110,6 @@ IndexPageTemplate.propTypes = {
 
 const IndexPage = ({ data }) => {
   const posts = data.allMarkdownRemark
-  console.log(posts.edges[0].node.frontmatter)
 
   return (
     <Layout>
