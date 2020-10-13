@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: 「SFのごはんはどうしてマズそうなの！？」
 featured: false
+description: SFの気になるテーマについて、ゆるっとまるっとトークするコーナーです。
 categories:
   - CULTURE
 tags:
