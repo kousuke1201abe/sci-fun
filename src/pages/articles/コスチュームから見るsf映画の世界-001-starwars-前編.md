@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: "コスチュームから見るSF映画の世界  #001 STARWARS 前編"
-featured: false
-description: "\n"
+featured: true
+description: 省略
 categories:
   - MOVIES
 tags:
