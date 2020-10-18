@@ -1,7 +1,8 @@
 ---
 templateKey: blog-post
 title: PS5って何がすごいの？【スペックまとめ】
-featured: false
+featured: true
+description: 常に進化し続けるコンシューマーゲーム。画質の向上など目に見える変化はあるものの、実際のところPS5には前作からどのような進化が見られるのか？そのスペックを元にして詳細に解説していく。
 categories:
   - GADGETS
 tags:
