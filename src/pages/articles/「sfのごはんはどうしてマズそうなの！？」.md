@@ -247,7 +247,7 @@ issuedAt: 2020-10-06T14:11:58.321Z
 
 ![soylent](/img/soylent.jpg "soylent")
 
-出典: [beveragedaily.com](https://www.beveragedaily.com/Article/2018/09/17/Soylent-cult-following-in-the-US-leads-to-UK-launch)
+引用元: [beveragedaily.com](https://www.beveragedaily.com/Article/2018/09/17/Soylent-cult-following-in-the-US-leads-to-UK-launch)
 
 <br>
 <br>
