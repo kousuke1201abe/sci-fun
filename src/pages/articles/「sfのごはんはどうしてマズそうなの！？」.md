@@ -160,8 +160,6 @@ issuedAt: 2020-10-06T14:11:58.321Z
 <br>
 <br>
 
-
-
 ![sffood](/img/sf-food.jpg "sffood")
 
 出典: [StackExchange](https://scifi.stackexchange.com/questions/51297/why-were-they-eating-bowls-of-snot)
@@ -287,7 +285,6 @@ issuedAt: 2020-10-06T14:11:58.321Z
   </div>
 </div>
 
-
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
@@ -380,7 +377,7 @@ issuedAt: 2020-10-06T14:11:58.321Z
   <div class="serif">
     <p>ということは、写真の色味を反転させたら、
 
-SFっぽいごはんを再現できるってことかな。
+SFっぽいごはんを再現できるってことかな
 
 </p>
   </div>
@@ -562,8 +559,6 @@ SFっぽいごはんを再現できるってことかな。
 </p>
   </div>
 </div>
-
-
 
 <div class="talk-right">
   <div class="uma"></div>
