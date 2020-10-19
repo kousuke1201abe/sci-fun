@@ -91,7 +91,9 @@ issuedAt: 2020-10-06T14:11:58.321Z
 <br>
 <br>
 
-![https://ameblo.jp/kensuzukitxt/entry-12323317669.html](/img/o0627035414057358007.jpg)
+![sffood](/img/sf-food1.jpg "sffood")
+
+引用元: [http://futatsudejubun.blogspot.com/2011/09/blog-post_12.html](http://futatsudejubun.blogspot.com/2011/09/blog-post_12.html)
 
 <br>
 <br>
@@ -162,7 +164,7 @@ issuedAt: 2020-10-06T14:11:58.321Z
 
 ![sffood](/img/sf-food.jpg "sffood")
 
-出典: [StackExchange](https://scifi.stackexchange.com/questions/51297/why-were-they-eating-bowls-of-snot)
+引用元: [StackExchange](https://scifi.stackexchange.com/questions/51297/why-were-they-eating-bowls-of-snot)
 
 <br>
 <br>
@@ -184,7 +186,7 @@ issuedAt: 2020-10-06T14:11:58.321Z
 
 ![碇くん on Twitter: "エヴァQでシンジくんが食べたこの謎のペースト飯。作ってから写真撮ったらちゃんと料理ってスマホが認識してた思い出。… "](https://pbs.twimg.com/media/EWIAbU0U8AAcSdL.jpg)
 
-出典: [twitter](https://pbs.twimg.com/media/EWIAbU0U8AAcSdL.jpg)
+引用元: [twitter](https://pbs.twimg.com/media/EWIAbU0U8AAcSdL.jpg)
 
 <br><br>
 
@@ -205,7 +207,7 @@ issuedAt: 2020-10-06T14:11:58.321Z
 <br><br>
 
 ![『スター・ウォーズ』に出てくる｢ブルー・ミルク｣はマズイらしい。マーク・ハミルがツイート](https://assets.media-platform.com/gizmodo/dist/images/2019/09/02/190903_bluemilk-w1280.png)
-出典: [gizmode](https://www.gizmodo.jp/2019/09/blue-milk-in-starwars-is-yucky-says-mark-hamill.html)
+引用元: [gizmode](https://www.gizmodo.jp/2019/09/blue-milk-in-starwars-is-yucky-says-mark-hamill.html)
 
 <br><br>
 
@@ -461,7 +463,7 @@ SFっぽいごはんを再現できるってことかな。
 
 ![](https://otakei.otakuma.net/wp/wp-content/uploads/2018/02/d40ecea12801f5e31f2455d89321221a.jpg)
 
-出典: [おたくま経済新聞](https://otakei.otakuma.net/archives/2018022302.html)
+引用元: [おたくま経済新聞](https://otakei.otakuma.net/archives/2018022302.html)
 
 <br>
 <br>
@@ -491,7 +493,7 @@ SFっぽいごはんを再現できるってことかな。
 
 ![](https://otakei.otakuma.net/wp/wp-content/uploads/2018/02/5dc80f379994eb5b0d005941bc8ce2fb.jpg)
 
-出典: [おたくま経済新聞](https://otakei.otakuma.net/archives/2018022302.html)
+引用元: [おたくま経済新聞](https://otakei.otakuma.net/archives/2018022302.html)
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -520,7 +522,7 @@ SFっぽいごはんを再現できるってことかな。
 
 ![](https://otakei.otakuma.net/wp/wp-content/uploads/2018/02/5640b2140f84fbf18a5a65d183f51758.jpg)
 
-出典: [おたくま経済新聞](https://otakei.otakuma.net/archives/2018022302.html)
+引用元: [おたくま経済新聞](https://otakei.otakuma.net/archives/2018022302.html)
 
 <br>
 <br>
@@ -573,7 +575,7 @@ SFっぽいごはんを再現できるってことかな。
 
 ![The Fifth Element (1997) - Siu Mei Lunch scene - YouTube](https://i.ytimg.com/vi/wRkW6lJBwPY/maxresdefault.jpg)
 
-出典] [youtube](https://www.youtube.com/watch?v=wRkW6lJBwPY)
+引用元: [youtube](https://www.youtube.com/watch?v=wRkW6lJBwPY)
 
 <br><br>
 
@@ -589,7 +591,7 @@ SFっぽいごはんを再現できるってことかな。
 
 ![fifth-element Concept Art  I am so ready for the furture's Chinese Food air-boats.](https://i.pinimg.com/564x/5c/91/e9/5c91e9f6c12ecaee6e2e15a35ca97765.jpg)
 
-出典: [pintarest](https://www.pinterest.fr/pin/726486983615159344/?nic_v2=1a5hclEEW)
+引用元: [pintarest](https://www.pinterest.fr/pin/726486983615159344/?nic_v2=1a5hclEEW)
 
 <br><br>
 
@@ -605,6 +607,8 @@ SFっぽいごはんを再現できるってことかな。
 <br><br>
 
 ![](https://i.pinimg.com/564x/d6/56/1d/d6561d495be711d51f011b5d9e6ddc3e.jpg)
+
+引用元: [twitter](https://twitter.com/mcmcrn/status/490858351140425730)
 
 <br><br>
 
