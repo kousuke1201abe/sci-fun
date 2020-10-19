@@ -191,7 +191,7 @@ issuedAt: 2020-10-06T14:11:58.321Z
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>エヴァQのシンジくんのごはんがそれっぽい</p>
+    <p>エヴァQのシンジくんのごはんがそれっぽい。</p>
   </div>
 </div>
 
@@ -253,7 +253,7 @@ issuedAt: 2020-10-06T14:11:58.321Z
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    <p>いつか、ソイレントで生活する時代が本当に来るのかな。やだなあ
+    <p>いつか、ソイレントで生活する時代が本当に来るのかな。やだなあ。
 </p>
   </div>
 </div>
@@ -333,7 +333,7 @@ issuedAt: 2020-10-06T14:11:58.321Z
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-    <p>「美味しそうに見える色」も異星人は色彩感覚が違いそうだから納得が行く
+    <p>「美味しそうに見える色」も異星人は色彩感覚が違いそうだから納得が行く。
 </p>
   </div>
 </div>
@@ -377,7 +377,7 @@ issuedAt: 2020-10-06T14:11:58.321Z
   <div class="serif">
     <p>ということは、写真の色味を反転させたら、
 
-SFっぽいごはんを再現できるってことかな
+SFっぽいごはんを再現できるってことかな。
 
 </p>
   </div>
@@ -386,7 +386,7 @@ SFっぽいごはんを再現できるってことかな
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-    <p>とりあえず、やってみよう
+    <p>とりあえず、やってみよう。
 </p>
   </div>
 </div>
@@ -411,7 +411,7 @@ SFっぽいごはんを再現できるってことかな
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-    <p>・・・たしかに
+    <p>・・・たしかに。
 </p>
   </div>
 </div>
