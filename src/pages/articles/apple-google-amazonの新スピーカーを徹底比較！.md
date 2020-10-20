@@ -96,6 +96,8 @@ UIも未来ガジェットっぽくてかっこいい。特にAppleユーザー�
 
 <br><br>
 
+
+
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
