@@ -76,3 +76,45 @@ Batteryは搭載していないので、アウトドアでの使用はできな�
     <p>ベッドサイドに置いておくと便利そうだね<p>
   </div>
 </div>
+
+
+
+## Google NestAudio
+
+<br><br>
+
+画像
+
+<br><br>
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>Google Homeよりかなり音質が進化しているみたい<p>
+  </div>
+</div>
+
+
+
+## Amazon Echo/Echo dot(第四世代)
+
+<br><br>
+
+画像
+
+<br><br>
+
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>Homepod miniをひっくり返したみたいなデザインだね<p>
+  </div>
+</div>
+
+## あなたはどれを買う？
+
+<br><br>
+
+
+
+AppleユーザーならHomepod mini、音楽視聴がメインならNest Audio、Amazonで買い物するならEchoといったところだろうか。是非店頭で試聴して確認してほしい。
