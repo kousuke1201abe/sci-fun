@@ -44,13 +44,17 @@ issuedAt: 2020-10-19T23:56:06.652Z
 
 <br><br>
 
-## **Homepod mini**
+## **Homepod mini**　
 
 <br><br>
 
-画像
+![](/img/sound_handoff__c0nz1ab2mmwm_medium.jpg)
+
+出典：<https://www.apple.com/jp/homepod-mini/>
 
 <br><br>
+
+### **「かわいいのに、すごいやつ」**
 
 数年前から予想されていたHomepodのミニサイズが、ついに発売となる。<br><br>
 
@@ -77,12 +81,12 @@ UIも未来ガジェットっぽくてかっこいい。特にAppleユーザー�
 
 
 まさに、Apple Loverのためのスピーカーとして仕上がっていると言えるだろう。<br>
-日本での発売時期は未定だが、**USで2020年の10月15日**に発売を予定している。<br>
+日本での**2020年11月16日**に発売を予定している。<br>
 
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-    <p>ベッドサイドに置いておくと便利そうだね<p>
+    <p>Apple信者がこぞって買いそう。予約開始してるよ！急げ！<p>
   </div>
 </div>
 
