@@ -225,7 +225,7 @@ Echoデバイスを使っている友人と**ハンズフリーで通話**がで
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    <p>Clock搭載はベッド再度に置くと便利そう～！<p>
+    <p>Clock搭載はベッドサイドに置くと便利そう～！<p>
   </div>
 </div>
 
