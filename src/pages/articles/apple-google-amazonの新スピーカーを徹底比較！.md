@@ -184,6 +184,14 @@ Echoのサイズはφ144 x 133mmで、重さは970gだ。カラーは**Charcoal�
 
 **自動的に空間の音響特性を感知**し、設置場所に合わせたサウンドで音楽を楽しめるそうだ。**Dolby Audioにも対応**しているため、立体的なサラウンドも楽しむことができそうだ。<br><br>
 
+![](/img/30051-original.jpg)
+
+出典：[](https://www.the-ambient.com/news/new-echo-dot-speakers-price-release-date-colors-2335[](https://arstechnica.com/gadgets/2020/09/new-amazon-hardware-ring-drones-echo-dot-4th-gen-wi-fi-6-eero-and-more/))[ambient.com](https://www.the-ambient.com/news/new-echo-dot-speakers-price-release-date-colors-2335[](https://arstechnica.com/gadgets/2020/09/new-amazon-hardware-ring-drones-echo-dot-4th-gen-wi-fi-6-eero-and-more/))
+
+<br><br>
+
+
+
 Echo dot miniはφ100mm x H89mmで、重さは341.3gだ。<br>
 
 **40mmのスピーカー**が一つ搭載されている。Echo dotとEcho Dot with clockの2種類があり、Echo Dot with clockは、前面に**LEDディスプレイ**が搭載され、時刻や気温、タイマー、アラームを確認できる。<br><br>
