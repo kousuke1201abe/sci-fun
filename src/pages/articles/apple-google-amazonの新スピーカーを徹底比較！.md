@@ -166,7 +166,7 @@ Google Assistant用には、**高感度マイクが3つ**搭載されている�
 
 ![](/img/msedge_x9rfhs71eu.0.jpg)
 
-出典：<https://arstechnica.com/gadgets/2020/09/new-amazon-hardware-ring-drones-echo-dot-4th-gen-wi-fi-6-eero-and-more/>
+出典：[arstechnica.com](https://arstechnica.com/gadgets/2020/09/new-amazon-hardware-ring-drones-echo-dot-4th-gen-wi-fi-6-eero-and-more/)
 
 <br>
 
