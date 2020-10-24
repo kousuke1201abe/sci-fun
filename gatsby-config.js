@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'SY_FY:laboratory',
+    title: 'SY_FY:lab',
+    siteUrl: `https://syfylab.tokyo`,
     description:
       'SCIENCE FICTION and CULTURE media',
   },
@@ -12,6 +13,7 @@ module.exports = {
         head: true,
       },
     },
+    'gatsby-plugin-sitemap',
     'gatsby-plugin-typescript',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
