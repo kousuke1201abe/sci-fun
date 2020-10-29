@@ -26,11 +26,13 @@ exports.createPages = ({ actions, graphql }) => {
       categories: allMarkdownRemark(limit: 1000) {
         group(field: frontmatter___categories) {
           fieldValue
+          totalCount
         }
       }
       tags: allMarkdownRemark(limit: 1000) {
         group(field: frontmatter___tags) {
           fieldValue
+          totalCount
         }
       }
     }
@@ -73,7 +75,7 @@ exports.createPages = ({ actions, graphql }) => {
     categories.forEach(category => {
       const categoryPath = `/categories/${_.kebabCase(category.fieldValue)}/`
       const postsPerPage = 3
-      const numPages = Math.ceil(posts.length / postsPerPage)
+      const numPages = Math.ceil(category.totalCount / postsPerPage)
 
       Array.from({ length: numPages }).forEach((_, i) => {
         createPage({
@@ -98,7 +100,7 @@ exports.createPages = ({ actions, graphql }) => {
     tags.forEach(tag => {
       const tagPath = `/tags/${_.kebabCase(tag.fieldValue)}/`
       const postsPerPage = 3
-      const numPages = Math.ceil(posts.length / postsPerPage)
+      const numPages = Math.ceil(tag.totalCount / postsPerPage)
 
       Array.from({ length: numPages }).forEach((_, i) => {
         createPage({

@@ -49,6 +49,7 @@ class CategoryRoute extends React.Component<CategoryType> {
       </div>
     ))
 
+    console.log(this.props.pageContext)
     const category = this.props.pageContext.category
     const title = this.props.data.site.siteMetadata.title
     const path = `/categories/${kebabCase(category)}`

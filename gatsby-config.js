@@ -13,7 +13,15 @@ module.exports = {
         head: true,
       },
     },
-    'gatsby-plugin-sitemap',
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        exclude: [
+          '/privacy_policy',
+          '/contact',
+        ]
+      }
+    },
     'gatsby-plugin-typescript',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
