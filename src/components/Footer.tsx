@@ -43,11 +43,11 @@ const Footer = class extends React.Component<SNSlink> {
                       <Link className="link" to="/contact" style={{padding: '5px', fontSize: '0.8rem'}}>
                         <p>お問い合わせ</p>
                       </Link>
-                      <Link className="link" to="/" style={{padding: '5px', fontSize: '0.8rem'}}>
+                      <Link className="link" to="/articles" style={{padding: '5px', fontSize: '0.8rem'}}>
                         <p>記事一覧</p>
                       </Link>
-                      <Link className="link" to="/" style={{padding: '5px', fontSize: '0.8rem'}}>
-                        <p>利用規約</p>
+                      <Link className="link" to="/privacy_policy" style={{padding: '5px', fontSize: '0.8rem'}}>
+                        <p>プライバシーポリシー</p>
                       </Link>
                       <Link className="link" to="/contact" style={{padding: '5px', fontSize: '0.8rem'}}>
                         <p>リリースの送付はこちら</p>
