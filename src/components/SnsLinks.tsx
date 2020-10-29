@@ -1,22 +1,16 @@
 import * as React from 'react'
-import {
-  FacebookShareButton,
-  FacebookIcon,
-  TwitterShareButton,
-  TwitterIcon,
-  LineShareButton,
-  LineIcon,
-} from 'react-share';
+import twitter from "../img/social/twitter.svg"
 
 const SnsLinks = () => {
   return (
-    <div className="">
-      <FacebookShareButton url="/" style={{margin: "5px"}}>
-        <FacebookIcon size={40}/>
-      </FacebookShareButton>
-      <TwitterShareButton url="/" style={{margin: "5px"}}>
-        <TwitterIcon size={40}/>
-      </TwitterShareButton>
+    <div>
+      <a href="https://twitter.com/SY_FY_lab" target="_blank" rel="noopener noreferrer" style={{margin: "5px"}}>
+        <img
+          width="20"
+          src={twitter}
+          alt="twitter"
+        />
+      </a>
     </div>
   )
 }
