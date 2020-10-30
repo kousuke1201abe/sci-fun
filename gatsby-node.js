@@ -74,7 +74,7 @@ exports.createPages = ({ actions, graphql }) => {
     // Make categorie pages
     categories.forEach(category => {
       const categoryPath = `/categories/${_.kebabCase(category.fieldValue)}/`
-      const postsPerPage = 3
+      const postsPerPage = 10
       const numPages = Math.ceil(category.totalCount / postsPerPage)
 
       Array.from({ length: numPages }).forEach((_, i) => {
@@ -99,7 +99,7 @@ exports.createPages = ({ actions, graphql }) => {
     // Make tag pages
     tags.forEach(tag => {
       const tagPath = `/tags/${_.kebabCase(tag.fieldValue)}/`
-      const postsPerPage = 3
+      const postsPerPage = 10
       const numPages = Math.ceil(tag.totalCount / postsPerPage)
 
       Array.from({ length: numPages }).forEach((_, i) => {
@@ -117,7 +117,7 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
 
-    const postsPerPage = 6
+    const postsPerPage = 10
     const numPages = Math.ceil(posts.length / postsPerPage)
     Array.from({ length: numPages }).forEach((_, i) => {
       createPage({
