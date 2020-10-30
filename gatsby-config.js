@@ -22,6 +22,12 @@ module.exports = {
         ]
       }
     },
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: process.env.GOOGLE_ADSENSE_ID
+      },
+    },
     'gatsby-plugin-typescript',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
