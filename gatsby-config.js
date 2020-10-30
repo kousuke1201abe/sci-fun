@@ -19,6 +19,7 @@ module.exports = {
         exclude: [
           '/privacy_policy',
           '/contact',
+          '/contact/thanks',
         ]
       }
     },
