@@ -6,9 +6,6 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import SnsShare from '../components/SnsShare'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faTag } from '@fortawesome/free-solid-svg-icons'
-import Img from 'gatsby-image'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import RelatedArticles from '../components/RelatedArticles'
 import Seo from '../components/Seo'
@@ -17,7 +14,6 @@ import GlobalCss from '../components/GlobalCss'
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  link,
   categories,
   tags,
   title,
@@ -87,7 +83,6 @@ export const BlogPostTemplate = ({
 BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
-  link: PropTypes.string,
   title: PropTypes.string,
   issuedAt: PropTypes.string,
   helmet: PropTypes.object,
@@ -107,7 +102,6 @@ const BlogPost = ({ data }) => {
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
-        link={post.frontmatter.link}
         helmet={
           <Helmet titleTemplate="%s | Articles">
             <title>{`${post.frontmatter.title}`}</title>
@@ -144,7 +138,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        link
         categories
         tags
         issuedAt(formatString: "YYYY.MM.DD HH:hh")

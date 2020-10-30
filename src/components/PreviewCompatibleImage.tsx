@@ -5,7 +5,7 @@ import Img from 'gatsby-image'
 interface imageInfoType {
   imageInfo: {
     image: string
-    childImageSharp: any
+    childImageSharp?: any
     alt: string
   }
 }

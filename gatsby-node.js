@@ -8,7 +8,10 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      posts: allMarkdownRemark(limit: 1000) {
+      posts: allMarkdownRemark(
+        limit: 1000
+        filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+      ) {
         edges {
           node {
             id
@@ -22,6 +25,7 @@ exports.createPages = ({ actions, graphql }) => {
             }
           }
         }
+        totalCount
       }
       categories: allMarkdownRemark(limit: 1000) {
         group(field: frontmatter___categories) {
@@ -41,6 +45,14 @@ exports.createPages = ({ actions, graphql }) => {
       result.errors.forEach(e => console.error(e.toString()))
       return Promise.reject(result.errors)
     }
+
+
+    createPage({
+      path: "/",
+      component: path.resolve(
+        `src/templates/index-page.tsx`
+      ),
+    })
 
     const posts = result.data.posts.edges
 
@@ -118,6 +130,7 @@ exports.createPages = ({ actions, graphql }) => {
     })
 
     const postsPerPage = 10
+    console.log(posts.totalCount)
     const numPages = Math.ceil(posts.length / postsPerPage)
     Array.from({ length: numPages }).forEach((_, i) => {
       createPage({
