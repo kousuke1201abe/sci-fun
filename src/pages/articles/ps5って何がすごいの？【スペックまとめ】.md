@@ -9,7 +9,7 @@ tags:
   - PS5
   - ゲーム
 featuredimage: /img/ps5.jpg
-issuedAt: 2020-10-18T13:18:02.556Z
+issuedAt: 2020-11-03T08:00:00.000Z
 ---
 <details open><summary>目次</summary>
 

@@ -12,7 +12,7 @@ tags:
   - Googlenest
   - echodot
 featuredimage: /img/homepod-mini-header-1280x605.jpg
-issuedAt: 2020-10-19T23:56:06.652Z
+issuedAt: 2020-11-03T09:00:00.000Z
 ---
 <div class="talk-left">
   <div class="nanika"></div>
