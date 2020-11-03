@@ -39,7 +39,7 @@ issuedAt: 2020-10-06T11:12:33.774Z
 
 <br><br>
 
-**・・・というわけで、特集も無事3回目を迎えました。**
+**それでは早速本題に入りましょう。**
 
 <br><br>
 
@@ -128,13 +128,9 @@ issuedAt: 2020-10-06T11:12:33.774Z
   </div>
 </div>
 
-
-
-## 戦闘力が上がる！？「」
+## ド定番「STARWARS」
 
 **Spotify / Apple music link**
-
-
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -143,9 +139,7 @@ issuedAt: 2020-10-06T11:12:33.774Z
   </div>
 </div>
 
-
-
-## おしゃれ感を演出「」
+## おしゃれ感を演出「残響のテロル」
 
 **Spotify / Apple music link**
 
@@ -155,8 +149,6 @@ issuedAt: 2020-10-06T11:12:33.774Z
     <p>菅野よう子様！<p>
   </div>
 </div>
-
-
 
 ## 〆切直前の夜に！「TENET」
 
@@ -169,8 +161,6 @@ issuedAt: 2020-10-06T11:12:33.774Z
   </div>
 </div>
 
-
-
 ## 仕事辞めたくなったら「GODZILA」
 
 **Spotify / Apple music link**
@@ -181,8 +171,6 @@ issuedAt: 2020-10-06T11:12:33.774Z
     <p>会社破壊してくれるかなって気持ちになる。<p>
   </div>
 </div>
-
-
 
 <br><br>
 
@@ -226,12 +214,6 @@ issuedAt: 2020-10-06T11:12:33.774Z
     <p>公式Twitterに送ってね！<p>
   </div>
 </div>
-
-
-
-
-
-
 
 <br>
 
