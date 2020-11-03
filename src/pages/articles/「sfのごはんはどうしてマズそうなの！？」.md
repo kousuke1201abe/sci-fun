@@ -7,7 +7,7 @@ categories:
   - CULTURE
 tags:
   - YURUTALK
-featuredimage: /img/yurutalk002.jpg
+featuredimage: /img/yurutalk002.png
 issuedAt: 2020-11-03T05:00:00.000Z
 ---
 <div class="talk-left">
@@ -21,32 +21,37 @@ issuedAt: 2020-11-03T05:00:00.000Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <p>ペットのUSAです。宇宙人です。</p>
+    <p>ペットのUSAです。宇宙人です。
+</p>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>友人のUMAです。おしゃれです。</p>
+    <p>友人のUMAです。おしゃれです。
+</p>
   </div>
 </div>
 
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-    <p>ROBOです。冷蔵庫です。</p>
+    <p>ROBOです。冷蔵庫です。
+</p>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-    <p>
-      みなさま、はじめまして！
-      このコーナーでは、SFの気になる話題について、
-      ゆるっと話していこうと思います。
-    </p>
+    <p>みなさま、はじめまして！
+
+このコーナーでは、SFの気になる話題について、
+
+ゆるっと話していこうと思います。
+
+</p>
   </div>
 </div>
 
@@ -61,14 +66,16 @@ issuedAt: 2020-11-03T05:00:00.000Z
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-    <p>どうぞよろしく！</p>
+    <p>どうぞよろしく！
+</p>
   </div>
 </div>
 
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <p>・・・もうちょっとちゃんと紹介しなよ。</p>
+    <p>・・・もうちょっとちゃんと紹介しなよ。
+</p>
   </div>
 </div>
 
@@ -94,14 +101,15 @@ issuedAt: 2020-11-03T05:00:00.000Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h5>SFっぽいからでしょ。<h5>
+    <h5>SFっぽいからでしょ。<h5></p>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-    <p>それを言ったらこのコーナーおしまいなんじゃ・・・</p>
+    <p>それを言ったらこのコーナーおしまいなんじゃ・・・
+</p>
   </div>
 </div>
 
@@ -111,8 +119,11 @@ issuedAt: 2020-11-03T05:00:00.000Z
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-    <p>軽く思い出す限り、たしかにマズそうなこと多いよね</p>
-    <p>まあ、SF映画って基本的に未来が舞台だし、そこで現実味ありすぎるごはんが出てきたら、世界観ぶちこわしなのかも。</p>
+    <p>軽く思い出す限り、たしかにマズそうなこと多いよね
+
+まあ、SF映画って基本的に未来が舞台だし、そこで現実味ありすぎるごはんが出てきたら、世界観ぶちこわしなのかも。
+
+</p>
   </div>
 </div>
 
@@ -123,13 +134,19 @@ issuedAt: 2020-11-03T05:00:00.000Z
   <div class="usa"></div>
   <div class="serif">
     <div style="font-size: 30px;">アナキン・スカイウォーカーが、おにぎりとサバ味噌食べていたら、なんか残念だよね！</div>
+</p>
   </div>
-</div>
+</div>   
 
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-    <p>アナキンだったらせめて洋食チョイスしてよ・・・</p>
+    <p>アナキンだったらせめて洋食チョイスしてよ・・・
+
+</p>
+  </div>
+</div>
+
   </div>
 </div>
 
@@ -155,12 +172,12 @@ issuedAt: 2020-11-03T05:00:00.000Z
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-    <p>SF映画は核戦争や自然災害で、食糧危機が起こる確率が高い！</p>
+    <p>SF映画は核戦争や自然災害で、食糧危機が起こる確率が高い！
+</p>
   </div>
 </div>
 
-<br>
-<br>
+<br><br>
 
 「**AIが調理した、栄養バランスが完璧な食事**」が出てくる。
 
@@ -183,44 +200,45 @@ issuedAt: 2020-11-03T05:00:00.000Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h5>まぢ無理。<h5>
+    <h5>まぢ無理。<h5></p>
   </div>
 </div>
 
-<br>
-<br>
+<br><br>
 
 ![『スター・ウォーズ』に出てくる｢ブルー・ミルク｣はマズイらしい。マーク・ハミルがツイート](https://assets.media-platform.com/gizmodo/dist/images/2019/09/02/190903_bluemilk-w1280.png)
 引用元: [gizmode](https://www.gizmodo.jp/2019/09/blue-milk-in-starwars-is-yucky-says-mark-hamill.html)
 
-<br>
-<br>
+<br><br>
 
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h5>出た、ブルーミルク。<h5>
+    <h5>出た、ブルーミルク。<h5></p>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <h5>なんの乳だよ。これ。</h5>
+    <h5>なんの乳だよ。これ。
+</h5>
   </div>
 </div>
 
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    <p>ブルーミルクって実際もクソまずいらしいね。</p>
+    <p>ブルーミルクって実際もクソまずいらしいね。
+</p>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
-    <p>Soylent(ソイレント)みたいな完全栄養食はSFっぽいよね。</p>
+    <p>Soylent(ソイレント)みたいな完全栄養食はSFっぽいよね。
+</p>
   </div>
 </div>
 
@@ -237,96 +255,104 @@ issuedAt: 2020-11-03T05:00:00.000Z
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    <p>いつか、ソイレントで生活する時代が本当に来るのかな。やだなあ。</p>
+    <p>いつか、ソイレントで生活する時代が本当に来るのかな。やだなあ。
+</p>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>食糧危機が起こらなければ、きっと大丈夫。</p>
+    <p>食糧危機が起こらなければ、きっと大丈夫。
+</p>
   </div>
 </div>
 
 <br>
 <br>
 
-<div style="color: #db7093; font-size: 50px;">
-  地球を大切に。
-  <br>
-  レッツ
-  <br>
-  サスティナブル！
-</div>
+ <div style="color: #db7093; font-size: 50px;">
+地球を大切に。
+<br>レッツ
 
-<br>
-<br>
+<br>サスティナブル！</div>
+
+<br><br>
 
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <p>ぼくはお寿司が好き。お寿司食べたい。</p>
+    <p>ぼくはお寿司が好き。お寿司食べたい。
+</p>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>お寿司と言えば、はじめて日本に来た時、お寿司のイクラを見て</p>
+    <p>お寿司と言えば、はじめて日本に来た時、お寿司のイクラを見て
+</p>
   </div>
 </div>
 
-<br>
-<br>
+<br><br>
 
 <div style="color: #478384; font-size: 50px;">
-  ウェエェエエエエエ
-</div>
+ウェエェエエエエエ</div>
 
-<br>
-<br>
+<br><br>
 
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>ってなったよね。どう見てもグロテスクでしょ。赤いツブツブ。</p>
+    <p>ってなったよね。どう見てもグロテスクでしょ。赤いツブツブ。
+</p>
   </div>
 </div>
 
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    <p>UMAくんは帰国子女だもんねー。</p>
-    <p>生の魚はちょっとチャレンジだよね。</p>
+    <p>UMAくんは帰国子女だもんねー。
+
+生の魚はちょっとチャレンジだよね。
+
+</p>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
-    <p>地球だけを見ても、見慣れないとグロテスクな食べ物って結構あるよね。</p>
-    <p>宇宙系SFに登場する、得体の知れない生命体のの手足のぶつ切りみたいなアレも、もしかしたら、慣れなのかもしれない。</p>
+    <p>地球だけを見ても、見慣れないとグロテスクな食べ物って結構あるよね。
+
+宇宙系SFに登場する、得体の知れない生命体のの手足のぶつ切りみたいなアレも、もしかしたら、慣れなのかもしれない。
+
+</p>
   </div>
 </div>
 
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-    <p>「美味しそうに見える色」も異星人は色彩感覚が違いそうだから納得が行く。</p>
+    <p>「美味しそうに見える色」も異星人は色彩感覚が違いそうだから納得が行く。
+</p>
   </div>
 </div>
 
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-    <p>じゃあ人類が美味しそうに感じる要素って、なに？</p>
+    <p>じゃあ人類が美味しそうに感じる要素って、なに？
+</p>
   </div>
 </div>
 
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-    <p>人類は一般的に、暖色で濃い色の食材の方が美味しそうに感じるらしい。</p>
+    <p>人類は一般的に、暖色で濃い色の食材の方が美味しそうに感じるらしい。
+</p>
   </div>
 </div>
 
@@ -334,7 +360,9 @@ issuedAt: 2020-11-03T05:00:00.000Z
   <div class="nanika"></div>
   <div class="serif">
     <p>イケイケInstagramerが投稿している<div style="color: #db7093; font-size: 30px;">「ランチ♡」</div>写真も、
-だいたい暖色寄り&彩度高めで加工されているよね。</p>
+だいたい暖色寄り&彩度高めで加工されているよね。
+
+</p>
   </div>
 </div>
 
@@ -397,8 +425,9 @@ SFっぽいごはんを再現できるってことかな。
   <div class="usa"></div>
   <div class="serif">
     <div style="font-size: 30px;">クソまずそう。SFっぽい。</div>
+</p>
   </div>
-</div>
+</div>   
 
 <br>
 <br>
@@ -406,7 +435,8 @@ SFっぽいごはんを再現できるってことかな。
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-    <p>地球でSFっぽいランチを出しているレストランがあったら食べてみたいかも。</p>
+    <p>地球でSFっぽいランチを出しているレストランがあったら食べてみたいかも。
+</p>
   </div>
 </div>
 
@@ -421,7 +451,8 @@ SFっぽいごはんを再現できるってことかな。
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-    <p>・・・ありました！</p>
+    <p>・・・ありました！
+</p>
   </div>
 </div>
 
@@ -440,7 +471,8 @@ SFっぽいごはんを再現できるってことかな。
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-    <p>期間限定だったみたいだね。残念。</p>
+    <p>期間限定だったみたいだね。残念。
+</p>
   </div>
 </div>
 
@@ -466,14 +498,16 @@ SFっぽいごはんを再現できるってことかな。
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-    <p>これ、たこ焼きのくせに、焼いてなくないか？</p>
+    <p>これ、たこ焼きのくせに、焼いてなくないか？
+</p>
   </div>
 </div>
 
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-    <p>まあまあ。</p>
+    <p>まあまあ。
+</p>
   </div>
 </div>
 
