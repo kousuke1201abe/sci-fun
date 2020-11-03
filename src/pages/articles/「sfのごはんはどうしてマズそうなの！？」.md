@@ -8,7 +8,7 @@ categories:
 tags:
   - YURUTALK
 featuredimage: /img/yurutalk002.png
-issuedAt: 2020-10-06T14:11:58.321Z
+issuedAt: 2020-11-03T05:00:00.000Z
 ---
 <div class="talk-left">
   <div class="nanika"></div>
