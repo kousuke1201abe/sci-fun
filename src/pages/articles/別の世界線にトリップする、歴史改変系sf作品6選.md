@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 別の世界線にトリップする、歴史改変系SF作品6選
+title: 別の世界線にトリップする、歴史改変SF6選
 featured: false
 categories:
   - NOVELS
