@@ -6,11 +6,13 @@ categories:
   - NOVELS
   - MOVIES
 tags:
-  - フィ歴史改変
-  - リップ・K・ディック
+  - 歴史改変
+  - フィリップ・K・ディック
   - ジェイムズ・P・ホーガン
   - 村上龍
-  - ミシェル・ウェルベック
+  - ミシェル
+  - ・ウェルベック
+  - amazon prime video
 featuredimage: /img/高い城の男.svg
 issuedAt: 2020-11-05T11:39:28.159Z
 ---
