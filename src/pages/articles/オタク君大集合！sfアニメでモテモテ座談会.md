@@ -73,6 +73,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
   </div>
 </div>
 
+![](/img/5df8abe28a6cc_a6e811c7e22f4b4a1f95bde67c3daeae.jpg)
+
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
@@ -109,7 +111,7 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-  ハマり役で良かったけど、最近アニメの人気俳優女優つかって集客しようとする体制は気に入らない。
+  ハマり役で良かったけど、最近アニメの人気俳優女優つかって集客しようとする姿勢は気に入らない。
   </div>
 </div>
 
@@ -146,7 +148,7 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
-  終わり方が賛否両論・議論を呼ぶ構成も効果的だよね
+  終わり方が賛否両論・議論を呼ぶ構成も効果的だよね。
   </div>
 </div>
 
@@ -163,6 +165,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
   「正解するカド」あれは絶賛酷評まっぷたつだった。
   </div>
 </div>
+
+![](/img/81daoymeakl._ri_.jpg)
 
 <div class="talk-right">
   <div class="uma"></div>
@@ -192,11 +196,11 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-  <h3>ヤハクィザシュニナって10回言って<h3>
+  <h3>ヤハクィザシュニナって10回言って。<h3>
   </div>
 </div>
 
-<h1>ヤハクィザシュニナ　ヤハクィジャシュニナ　ヤヒャクィジャシュニニャ...</h1>
+<h1>ヤハクィザシュニナ　ヤハクィジャシュニナ　ヤヒャクィジャシュニニャ......</h1>
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -215,21 +219,21 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-  そういえばゆるとーくメンバーって美少年いないよね
+  そういえばゆるとーくメンバーって美少年いないよね♡
   </div>
 </div>
 
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-  美少女もいないだろ。
+  美少女もいないだろ♡
   </div>
 </div>
 
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
- ぼくは？
+<h1> ぼくは？<h1>
   </div>
 </div>
 
@@ -256,6 +260,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
   美少年といえば、PSYCHO-PASSの槙島さんでしょ。
   </div>
 </div>
+
+![](/img/shogo.jpg)
 
 <div class="talk-right">
   <div class="uma"></div>
@@ -288,7 +294,7 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-<h3>めちゃくちゃめんどくさかった<h3>
+<h3>めちゃくちゃめんどくさかった。<h3>
   </div>
 </div>
 
@@ -319,6 +325,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <h1>紙の本を読みなよ。</h1>
   </div>
 </div>
+
+![](/img/dhl2oz1uiaen1ol.jpg)
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -387,7 +395,7 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
-個人的には虐殺器官が一番面白かった。ハリウッド映画化してほしい
+個人的には虐殺器官が一番面白かった。ハリウッド映画化してほしい。
   </div>
 </div>
 
@@ -405,7 +413,7 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-あったわ。
+<h3>あったわ。<h3>
   </div>
 </div>
 
