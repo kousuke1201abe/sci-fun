@@ -57,6 +57,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
 
 ![](/img/66358-aleni.jpg)
 
+[1zoom](https://www.1zoom.me/ja/wallpaper/66358/z276/)
+
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
@@ -74,6 +76,9 @@ issuedAt: 2020-11-05T15:20:43.326Z
 </div>
 
 ![](/img/5df8abe28a6cc_a6e811c7e22f4b4a1f95bde67c3daeae.jpg)
+
+引用：[animate times](https://www.animatetimes.com/news/details.php?id=1576577933)
+
 
 <div class="talk-right">
   <div class="uma"></div>
@@ -100,6 +105,10 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <h1>倍返しだ！！！</h1>
 
 ![](/img/gfm7vkzs.jpeg)
+
+引用：[UP GARAGE](https://www.upgarage.com/shopblog/402/2020/08/03/%E3%82%84%E3%82%89%E3%82%8C%E3%81%9F%E3%82%89%E3%82%84%E3%82%8A%E8%BF%94%E3%81%99%E3%80%81%E5%80%8D%E8%BF%94%E3%81%97%E3%81%A0%EF%BC%81%EF%BC%81/)
+
+
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -168,6 +177,9 @@ issuedAt: 2020-11-05T15:20:43.326Z
 
 ![](/img/81daoymeakl._ri_.jpg)
 
+引用：[amazon](https://www.amazon.co.jp/%E6%AD%A3%E8%A7%A3%E3%81%99%E3%82%8B%E3%82%AB%E3%83%89/dp/B06Y17K7RS)
+
+
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
@@ -190,6 +202,11 @@ issuedAt: 2020-11-05T15:20:43.326Z
 </div>
 
 ![](/img/seikaisurukado.jpg)
+
+引用：[ANIMA](http://www.studioanima.co.jp/works/project-1329/)
+
+
+
 
 <h1>ヤハクィザシュニナ</h1>
 
@@ -261,7 +278,9 @@ issuedAt: 2020-11-05T15:20:43.326Z
   </div>
 </div>
 
-![](/img/shogo.jpg)
+![](/img/psycho_pass.jpeg)
+
+引用：[blogger](http://spec-holder.blogspot.com/2013/05/psycho-pass.html)
 
 <div class="talk-right">
   <div class="uma"></div>
@@ -328,6 +347,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
 
 ![](/img/dhl2oz1uiaen1ol.jpg)
 
+引用：[twitter](https://twitter.com/ttakun_/status/898880046789648384?lang=fr)
+
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
@@ -345,6 +366,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <h2>④SF新時代を切り開いた『伊藤計劃三部作』</h2>
 
 ![](/img/original.jpg)
+
+引用：[peraichi](https://peraichi.com/landing_pages/view/itohintro)
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -369,6 +392,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
 
 ![](/img/main_harmony.png)
 
+引用：[project itoh](https://project-itoh.com/harmony/index.html)
+
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
@@ -392,6 +417,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
 
 ![](/img/main_empire.png)
 
+引用：[project itoh](https://project-itoh.com/shisha/index.html)
+
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
@@ -401,7 +428,7 @@ issuedAt: 2020-11-05T15:20:43.326Z
 
 ![](/img/10038992_h_pc_l.jpg)
 
-<>btbr
+引用：[dTV](https://pc.video.dmkt-sp.jp/ti/10038992)
 
 <div class="talk-right">
   <div class="robo"></div>
@@ -446,6 +473,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
 </div>
 
 ![](/img/584d70a06c9ba703ae4d8a15ef152a21.jpg)
+
+引用：[Kstyle](#https://www.google.com/search?q=%E3%83%91%E3%82%AF%E3%83%81%E3%83%A3%E3%83%8C%E3%82%AF&rlz=1C1CAFA_enJP780JP780&sxsrf=ALeKk00Ibfh2ceoW61mVTmuc1u2CYPAp_Q:1604592213103&source=lnms&tbm=isch&sa=X&ved=2ahUKEwig5vvm4-vsAhXVMN4KHXUZBQwQ_AUoAnoECAYQBA&biw=1920&bih=843#imgrc=vI84KkSqlZ1UkM&imgdii=oojcj8ky1tRg4M)
 
 <h1>解散！<h1>
 
