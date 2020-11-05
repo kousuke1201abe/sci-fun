@@ -12,7 +12,7 @@ tags:
   - 村上龍
   - ミシェル・ウェルベック
   - Amazon prime video
-featuredimage: /img/高い城の男.svg
+featuredimage: /img/1280px-man_high_castle_-tv_series-_map-2.svg.png
 issuedAt: 2020-11-05T11:39:28.159Z
 ---
 <!--StartFragment-->
