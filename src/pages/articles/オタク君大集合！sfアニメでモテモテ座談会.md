@@ -10,6 +10,22 @@ tags:
 featuredimage: /img/yututalk04.png
 issuedAt: 2020-11-05T15:20:43.326Z
 ---
+<details open><summary>目次</summary>
+
+[①オシャレな絵柄と普遍の勧善懲悪　『プロメア』](#001)
+
+[②賛否両論！　『正解するカド』](#002)
+
+[③男女問わず大ヒット！　『PSYCHO-PASS』](#003)
+
+[④SF新時代を切り開いた『伊藤計劃三部作』](#004)
+
+</details>
+
+</br></br>
+
+
+
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
@@ -68,9 +84,12 @@ issuedAt: 2020-11-05T15:20:43.326Z
   </div>
 </div>
 
-
+<div id=#001>
 
 <h2>①オシャレな絵柄と普遍の勧善懲悪　『プロメア』</h2>
+
+</div>
+
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -139,7 +158,13 @@ issuedAt: 2020-11-05T15:20:43.326Z
   </div>
 </div>
 
+
+<div id=#002>
+
 <h2>②賛否両論！　『正解するカド』</h2>
+
+</div>
+
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -266,7 +291,10 @@ issuedAt: 2020-11-05T15:20:43.326Z
   </div>
 </div>
 
+<div id=#003>
 <h2>③男女問わず大ヒット！　『PSYCHO-PASS』</h2>
+</div>
+
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -360,7 +388,10 @@ issuedAt: 2020-11-05T15:20:43.326Z
   </div>
 </div>
 
-<h2>④SF新時代を切り開いた『伊藤計劃三部作』</h2>
+
+<div id=#004>
+<h2><h2>④SF新時代を切り開いた『伊藤計劃三部作』</h2></h2>
+</div>
 
 ![](/img/original.jpg)
 
