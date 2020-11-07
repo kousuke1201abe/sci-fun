@@ -87,6 +87,13 @@ SFの世界では、別の世界線が選ばれた「もしも」の世界を題
 
 全てのシーズンを見るには少し時間がかかるが、ハードなSFが好きな方には、自信を持ってお薦めできる一作だ。
 
+<br>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B08BYZG8K1&linkId=f4b95b55272ce3cc6fb177ed6cc377b5&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B00B2GXKIU&linkId=bcd9361c4a5e50575ea73e369bf62693&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+</iframe>
+
 <br><br>
 
 <div id="002">
@@ -123,6 +130,13 @@ SF作品であるものの、刑事と共に謎を追う、ミステリーとし
 
 出典: [PRtimes](https://prtimes.jp/main/html/rd/p/000000011.000010255.html)
 
+<br>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4150404526&linkId=5d7e256f7df6adfc0bc9ace9d8cdb943&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4150404534&linkId=2462e9425689f40a2c57ef509f950a10&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B075DWQ7KV&linkId=22fbf977fe40b0d966404b04fde9a0e3&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
 <br><br>
 
 <div id="003">
@@ -149,6 +163,11 @@ SF作品であるものの、刑事と共に謎を追う、ミステリーとし
 
 TENETを彷彿とさせる世界観で、枝分かれした世界線が行きつく先には目が離せない。
 
+<br>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4150117659&linkId=f308e3a24650de01a5b1cc01f0eaf0a4&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+<br><br>
 <div id="004">
 
 ## ④「もし、ケネディが暗殺されていなかったら・・・」
@@ -176,6 +195,11 @@ TENETを彷彿とさせる世界観で、枝分かれした世界線が行きつ
 60年代のアメリカは、人種差別問題の激化、キューバ危機、ベトナム戦争と、激動の時代であった。もし、大統領の暗殺が未遂に終わっていたとしたら、今のアメリカは違う姿になっていたのだろうか。実際にこのような出来事があったのではないかと思うほど、リアルな世界が描き出されたこの作品。史実にも基づいて物語が展開していく上に、当時のアメリカを生きた、実在の人物もモデルとして登場している。
 当時の歴史を学びなおしてから読んでみると、より一層楽しむことができるだろう。
 
+<br>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4102332014&linkId=e1ffab9bb9e32955fca8ad03374f3a29&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4102332022&linkId=20b4e700ec304241caf1d62b2bf7129f&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
 
 <br>
 <br>
@@ -207,7 +231,9 @@ TENETを彷彿とさせる世界観で、枝分かれした世界線が行きつ
 かなり極端な世界が描写されているように捉えられるかもしれないが、同時にこの作品が「予言書」であるという声も絶えないのは事実だ。
 
 国の変化により、暮らしは、人は、どう変わっていってしまうのか。まさに今、もう一度読んで欲しいSFと言えるだろう。
-
+<br>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B0711MY76F&linkId=342e1e9a32d6983b1609a727c14e8956&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
 <br><br>
 
 
@@ -238,6 +264,9 @@ TENETを彷彿とさせる世界観で、枝分かれした世界線が行きつ
 
 惰性で生きる現代人に警鐘を鳴らす衝撃作を、是非手に取ってみて欲しい。
 
+<br>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4877284443&linkId=d97c7715803c7f27db30c67953c9367f&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
 <br><br>
 
 <div id="007">
