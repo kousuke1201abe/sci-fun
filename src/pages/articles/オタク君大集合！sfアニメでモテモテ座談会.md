@@ -8,7 +8,7 @@ tags:
   - yurutalk
   - anime
 featuredimage: /img/yututalk04.png
-issuedAt: 2020-11-05T15:20:43.326Z
+issuedAt: 2020-11-07T01:21:55.273Z
 ---
 <details open><summary>目次</summary>
 
@@ -140,7 +140,7 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-  ハマり役で良かったけど、最近アニメの人気俳優女優つかって集客しようとする姿勢は気に入らない。
+  ハマり役で良かったけど、最近アニメの人気俳優&女優をつかって集客しようとする姿勢は気に入らない。
   </div>
 </div>
 
@@ -265,7 +265,7 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-  美少女もいないだろ♡
+  <h3>●□△※!？!⭐︎?  <h3>
   </div>
 </div>
 
@@ -345,7 +345,7 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-しかし、あれは一大旋風だった。
+しかし、あのアニメは一大旋風だった。
   </div>
 </div>
 
