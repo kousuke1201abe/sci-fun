@@ -1,7 +1,8 @@
 ---
 templateKey: blog-post
 title: だからいま、世界線を超えて。歴史改変SF6選
-featured: false
+featured: true
+description: 米大統領選の決着の時が近付いている。事前に実施された世論調査結果とは裏腹に、最後まで結果の分からない激しい接戦が続いた。SF好きの読者であれば「もし、逆の政党が勝っていたら…」などと、想像を巡らせることもあるのではないだろうか。今回は「あったかもしれない」別の世界線を描いた歴史改変SFを紹介していく。
 categories:
   - NOVELS
   - MOVIES
