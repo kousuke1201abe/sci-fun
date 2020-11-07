@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: オタク君大集合！SFアニメでモテモテ座談会
+title: SFファン大集合！SFアニメでモテモテ座談会
 featured: false
 categories:
   - CULTURE
@@ -27,7 +27,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-    SFといえばオタク君。今日はSFアニメについて、朝まで語り明かしていただきます。
+    今日はSFアニメについて、朝まで語り明かしていただきます。
   </div>
 </div>
 
@@ -50,7 +50,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    そういうのは賢いオタク君に任せておいて、我々はサブカルオタクらしく、ゆるい会話をしよう。  </div>
+    ちょっと待って、急にヘビーすぎる。もうちょっとゆるい会話をしよう。  </div>
 </div>
 
 <br><br>
@@ -252,7 +252,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-  結論、美少年は金になる。
+  結論、美少年はお金になる。
   </div>
 </div>
 
