@@ -10,21 +10,19 @@ tags:
 featuredimage: /img/yututalk04.png
 issuedAt: 2020-11-07T01:21:55.273Z
 ---
-<details open><summary>目次</summary>
+## <details open><summary>目次</summary>
 
-[①オシャレな絵柄と普遍の勧善懲悪　『プロメア』](#001)
+[①オシャレな絵柄と王道ストーリー　『プロメア』](#001)
 
 [②賛否両論！　『正解するカド』](#002)
 
 [③男女問わず大ヒット！　『PSYCHO-PASS』](#003)
 
-[④SF新時代を切り開いた『伊藤計劃三部作』](#004)
+[④SF新時代を切り開いた　『伊藤計劃三部作』](#004)
 
 </details>
 
 </br></br>
-
-
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -84,12 +82,15 @@ issuedAt: 2020-11-07T01:21:55.273Z
   </div>
 </div>
 
+<br><br>
+
+
+
 <div id="001">
 
-<h2>①オシャレな絵柄と普遍の勧善懲悪　『プロメア』</h2>
+<h2>①オシャレな絵柄と王道ストーリー　『プロメア』</h2>
 
 </div>
-
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -158,13 +159,11 @@ issuedAt: 2020-11-07T01:21:55.273Z
   </div>
 </div>
 
-
 <div id="002">
 
 <h2>②賛否両論！　『正解するカド』</h2>
 
 </div>
-
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -197,13 +196,22 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
-  「正解するカド」あれは絶賛酷評まっぷたつだった。
+  「正解するカド」あれは絶賛と酷評が真っ二つだった。
   </div>
 </div>
 
 ![](/img/81daoymeakl._ri_.jpg)
 
 引用：[amazon](https://www.amazon.co.jp/%E6%AD%A3%E8%A7%A3%E3%81%99%E3%82%8B%E3%82%AB%E3%83%89/dp/B06Y17K7RS)
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+  だんだんと人類が新しい技術を手に入れて変わっていく展開は胸アツだった。
+  </div>
+</div>
+
+
 
 <div class="talk-right">
   <div class="uma"></div>
@@ -291,10 +299,13 @@ issuedAt: 2020-11-07T01:21:55.273Z
   </div>
 </div>
 
+<br><br>
+
+
+
 <div id="003">
 <h2>③男女問わず大ヒット！　『PSYCHO-PASS』</h2>
 </div>
-
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -317,14 +328,14 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
-<h3>なにかちゃんが好きなキャラクター絶対死ぬよね。<h3>
+<h3>なにかちゃんが好きなキャラクターは絶対死ぬよね。<h3>
   </div>
 </div>
 
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-<h3>死ぬたびにキャラを弔う飲み会付き合わされた。<h3>
+<h3>死ぬたびにキャラを弔う飲み会に付き合わされた。<h3>
   </div>
 </div>
 
@@ -345,7 +356,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-しかし、あのアニメは一大旋風だった。
+しかし、あのアニメは一大旋風になったよね。
   </div>
 </div>
 
@@ -359,7 +370,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-引用された古典SF、めちゃくちゃ売れたよね。
+引用されたSF小説、めちゃくちゃ売れたよね。
   </div>
 </div>
 
@@ -388,9 +399,8 @@ issuedAt: 2020-11-07T01:21:55.273Z
   </div>
 </div>
 
-
 <div id="004">
-<h2><h2>④SF新時代を切り開いた『伊藤計劃三部作』</h2></h2>
+<h2>④SF新時代を切り開いた『伊藤計劃三部作』</h2>
 </div>
 
 ![](/img/original.jpg)
@@ -432,14 +442,14 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-伊藤大先生を想って泣いた。
+<h3>泣いた。<h3>
   </div>
 </div>
 
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-一番分かりやすかった。逆に屍者の帝国はラストで完全に視聴者を置き去りにした。
+ストーリーも一番分かりやすかった。逆に屍者の帝国はラストで完全に視聴者を置き去りにした。
   </div>
 </div>
 
@@ -472,6 +482,21 @@ issuedAt: 2020-11-07T01:21:55.273Z
   </div>
 </div>
 
+
+
+### [伊藤計劃「虐殺器官」を「オールド・ボーイ」パク・チャヌク監督が実写映画化]([onfident-euler-cf03d1.netlify.app/admin/#/collections/article](onfident-euler-cf03d1.netlify.app/admin/#/collections/article))
+
+<br>
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+2016年…
+  </div>
+</div>
+
+
+
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
@@ -489,7 +514,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-見てないよ。ひょんなことで見てくれても日本語だし。
+見てないよ。ひょんなことで見てくれても日本語だよ、この記事。
   </div>
 </div>
 
