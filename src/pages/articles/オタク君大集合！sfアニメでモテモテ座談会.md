@@ -36,7 +36,7 @@ issuedAt: 2020-11-05T15:20:43.326Z
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    そういうのは賢いオタク君に任せておいて、我々はサブカルオタクらしくゆるい会話をしよう。  </div>
+    そういうのは賢いオタク君に任せておいて、我々はサブカルオタクらしく、ゆるい会話をしよう。  </div>
 </div>
 
 <br><br>
@@ -55,6 +55,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
   </div>
 </div>
 
+<br>
+
 ![](/img/66358-aleni.jpg)
 
 [1zoom](https://www.1zoom.me/ja/wallpaper/66358/z276/)
@@ -65,6 +67,8 @@ issuedAt: 2020-11-05T15:20:43.326Z
     いまやアニメは立派なメジャーカルチャーだから！！勘違いしないで！！
   </div>
 </div>
+
+
 
 <h2>①オシャレな絵柄と普遍の勧善懲悪　『プロメア』</h2>
 
@@ -79,11 +83,10 @@ issuedAt: 2020-11-05T15:20:43.326Z
 
 引用：[animate times](https://www.animatetimes.com/news/details.php?id=1576577933)
 
-
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-   合体ロボとか悪の組織とか、設定はめちゃめちゃベタなオタクアニメなのに、オシャレにしあがっていたよね。
+   合体ロボとか悪の組織とか、設定はめちゃめちゃベタなオタクアニメなのに、オシャレに仕上がっていたよね。
   </div>
 </div>
 
@@ -107,8 +110,6 @@ issuedAt: 2020-11-05T15:20:43.326Z
 ![](/img/gfm7vkzs.jpeg)
 
 引用：[UP GARAGE](https://www.upgarage.com/shopblog/402/2020/08/03/%E3%82%84%E3%82%89%E3%82%8C%E3%81%9F%E3%82%89%E3%82%84%E3%82%8A%E8%BF%94%E3%81%99%E3%80%81%E5%80%8D%E8%BF%94%E3%81%97%E3%81%A0%EF%BC%81%EF%BC%81/)
-
-
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -179,7 +180,6 @@ issuedAt: 2020-11-05T15:20:43.326Z
 
 引用：[amazon](https://www.amazon.co.jp/%E6%AD%A3%E8%A7%A3%E3%81%99%E3%82%8B%E3%82%AB%E3%83%89/dp/B06Y17K7RS)
 
-
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
@@ -204,9 +204,6 @@ issuedAt: 2020-11-05T15:20:43.326Z
 ![](/img/seikaisurukado.jpg)
 
 引用：[ANIMA](http://www.studioanima.co.jp/works/project-1329/)
-
-
-
 
 <h1>ヤハクィザシュニナ</h1>
 
