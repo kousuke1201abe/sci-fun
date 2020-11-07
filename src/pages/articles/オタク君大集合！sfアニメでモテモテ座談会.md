@@ -7,7 +7,7 @@ categories:
 tags:
   - yurutalk
   - anime
-featuredimage: /img/sfyututalk.png
+featuredimage: /img/yututalk04.png
 issuedAt: 2020-11-05T15:20:43.326Z
 ---
 <div class="talk-left">
