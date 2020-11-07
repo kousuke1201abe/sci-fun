@@ -216,7 +216,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-  主題のためにキャラクターたちのが弄ばれた感じはある。
+  大いなる流れのためにキャラクターたちが弄ばれた感じはある。
   </div>
 </div>
 
@@ -307,12 +307,16 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <h2>③男女問わず大ヒット！　『PSYCHO-PASS』</h2>
 </div>
 
+<br>
+
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
   美少年といえば、PSYCHO-PASSの槙島さんでしょ。
   </div>
 </div>
+
+<br>
 
 ![](/img/psycho_pass.jpeg)
 
@@ -399,6 +403,10 @@ issuedAt: 2020-11-07T01:21:55.273Z
   </div>
 </div>
 
+<br><br>
+
+
+
 <div id="004">
 <h2>④SF新時代を切り開いた『伊藤計劃三部作』</h2>
 </div>
@@ -427,6 +435,8 @@ issuedAt: 2020-11-07T01:21:55.273Z
 一番人気があったのはハーモニーかな。
   </div>
 </div>
+
+<br>
 
 ![](/img/main_harmony.png)
 
@@ -457,12 +467,16 @@ issuedAt: 2020-11-07T01:21:55.273Z
 
 引用：[project itoh](https://project-itoh.com/shisha/index.html)
 
+<br><br>
+
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
 個人的には虐殺器官が一番面白かった。ハリウッド映画化してほしい。
   </div>
 </div>
+
+<br><br>
 
 ![](/img/10038992_h_pc_l.jpg)
 
