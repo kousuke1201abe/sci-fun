@@ -498,7 +498,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 
 
 
-### [伊藤計劃「虐殺器官」を「オールド・ボーイ」パク・チャヌク監督が実写映画化]([onfident-euler-cf03d1.netlify.app/admin/#/collections/article](onfident-euler-cf03d1.netlify.app/admin/#/collections/article))
+### [伊藤計劃「虐殺器官」を「オールド・ボーイ」パク・チャヌク監督が実写映画化](https://eiga.com/news/20160202/12/)
 
 <br>
 
