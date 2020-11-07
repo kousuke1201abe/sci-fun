@@ -133,7 +133,7 @@ SF作品であるものの、刑事と共に謎を追う、ミステリーとし
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B075DWQ7KV&linkId=22fbf977fe40b0d966404b04fde9a0e3&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
     </iframe>
 <br><br>
-
+</div>
 <div id="003">
 
 ## ③「もし、ナチスが世界全体を支配していたら・・・」
@@ -266,8 +266,6 @@ TENETを彷彿とさせる世界観で、枝分かれした世界線が行きつ
 
 ## まとめ
 
-</div>
-
 <br>
 
 どの作品も「本当にこんな世界があったかもしれない」と思えるほどに、リアルな世界観が構築されており、ページをめくる手が止まらないこと間違いなしだ。
@@ -276,3 +274,4 @@ TENETを彷彿とさせる世界観で、枝分かれした世界線が行きつ
 そして、私たちの未来も、たった一つの選択次第で、平和に向かうことも、はたまたディストピアに向かってしまうこともあるかもやもない。
 <br>
 「もしも」の世界に浸りながら、どのような未来を選び取るべきなのかを、いま、この機会にじっくり考えてみてはいかがだろうか。
+</div>
