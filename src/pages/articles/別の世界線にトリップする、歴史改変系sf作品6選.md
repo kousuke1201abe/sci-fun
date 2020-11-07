@@ -13,7 +13,7 @@ tags:
   - 村上龍
   - ミシェル・ウェルベック
   - Amazon prime video
-featuredimage: /img/1280px-man_high_castle_-tv_series-_map-2.svg.png
+featuredimage: /img/1280px-man_high_castle_-tv_series-_map-2.png
 issuedAt: 2020-11-05T11:39:28.159Z
 ---
 米大統領選の決着の時が近付いている。
