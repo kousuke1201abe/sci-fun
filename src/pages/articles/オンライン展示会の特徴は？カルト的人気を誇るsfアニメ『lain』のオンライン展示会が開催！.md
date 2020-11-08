@@ -5,7 +5,10 @@ featured: false
 categories:
   - CULTURE
 tags:
+  - serial experiments lain
   - lain
+  - オンライン展示会
+  - SFアニメ
 featuredimage: /img/museum_banner.jpg
 issuedAt: 2020-11-07T14:59:25.840Z
 ---
