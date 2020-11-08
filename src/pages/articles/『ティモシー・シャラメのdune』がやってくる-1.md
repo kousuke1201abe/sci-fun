@@ -43,7 +43,7 @@ DUNEを観たことはあるだろうか。そう、1984年版のデヴィッド
 
 ##### 1. ホドロフスキーのDUNE
 
-![jow](blob:https://confident-euler-cf03d1.netlify.app/aa3b1dfd-d63d-4566-ba07-b11d0a7923ac)
+![jow](blob:https://confident-euler-cf03d1.netlify.app/c7be828c-98c1-4533-84c7-971211004155)
 
 アレハンドロ・ホドロフスキーはDUNEを撮ろうとした。詳細の説明は企画から頓挫するまでを描いたドキュメンタリー『ホドロフスキーのDUNE』に譲るが、皇帝役にサルバドール・ダリを抜擢し、出演時間一分につき10万ドルという契約を交わしたエピソードはあまりにも強烈だ。
 ピンク・フロイドをBGMにダリが黄金の便座に座るDUNEを観る機会は残念ながら我々には二度と訪れない。
@@ -62,7 +62,7 @@ DUNEを観たことはあるだろうか。そう、1984年版のデヴィッド
 
 ##### 3. デヴィッド・リンチのDUNE
 
-![dav](https://www.escapistmagazine.com/v2/wp-content/uploads/2020/04/dune-poster-new-701x395.jpg)
+![dav](blob:https://www.escapistmagazine.com/v2/wp-content/uploads/2020/04/dune-poster-new-701x395.jpg)
 
 『DUNE 砂の惑星』は優れた映画だろうか？答えは間違いなくイエスだ。確かにセリフの半分以上がささやき声で交わされるこの映画はかなりユニークであり、\
 人によっては受けつけないかもしれない。それでも依然としてこの映画が優れたSF超大作であることは確かだが、ほぼ同時期に公開された『スター・ウォーズ エピソード6/ジェダイの帰還』と比肩する映画だろうか？\
