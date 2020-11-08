@@ -36,13 +36,13 @@ issuedAt: 2020-11-07T14:59:25.840Z
 さらに、オンライン展示会限定ショップではバーチャルフィギュア(VRM)や、保有日数が
 表示される保有証明書付きのデジタルコレクションなどが販売されている。一部のデジタルコレクションは、『real world』でも楽しめるように実際に注文できる。
 
+![](/img/lain_stand.jpg)
+出典: [「serial experiments lain 2020 eXhibition」ショップ｜Anique（アニーク](https://lp.anique.jp/cp/lain02/)
 
 
 <div id="#online-eXhibition">
 
 ## オンライン展示会の魅力や特徴について
-
-
 
 玲音は世界観にあっていた。
 
