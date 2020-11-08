@@ -10,6 +10,8 @@ tags:
 featuredimage: /img/スクリーンショット-2020-11-05-10.10.41.png
 issuedAt: 2020-11-07T05:11:26.750Z
 ---
+<details open><summary>目次</summary>
+
 [1.DUNEとは？](#1)
 
 [2.ホドロフスキーのDUNE](#2)
@@ -19,6 +21,8 @@ issuedAt: 2020-11-07T05:11:26.750Z
 [4.デヴィッド・リンチのDUNE](#4)
 
 [5.そしてドゥニ・ヴィルヌーヴのDUNEへ](#5)
+
+</details>
 
 <br>
 
