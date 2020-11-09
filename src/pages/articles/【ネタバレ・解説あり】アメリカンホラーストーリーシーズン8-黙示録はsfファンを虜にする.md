@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 【ネタバレあり】アメリカンホラーストーリーシーズン8 黙示録はSFファンを虜にする
+title: 【ネタバレあり】『アメリカンホラーストーリーシーズン8 黙示録』はSFファンを虜にする
 featured: false
 categories:
   - MOVIES
