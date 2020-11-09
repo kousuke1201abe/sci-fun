@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: カルト的人気を誇るSFアニメ『lain』オンライン展覧会が開催！参加してみた
+title: カルト的人気を誇るSFアニメ『lain』オンライン展覧会に参加してみてわかったこと
 featured: false
 categories:
   - CULTURE
