@@ -10,7 +10,7 @@ tags:
   - オンライン展覧会
   - SFアニメ
   - サイバーパンク
-featuredimage: /img/museum_banner.jpg
+featuredimage: /img/lain2020eXhibition.jpg
 issuedAt: 2020-11-07T14:59:25.840Z
 ---
 <details open><summary>目次</summary>
