@@ -8,6 +8,7 @@ tags:
   - サイバーパンク
   - ディストピア
   - ゲーム
+  - VA-11 Hall-A
 featuredimage: /img/vljm38018_640x360.jpeg
 issuedAt: 2020-11-12T00:24:14.159Z
 ---
@@ -30,6 +31,7 @@ issuedAt: 2020-11-12T00:24:14.159Z
 </div>
 
 <div id="what-va11halla">
+
 ## ゲーム『VA-11 Hall-A』とは？
 
 押井守や攻殻機動隊に強く影響を受けた、ベネズエラのゲーム開発チーム『Sukeban Games』から発売された『VA-11 Hall-A: Cyberpunk Bartender Action』。通称『Va11halla(ヴァルハラ)』。80年代風の洒落たBGMに、古典的なビジュアルノベルのようなUI。本作はPC版、PS4版、Switch版、Vita版が存在しているが、2017年の時点で、PC版の販売数は約20万本を記録している。<br><br>
