@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: ゲーム『VA-11 Hall-A』で知る、ディストピア世界を生きる人の本音
+title: ゲーム『VA-11 Hall-A』で知る、ディストピア世界を生きる人のリアル
 featured: false
 categories:
   - BUSINESS
