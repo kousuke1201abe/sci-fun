@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: サイバーパンク『VA11halla』の魅力を紹介
+title: ゲーム『VA-11 Hall-A』で知る、ディストピア世界を生きる人々の姿
 featured: false
 categories:
   - BUSINESS
@@ -9,8 +9,12 @@ tags:
 featuredimage: /img/150.jpg
 issuedAt: 2020-11-12T00:24:14.159Z
 ---
-押井守や攻殻機動隊に強く影響を受けた、ベネズエラのゲーム開発チーム『Sukeban Games』から発売された『VA-11 Hall-A: Cyberpunk Bartender Action』。通称『Va11halla(ヴァルハラ)』。
-舞台は
+## 『VA-11 Hall-A』の世界観
+
+押井守や攻殻機動隊に強く影響を受けた、ベネズエラのゲーム開発チーム『Sukeban Games』から発売された『VA-11 Hall-A: Cyberpunk Bartender Action』。通称『Va11halla(ヴァルハラ)』。<br>
+舞台は、西暦207X年。暴力が蔓延し、全市民にナノマシンが注入され、政府の監視対象となった街、グリッチシティ。そんな、抑圧された市民たちの憩いの場は、ヴァルハラと呼ばれるBARだった。<br>
+ヴァルハラでバーテンダーとして働くジルは、疲弊した市民たちの愚痴を聞き、彼らの抽象的なカクテルのオーダーに応え、コミュニケーションを取っていく。<br>
+『Va11halla』の物語はこのBARで始まり、完結する。
 
 
 プレイヤーはバー「VA-11 Hall-A」のバーテンダーとなり、客から注文を受け、カクテルを作り提供していく。提供したカクテルによって物語が分岐する[5]。けだるい大人の会話を楽しみたい
