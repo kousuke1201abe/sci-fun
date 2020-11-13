@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: ゲーム『VA-11 Hall-A』で知る、ディストピア世界を生きる人のリアル
+title: ゲーム『VA-11 Hall-A』で知る、ディストピアを生きる人のリアル
 featured: false
 categories:
-  - BUSINESS
+  - CULTURE
 tags:
   - サイバーパンク
   - ディストピア
@@ -21,6 +21,7 @@ issuedAt: 2020-11-12T00:24:14.159Z
 [SFゲーム作品に馴染みない人も楽しめる](#osusume)
 
 </details>
+<br>
 
 <div id="check">
 
