@@ -9,7 +9,7 @@ tags:
   - ディストピア
   - ゲーム
   - VA-11 Hall-A
-featuredimage: /img/vljm38018_640x360.jpeg
+featuredimage: /img/va11halla_20201114.jpg
 issuedAt: 2020-11-12T00:24:14.159Z
 ---
 <details open><summary>目次</summary>
