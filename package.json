@@ -47,7 +47,7 @@
     "react-share": "^4.2.1",
     "styled-components": "^5.1.1",
     "styled-reset": "^4.2.2",
-    "typescript": "^3.6.4",
+    "typescript": "^4.0.5",
     "uuid": "^3.2.1"
   },
   "keywords": [
@@ -64,6 +64,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.7.0",
+    "@typescript-eslint/parser": "^4.7.0",
+    "eslint": "^7.13.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-react": "^7.21.5",
+    "gatsby-plugin-eslint": "^2.0.8",
     "prettier": "^1.15.3"
   }
 }
