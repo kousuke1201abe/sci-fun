@@ -1,15 +1,17 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
-import Helmet from 'react-helmet'
-import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
-import SnsShare from '../components/SnsShare'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
-import RelatedArticles from '../components/RelatedArticles'
-import Seo from '../components/Seo'
-import GlobalCss from '../components/GlobalCss'
+import React from 'react';
+import PropTypes from 'prop-types';
+import { kebabCase } from 'lodash';
+import Helmet from 'react-helmet';
+import { graphql, Link } from 'gatsby';
+import Layout from '../components/Layout';
+import Content, {
+  HTMLContent,
+} from '../components/Content';
+import SnsShare from '../components/SnsShare';
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
+import RelatedArticles from '../components/RelatedArticles';
+import Seo from '../components/Seo';
+import GlobalCss from '../components/GlobalCss';
 
 export const BlogPostTemplate = ({
   content,
@@ -21,10 +23,13 @@ export const BlogPostTemplate = ({
   issuedAt,
   featuredimage,
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
 
   return (
-    <div className="container" style={{padding: "70px 10px 0px 10px"}}>
+    <div
+      className="container"
+      style={{ padding: '70px 10px 0px 10px' }}
+    >
       <section className="section">
         {helmet || ''}
         <div className="content blogpost">
@@ -32,19 +37,31 @@ export const BlogPostTemplate = ({
             <div className="column is-6 is-offset-one-quarter">
               <div className="columns is-multiline">
                 <div className="is-parent column is-12">
-                  <ul className="categorylist aldrich" style={{margin: "0px"}}>
-                    {categories.map(category => (
-                      <li key={category + `category`} className="category-item">
+                  <ul
+                    className="categorylist aldrich"
+                    style={{ margin: '0px' }}
+                  >
+                    {categories.map((category) => (
+                      <li
+                        key={category + `category`}
+                        className="category-item"
+                      >
                         {category}
                       </li>
                     ))}
                   </ul>
-                  <h1 className="is-size-5-mobile is-size-2-widescreen has-text-weight-bold is-bold-light is-marginless" style={{lineHeight: "140%"}}>
+                  <h1
+                    className="is-size-5-mobile is-size-2-widescreen has-text-weight-bold is-bold-light is-marginless"
+                    style={{ lineHeight: '140%' }}
+                  >
                     {title}
                   </h1>
-                  <div style={{marginTop: "20px"}}>
+                  <div style={{ marginTop: '20px' }}>
                     {featuredimage ? (
-                      <div className="featured-thumbnail" style={{marginBottom: "20px"}}>
+                      <div
+                        className="featured-thumbnail"
+                        style={{ marginBottom: '20px' }}
+                      >
                         <PreviewCompatibleImage
                           imageInfo={{
                             image: featuredimage,
@@ -54,21 +71,42 @@ export const BlogPostTemplate = ({
                       </div>
                     ) : null}
                   </div>
-                  <p className="aldrich" style={{color: "grey", fontSize: "12px", paddingTop: "10px"}}>{issuedAt}</p>
-                  <ul className="categorylist aldrich" style={{marginTop: "10px"}}>
-                    {tags.map(tag => (
+                  <p
+                    className="aldrich"
+                    style={{
+                      color: 'grey',
+                      fontSize: '12px',
+                      paddingTop: '10px',
+                    }}
+                  >
+                    {issuedAt}
+                  </p>
+                  <ul
+                    className="categorylist aldrich"
+                    style={{ marginTop: '10px' }}
+                  >
+                    {tags.map((tag) => (
                       <Link to={`/tags/${kebabCase(tag)}/`}>
-                        <li key={tag + `category`} className="tag-item">
+                        <li
+                          key={tag + `category`}
+                          className="tag-item"
+                        >
                           #{tag}
                         </li>
                       </Link>
                     ))}
                   </ul>
                 </div>
-                <div style={{marginTop: "30px"}}>
+                <div style={{ marginTop: '30px' }}>
                   <PostContent content={content} />
-                  <div style={{marginTop: "30px"}}>
-                    <SnsShare url={typeof window !== "undefined" ? window.location.href : ""} />
+                  <div style={{ marginTop: '30px' }}>
+                    <SnsShare
+                      url={
+                        typeof window !== 'undefined'
+                          ? window.location.href
+                          : ''
+                      }
+                    />
                   </div>
                 </div>
               </div>
@@ -77,8 +115,8 @@ export const BlogPostTemplate = ({
         </div>
       </section>
     </div>
-  )
-}
+  );
+};
 
 BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
@@ -87,10 +125,10 @@ BlogPostTemplate.propTypes = {
   issuedAt: PropTypes.string,
   helmet: PropTypes.object,
   featuredimage: PropTypes.object,
-}
+};
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post, related: related } = data
+  const { markdownRemark: post, related: related } = data;
 
   return (
     <Layout>
@@ -117,22 +155,26 @@ const BlogPost = ({ data }) => {
         issuedAt={post.frontmatter.issuedAt}
         featuredimage={post.frontmatter.featuredimage}
       />
-      <RelatedArticles posts={related.edges}/>
+      <RelatedArticles posts={related.edges} />
     </Layout>
-  )
-}
+  );
+};
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
     related: PropTypes.object,
   }),
-}
+};
 
-export default BlogPost
+export default BlogPost;
 
 export const pageQuery = graphql`
-  query BlogPostByID($id: String!, $category: String!, $title: String!) {
+  query BlogPostByID(
+    $id: String!
+    $category: String!
+    $title: String!
+  ) {
     markdownRemark(id: { eq: $id }) {
       id
       html
@@ -151,9 +193,17 @@ export const pageQuery = graphql`
         }
       }
     }
-    related :allMarkdownRemark(
-      filter: { frontmatter: { categories: { in: [$category] }, title: { ne: $title } } }
-      sort: { fields: [frontmatter___issuedAt], order: DESC }
+    related: allMarkdownRemark(
+      filter: {
+        frontmatter: {
+          categories: { in: [$category] }
+          title: { ne: $title }
+        }
+      }
+      sort: {
+        fields: [frontmatter___issuedAt]
+        order: DESC
+      }
       limit: 3
     ) {
       totalCount
@@ -178,4 +228,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
