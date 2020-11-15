@@ -243,11 +243,9 @@ issuedAt: 2020-11-15T16:35:35.800Z
 
 ![](/img/soundtrack_gattaca.jpg)
 
-**引用：株式会社リバイブ**<http://www.revive.co.jp/magokoro/scrap_and_build/movie-gattaca/>
+引用： [株式会社リバイブ](http://www.revive.co.jp/magokoro/scrap_and_build/movie-gattaca/)
 
-**Youtube  link**
-
-<br>
+<br><br>
 
 切なさに満ちたヴァイオリンの旋律、心踊るクラシックの名曲の数々。
 
@@ -255,7 +253,11 @@ issuedAt: 2020-11-15T16:35:35.800Z
 
 仕事がうまくいかないとき、「欠陥品」の烙印を押されながらも、宇宙飛行士になる夢に向かって努力し、信念を貫いた主人公の姿を思い出してほしい。このアルバムは、きっと貴方の心を支えてくれるだろう。
 
-<br>
+<br><br>
+
+<iframe src="https://open.spotify.com/embed/playlist/2FTVzkdteWz50Om7xxKp6b" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br><br>
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -304,9 +306,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 
 ![](/img/soundtrack_tenet.jpg)
 
-引用: note
-
-[https://note.com/iso\_zin\_/n/n1735240d4cfa](https://note.com/iso_zin_/n/n1735240d4cfa)
+引用: [note](https://note.com/iso_zin_/n/n1735240d4cfa)
 
 **Spotify link**
 
@@ -317,6 +317,12 @@ issuedAt: 2020-11-15T16:35:35.800Z
 まず、最初の重低音から心を奪われる。作品の肝となる、時間の逆行を見事にサウンドで表現している。エレクトロニックミュージックが好きな方は、ぴったりのアルバムだ。
 
 〆切直前、終わらない仕事、大ピンチの夜でも、このサウンドトラックを聴けば大丈夫。今すぐ時間を逆行して、過去を変えよう。
+
+<br><br>
+
+<iframe src="https://open.spotify.com/embed/album/3XVZnD9SKNPcN3YJvho9Y7" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br><br>
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -346,17 +352,21 @@ issuedAt: 2020-11-15T16:35:35.800Z
   </div>
 </div>
 
+<br>
+
+>
 > **『TENET』って？**
 >
-> 2020年に公開された、巨匠、クリストファー・ノーラン監督の最新作。名もなき男が第三次世界大戦を防ぐため、時間を逆行して過去を変えに行く、SF超大作。ノーラン作品史上最大難易度と言われている本作について、監督はその着想を20年前から温めていたが、「私はこの脚本の練り直しに6, 7年は掛けている」と発言している。
+>
+>  2020年に公開された、巨匠、クリストファー・ノーラン監督の最新作。名もなき男が第三次世界大戦を防ぐため、時間を逆行して過去を変えに行く、SF超大作。ノーラン作品史上最大難易度と言われている本作について、監督はその着想を20年前から温めていたが、「私はこの脚本の練り直しに6, 7年は掛けている」と発言している。
+
+<br><br>
 
 ## 仕事辞めたくなったら「GODZILLA」
 
 ![](/img/soundtrack_godzilla.png)
 
-**引用　バゴプラ**
-
-<https://virtualgorillaplus.com/music/godzilla-king-of-the-monsters-songs/>
+引用：[バゴプラ](https://virtualgorillaplus.com/music/godzilla-king-of-the-monsters-songs/)
 
 **Spotify link**
 
@@ -364,11 +374,15 @@ issuedAt: 2020-11-15T16:35:35.800Z
 
 最後はこれだ、これしかない。
 
-メインタイトルとして採用されたのは、伊福部昭による普及の名曲**「ゴジラのテーマ」(1954)をアレンジした「Godzilla Main Title」**。日本のゴジラファンであれば聞こえた瞬間に背筋が伸びるあのイントロにはハリウッドらしい重厚さが加えられている。次いでおなじみの「デデデン、デデデン」というメロディが日本的な掛け声と共に流れ出す。ストリングスとホーンの描く旋律が頂点に達するや、『ゴジラ キング・オブ・モンスターズ』という作品のスケールに呼応する壮大な展開を見せる。
-
 テーマ曲のGODZILLAには、和太鼓のサウンドがミックスされ、サムライの魂を掻き立ててくれるだろう。
 
 大丈夫だ、まだ間に合う。頑張れ。
+
+<br>
+
+<iframe src="https://open.spotify.com/embed/album/6VQkLK6fJO8hFJmEF5dJz4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br>
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -391,9 +405,9 @@ issuedAt: 2020-11-15T16:35:35.800Z
   </div>
 </div>
 
-> **『GOZILLA』って？**
+> **『GODZILLA  KING of the MONSTERS』って？**
 >
-> 2019年5月31日、マイケル・ドハティ監督の**『ゴジラ キング・オブ・モンスターズ』**がいよいよ公開された。『キングコング: 髑髏島の巨神』(2017)に続く“モンスターバース”シリーズの第3作目、日本ではゴジラ65周年記念作品にあたり、「ゴジラ」シリーズの“系譜”にどのような爪痕を残すのか、かねてより注目を集めていた。
+> 2019年公開、日本ではゴジラ65周年作品で、マイケル・ドハティ監督によりハリウッド映画化された。
 
 <br><br>
 
@@ -418,7 +432,7 @@ GODZILAの音楽では、バゴプラさんで素敵な記事を発見したの�
 </div>
 
 <div class="talk-left">
-  <div class="ua"></div>
+  <div class="uma"></div>
   <div class="serif">
     <p>テレワークで仕事中に聴く音楽が聴けるようになってから、BGMは結構大事だなって思うようになった。<p>
   </div>
