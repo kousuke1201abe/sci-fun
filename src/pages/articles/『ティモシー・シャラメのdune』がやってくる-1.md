@@ -1,14 +1,14 @@
 ---
 templateKey: blog-post
 title: 『ティモシー・シャラメのDUNE』がやってくる
-featured: false
+featured: true
 description: 2020年、ついにティモシー・シャラメ主演のDUNEが公開される。公開までに映画としてのDUNEが辿ってきた歴史をおさらいしておこう。
 categories:
   - MOVIES
 tags:
   - DUNE
 featuredimage: /img/dune_20201114.jpg
-issuedAt: 2020-11-07T05:11:26.750Z
+issuedAt: 2020-11-14T05:11:26.750Z
 ---
 <details open><summary>目次</summary>
 
