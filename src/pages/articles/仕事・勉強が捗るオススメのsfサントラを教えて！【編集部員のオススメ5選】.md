@@ -115,7 +115,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-    <h3>メッセージはTwitterにて、お待ちしています！<h3>
+    <h3>記事へのリクエストはTwitterまで。お待ちしています！<h3>
   </div>
 </div>
 
@@ -130,9 +130,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 
 ![](/img/star-wars-episode-ix-logo.jpg)
 
-**引用：\[Robots & Dragons] <**<http://www.robots-and-dragons.de/news/113239-star-wars-episode-ix-drehstart-womoeglich-schon-juli>>
-
-**Spotify / Apple music link**
+引用： [Robots & Dragons](http://www.robots-and-dragons.de/news/113239-star-wars-episode-ix-drehstart-womoeglich-schon-juli)
 
 <br><br>
 
@@ -140,9 +138,13 @@ issuedAt: 2020-11-15T16:35:35.800Z
 
 イマイチやる気が起きない朝の業務でも、このメイン・テーマを聞けばきっとシャキッと目が覚めるはず。
 
-どんなに辛い仕事が続いても、自分の功績を誰かに奪われたとしても、決して他人を恨み暗黒面に落ちてはならない。宇宙の平和の為に闘った、愛おしい仲間たちのことを思い出せば、目の前の悩みなどちっぽけなものに見えてくるはずだ。
+どんなに辛い仕事が続いても、もし自分の功績を誰かに奪われてしまったとしても、決して他人を恨み暗黒面に堕ちてはならない。宇宙の平和の為に闘った、愛おしい仲間たちのことを思い出せば、目の前の悩みなど、ちっぽけなものに見えてくるはずだ。
 
-フォースを信じ、強く誇り高いジェダイとなって、仕事に取り組んでみるのは如何だろうか？
+フォースを信じ、強く誇り高いジェダイになりきって、仕事に取り組んでみるのはいかがだろうか？
+
+<br><br>
+
+<iframe src="https://open.spotify.com/embed/playlist/6LqIGKPvVc5QpbzX3eSpS2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <br><br>
 
@@ -159,22 +161,22 @@ issuedAt: 2020-11-15T16:35:35.800Z
     <h3>ダース・ベイダーのテーマを着メロにしていた人、昔よくいたよね。<h3>
   </div>
 </div>
+<br>
 
 > **『STARWARS』シリーズって？**
 >
-> ジョージ・ルーカス監督の構想をもとにしたスペース・オペラ。[](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9 "ジョージ・ルーカス")[](https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0 "ルーカスフィルム")
->
-> 「遠い昔 はるかかなたの銀河系」を舞台に、映画、アニメ、小説、コミック、ゲーム[](https://ja.wikipedia.org/wiki/%E6%98%A0%E7%94%BB "映画")など複数の媒体が展開されている。音楽を担当したのは、言わずと知れた世界の大巨匠、ジョン・ウィリアムズ。
+> ジョージ・ルーカス監督の構想をもとにしたスペース・オペラ。
+> 「遠い昔 はるかかなたの銀河系」を舞台に、映画、アニメ、小説、コミック、ゲームなど複数の媒体が展開されている。音楽を担当したのは、言わずと知れた世界の大巨匠、ジョン・ウィリアムズ。
+
+<br>
 
 ## おしゃれ感を演出「残響のテロル」
 
 ![](/img/soundtrack_zankyou.jpg)
 
-**引用：dアニメストア**
+引用： [dアニメストア](https://anime.dmkt-sp.jp/animestore/ci_pc?workId=11367)
 
-<https://anime.dmkt-sp.jp/animestore/ci_pc?workId=11367>
-
-**Spotify / Apple music link**
+<br>
 
 聴く人全てを魅了する、幻想的でアンビエントなサウンド。変則的なリズム。
 
@@ -183,6 +185,14 @@ issuedAt: 2020-11-15T16:35:35.800Z
 冷たい空気を感じさせるアイスランドのサウンドは、作業を遮ることなく、むしろ集中に向かわせてくれる、テレワークに最適なサウンドトラックではないだろうか？
 
 数曲組み込まれている、アイスランドのミュージシャン、アルノル・ダン氏のハイ・トーンの澄んだヴォーカルも魅力的だ。
+
+<br><br>
+
+<iframe src="https://open.spotify.com/embed/album/5FzuQABR0MQBC4X60iEzSF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/embed/album/5JhONeB41irLN6oHc1r3I6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br><br>
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -381,11 +391,15 @@ issuedAt: 2020-11-15T16:35:35.800Z
   </div>
 </div>
 
-『GOZILLA』って？
-
-2019年5月31日、マイケル・ドハティ監督の**『ゴジラ キング・オブ・モンスターズ』**がいよいよ公開された。『キングコング: 髑髏島の巨神』(2017)に続く“モンスターバース”シリーズの第3作目、日本ではゴジラ65周年記念作品にあたり、「ゴジラ」シリーズの“系譜”にどのような爪痕を残すのか、かねてより注目を集めていた。
+> **『GOZILLA』って？**
+>
+> 2019年5月31日、マイケル・ドハティ監督の**『ゴジラ キング・オブ・モンスターズ』**がいよいよ公開された。『キングコング: 髑髏島の巨神』(2017)に続く“モンスターバース”シリーズの第3作目、日本ではゴジラ65周年記念作品にあたり、「ゴジラ」シリーズの“系譜”にどのような爪痕を残すのか、かねてより注目を集めていた。
 
 <br><br>
+
+GODZILAの音楽では、バゴプラさんで素敵な記事を発見したのでこちらもチェック！
+
+バゴプラリンク
 
 ## まとめ
 
