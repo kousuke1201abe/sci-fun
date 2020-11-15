@@ -126,6 +126,8 @@ issuedAt: 2020-11-15T16:35:35.800Z
   </div>
 </div>
 
+<br>
+
 ## まずはド定番！「STARWARS」
 
 ![](/img/star-wars-episode-ix-logo.jpg)
@@ -368,21 +370,21 @@ issuedAt: 2020-11-15T16:35:35.800Z
 
 引用：[バゴプラ](https://virtualgorillaplus.com/music/godzilla-king-of-the-monsters-songs/)
 
-**Spotify link**
+<br>
 
 もうダメだ、限界だ。というときにはGODZILAだ。
 
 最後はこれだ、これしかない。
 
-テーマ曲のGODZILLAには、和太鼓のサウンドがミックスされ、サムライの魂を掻き立ててくれるだろう。
+テーマ曲のGODZILLA main themeでは、お馴染みのゴジラのテーマソングがハリウッド版として重厚にアレンジされ、さらに和太鼓のサウンドがミックスされている。サムライの魂を掻き立ててくれるだろう。。
 
 大丈夫だ、まだ間に合う。頑張れ。
 
-<br>
+<br><br>
 
 <iframe src="https://open.spotify.com/embed/album/6VQkLK6fJO8hFJmEF5dJz4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<br>
+<br><br>
 
 <div class="talk-left">
   <div class="usa"></div>
