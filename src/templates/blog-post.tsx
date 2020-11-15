@@ -86,14 +86,12 @@ export const BlogPostTemplate = ({
                     style={{ marginTop: '10px' }}
                   >
                     {tags.map((tag) => (
-                      <Link to={`/tags/${kebabCase(tag)}/`}>
-                        <li
-                          key={tag + `category`}
-                          className="tag-item"
-                        >
-                          #{tag}
-                        </li>
-                      </Link>
+                      <li
+                        key={tag + `category`}
+                        className="tag-item"
+                      >
+                        #{tag}
+                      </li>
                     ))}
                   </ul>
                 </div>
