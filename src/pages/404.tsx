@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '../components/Layout';
 
-const array = ['usa', 'uma', 'robo'];
+const array = ['404_01', '404_02'];
 const image_name =
   array[Math.floor(Math.random() * array.length)];
 
@@ -17,10 +17,9 @@ const NotFoundPage = () => (
       >
         <div className="columns">
           <div className="column is-10 is-offset-1 has-text-centered">
-            <h1 className="is-size-5">404 NOT FOUND...</h1>
             <img
               className="fas fa-lg"
-              src={`/img/${image_name}.png`}
+              src={`/img/${image_name}.jpg`}
               alt={image_name}
               style={{ borderRadius: '5px' }}
             />
