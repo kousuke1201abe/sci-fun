@@ -1,7 +1,11 @@
 const _ = require('lodash')
 const path = require('path')
-const { createFilePath } = require('gatsby-source-filesystem')
-const { fmImagesToRelative } = require('gatsby-remark-relative-images')
+const {
+  createFilePath,
+} = require('gatsby-source-filesystem')
+const {
+  fmImagesToRelative,
+} = require('gatsby-remark-relative-images')
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
@@ -10,7 +14,9 @@ exports.createPages = ({ actions, graphql }) => {
     {
       posts: allMarkdownRemark(
         limit: 1000
-        filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+        filter: {
+          frontmatter: { templateKey: { eq: "blog-post" } }
+        }
       ) {
         edges {
           node {
@@ -40,15 +46,16 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
     }
-  `).then(result => {
+  `).then((result) => {
     if (result.errors) {
-      result.errors.forEach(e => console.error(e.toString()))
+      result.errors.forEach((e) =>
+        console.error(e.toString())
+      )
       return Promise.reject(result.errors)
     }
 
-
     createPage({
-      path: "/",
+      path: '/',
       component: path.resolve(
         `src/templates/index-page.tsx`
       ),
@@ -56,10 +63,10 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.posts.edges
 
-    posts.forEach(edge => {
+    posts.forEach((edge) => {
       const id = edge.node.id
       const title = edge.node.frontmatter.title
-      let category = ""
+      let category = ''
       if (edge.node.frontmatter.categories !== null) {
         category = edge.node.frontmatter.categories[0]
       }
@@ -68,7 +75,9 @@ exports.createPages = ({ actions, graphql }) => {
         path: edge.node.fields.slug,
         categories: edge.node.frontmatter.categories,
         component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey)}.tsx`
+          `src/templates/${String(
+            edge.node.frontmatter.templateKey
+          )}.tsx`
         ),
         // additional data can be passed via context
         context: {
@@ -84,15 +93,24 @@ exports.createPages = ({ actions, graphql }) => {
     // Iterate through each post, putting all found categories into `categories`
 
     // Make categorie pages
-    categories.forEach(category => {
-      const categoryPath = `/categories/${_.kebabCase(category.fieldValue)}/`
+    categories.forEach((category) => {
+      const categoryPath = `/categories/${_.kebabCase(
+        category.fieldValue
+      )}/`
       const postsPerPage = 10
-      const numPages = Math.ceil(category.totalCount / postsPerPage)
+      const numPages = Math.ceil(
+        category.totalCount / postsPerPage
+      )
 
       Array.from({ length: numPages }).forEach((_, i) => {
         createPage({
-          path: i === 0 ? categoryPath : `${categoryPath}${i + 1}`,
-          component: path.resolve(`src/templates/categories.tsx`),
+          path:
+            i === 0
+              ? categoryPath
+              : `${categoryPath}${i + 1}`,
+          component: path.resolve(
+            `src/templates/categories.tsx`
+          ),
           context: {
             category: category.fieldValue,
             limit: postsPerPage,
@@ -109,10 +127,14 @@ exports.createPages = ({ actions, graphql }) => {
     // Iterate through each post, putting all found tags into `tags`
 
     // Make tag pages
-    tags.forEach(tag => {
-      const tagPath = `/tags/${_.kebabCase(tag.fieldValue)}/`
+    tags.forEach((tag) => {
+      const tagPath = `/tags/${_.kebabCase(
+        tag.fieldValue
+      )}/`
       const postsPerPage = 10
-      const numPages = Math.ceil(tag.totalCount / postsPerPage)
+      const numPages = Math.ceil(
+        tag.totalCount / postsPerPage
+      )
 
       Array.from({ length: numPages }).forEach((_, i) => {
         createPage({
@@ -135,7 +157,9 @@ exports.createPages = ({ actions, graphql }) => {
     Array.from({ length: numPages }).forEach((_, i) => {
       createPage({
         path: i === 0 ? `/articles` : `/articles/${i + 1}`,
-        component: path.resolve("./src/templates/articles.tsx"),
+        component: path.resolve(
+          './src/templates/articles.tsx'
+        ),
         context: {
           limit: postsPerPage,
           skip: i * postsPerPage,
