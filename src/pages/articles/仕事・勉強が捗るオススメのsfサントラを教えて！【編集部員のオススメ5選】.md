@@ -1,0 +1,435 @@
+---
+templateKey: blog-post
+title: 仕事・勉強が捗るオススメのSFサントラを教えて！【編集部員のオススメ5選】
+featured: false
+categories:
+  - CULTURE
+tags:
+  - YURUTALK
+featuredimage: /img/定義.jpg
+issuedAt: 2020-11-15T16:35:35.800Z
+---
+目次
+
+## ゆるとーくへのリクエスト大募集中！
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>ヤッホー、なにかです。<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>そういえばUSAって宇宙人なのに、どうしてなにかちゃんのペットなの？<p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>え？ちょっとしたプライドを捨てたら、ペットの方が楽だよ～。何もしなくてもごはん出てくるし、家賃や光熱費の心配もないし。<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>ありがちなヒモ男みたいなセリフだな。<p>
+  </div>
+</div>
+
+<br><br>
+
+**それでは早速本題に入りましょう。**
+
+<br><br>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>今日はですね〜、なんと。読者の方からリクエストを貰いました！！！わーい！<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>無理やり、頼んだのだけどね。<h3>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>早速読んでみたいと思いまーす<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>無視かよ。<h3>
+  </div>
+</div>
+
+<br>
+
+> **<h3>ペンネーム:　ジョン・ポールさん</h3>**
+>
+> **<br>**
+>
+> **初めまして！ゆるトークの雰囲気、好きです！**
+>
+> **最近テレワークになって、仕事中に音楽を聞けるようになったのですが、**
+>
+> **日本語の歌詞があると集中できません…**
+>
+> **仕が捗る作業用SFサントラを教えてください！**
+
+<br><br>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>ですって。ありがとうございます！<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>優しい人だ…<h3>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>たくさんリクエストいただけるようになるとイイネ！<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <h3>メッセージはTwitterにて、お待ちしています！<h3>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>それでは早速、わたしたちのオススメを紹介したいと思います。<br>トップバッターは、ROBOくん。<p>
+  </div>
+</div>
+
+## まずはド定番！「STARWARS」
+
+![](/img/star-wars-episode-ix-logo.jpg)
+
+**引用：\[Robots & Dragons] <**<http://www.robots-and-dragons.de/news/113239-star-wars-episode-ix-drehstart-womoeglich-schon-juli>>
+
+**Spotify / Apple music link**
+
+<br><br>
+
+映画の始まりを象徴する、トランペットのファンファーレ。
+
+イマイチやる気が起きない朝の業務でも、このメイン・テーマを聞けばきっとシャキッと目が覚めるはず。
+
+どんなに辛い仕事が続いても、自分の功績を誰かに奪われたとしても、決して他人を恨み暗黒面に落ちてはならない。宇宙の平和の為に闘った、愛おしい仲間たちのことを思い出せば、目の前の悩みなどちっぽけなものに見えてくるはずだ。
+
+フォースを信じ、強く誇り高いジェダイとなって、仕事に取り組んでみるのは如何だろうか？
+
+<br><br>
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>貴方の仕事も、フォースと共にあらんことを。<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>ダース・ベイダーのテーマを着メロにしていた人、昔よくいたよね。<h3>
+  </div>
+</div>
+
+> **『STARWARS』シリーズって？**
+>
+> ジョージ・ルーカス監督の構想をもとにしたスペース・オペラ。[](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9 "ジョージ・ルーカス")[](https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0 "ルーカスフィルム")
+>
+> 「遠い昔 はるかかなたの銀河系」を舞台に、映画、アニメ、小説、コミック、ゲーム[](https://ja.wikipedia.org/wiki/%E6%98%A0%E7%94%BB "映画")など複数の媒体が展開されている。音楽を担当したのは、言わずと知れた世界の大巨匠、ジョン・ウィリアムズ。
+
+## おしゃれ感を演出「残響のテロル」
+
+![](/img/soundtrack_zankyou.jpg)
+
+**引用：dアニメストア**
+
+<https://anime.dmkt-sp.jp/animestore/ci_pc?workId=11367>
+
+**Spotify / Apple music link**
+
+聴く人全てを魅了する、幻想的でアンビエントなサウンド。変則的なリズム。
+
+菅野よう子氏の才能と、世界中を駆け巡って制作された、その場所にしかない音が凝縮されたアルバムに仕上がっている。
+
+冷たい空気を感じさせるアイスランドのサウンドは、作業を遮ることなく、むしろ集中に向かわせてくれる、テレワークに最適なサウンドトラックではないだろうか？
+
+数曲組み込まれている、アイスランドのミュージシャン、アルノル・ダン氏のハイ・トーンの澄んだヴォーカルも魅力的だ。
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>スマートに仕事したい人は、アイスランド音楽は相性が良いと思う。<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>この会社に、引き金をひけ。<h3>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>それは犯罪。<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>残業のテロル<h3>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>それはブラック企業。<p>
+  </div>
+</div>
+
+<br>
+
+> **『残響のテロル』って？**
+>
+> MAPPA制作による、原作なしの完全オリジナルテレビアニメ作品。2014年夏に、フジテレビ「ノイタミナ」枠にて放送された。
+>
+> 監督の渡辺信一郎氏は、**アイスランドの音楽からこの作品を発想**し、劇中でもアイスランド語のキーワードを登場させている。それに従い、本作のサウンドトラックも、アイスランドのスタッフとミュージシャンを交え、**アイスランドの首都・レイキャヴィークのスタジオで録音**されている。
+
+<br>
+
+## 優雅な午後の仕事には「GATTACA」
+
+![](/img/soundtrack_gattaca.jpg)
+
+**引用：株式会社リバイブ**<http://www.revive.co.jp/magokoro/scrap_and_build/movie-gattaca/>
+
+**Youtube  link**
+
+<br>
+
+切なさに満ちたヴァイオリンの旋律、心踊るクラシックの名曲の数々。
+
+午後の仕事にぴったりの、穏やかで心地よいサウンドトラックだ。
+
+仕事がうまくいかないとき、「欠陥品」の烙印を押されながらも、宇宙飛行士になる夢に向かって努力し、信念を貫いた主人公の姿を思い出してほしい。このアルバムは、きっと貴方の心を支えてくれるだろう。
+
+<br>
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>仕事中はクラシックがしっくりくるかも。<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>作品を観たあとだと、気持ちを後押ししてくれるよね。<p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>懐かしいな、もう一回観たくなってきた。<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>ボクも宇宙飛行士になる<h3>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>うん、まずは定職に就こうね。<p>
+  </div>
+</div>
+
+<br>
+
+> **「GATTACA」って？**
+>
+> 1997年のSF映画。監督は、アンドリュー・ニコル氏。遺伝子操作により、優れた知能と体力と外見を持った「適正者」が数多く存在する近未来を舞台に展開する、切なさに満ちた美しいSFドラマ。繊細な世界観と心を打つテーマが、公開から20年以上たった今も、多くの人々を魅了している。
+
+<br>
+
+## 〆切直前の夜に！「TENET」
+
+![](/img/soundtrack_tenet.jpg)
+
+引用: note
+
+[https://note.com/iso\_zin\_/n/n1735240d4cfa](https://note.com/iso_zin_/n/n1735240d4cfa)
+
+**Spotify link**
+
+戦闘力が確実にアップするサウンドトラックだ。
+
+今年、もっとも話題になったSF映画『TENET』の音楽を担当したのは、『ブラックパンサー』でアカデミー賞を受賞した作曲家、ルドウイグ・ゴランソン。
+
+まず、最初の重低音から心を奪われる。作品の肝となる、時間の逆行を見事にサウンドで表現している。エレクトロニックミュージックが好きな方は、ぴったりのアルバムだ。
+
+〆切直前、終わらない仕事、大ピンチの夜でも、このサウンドトラックを聴けば大丈夫。今すぐ時間を逆行して、過去を変えよう。
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+    <p>これは、本当にかっこいい。テンションが上がる<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>時間逆行できるかも、って気分になる。<p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>それは無理だけどフロー状態で仕事できそう。<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>もちろん無理せずほどほどにね！<p>
+  </div>
+</div>
+
+> **『TENET』って？**
+>
+> 2020年に公開された、巨匠、クリストファー・ノーラン監督の最新作。名もなき男が第三次世界大戦を防ぐため、時間を逆行して過去を変えに行く、SF超大作。ノーラン作品史上最大難易度と言われている本作について、監督はその着想を20年前から温めていたが、「私はこの脚本の練り直しに6, 7年は掛けている」と発言している。
+
+## 仕事辞めたくなったら「GODZILLA」
+
+![](/img/soundtrack_godzilla.png)
+
+**引用　バゴプラ**
+
+<https://virtualgorillaplus.com/music/godzilla-king-of-the-monsters-songs/>
+
+**Spotify link**
+
+もうダメだ、限界だ。というときにはGODZILAだ。
+
+最後はこれだ、これしかない。
+
+メインタイトルとして採用されたのは、伊福部昭による普及の名曲**「ゴジラのテーマ」(1954)をアレンジした「Godzilla Main Title」**。日本のゴジラファンであれば聞こえた瞬間に背筋が伸びるあのイントロにはハリウッドらしい重厚さが加えられている。次いでおなじみの「デデデン、デデデン」というメロディが日本的な掛け声と共に流れ出す。ストリングスとホーンの描く旋律が頂点に達するや、『ゴジラ キング・オブ・モンスターズ』という作品のスケールに呼応する壮大な展開を見せる。
+
+テーマ曲のGODZILLAには、和太鼓のサウンドがミックスされ、サムライの魂を掻き立ててくれるだろう。
+
+大丈夫だ、まだ間に合う。頑張れ。
+
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>会社破壊してくれるかな、って気持ちになる。<h3>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>シン・ゴジラ公開されたとき、絶対僕の会社は燃えたと思っている。<p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>脳内でスッキリ会社を踏み潰したら、気を取り直して頑張ろうね！<p>
+  </div>
+</div>
+
+『GOZILLA』って？
+
+2019年5月31日、マイケル・ドハティ監督の**『ゴジラ キング・オブ・モンスターズ』**がいよいよ公開された。『キングコング: 髑髏島の巨神』(2017)に続く“モンスターバース”シリーズの第3作目、日本ではゴジラ65周年記念作品にあたり、「ゴジラ」シリーズの“系譜”にどのような爪痕を残すのか、かねてより注目を集めていた。
+
+<br><br>
+
+## まとめ
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>いかがでしたでしょうか？<p>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <p>やっぱり個性出るね～<p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="ua"></div>
+  <div class="serif">
+    <p>テレワークで仕事中に聴く音楽が聴けるようになってから、BGMは結構大事だなって思うようになった。<p>
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <p>新しいスピーカー、ほしいな〜<p>
+  </div>
+</div>
+
+<br><br>
+
+**みなさんも、お気にいりのSFサントラがあったら教えてくださいね。**
+
+<br><br>
+
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+    <p>公式Twitterに送ってね！<p>
+  </div>
+</div>
+
+<br>
+
+### **[SFゆるとーく 公式Twitterはこちら](https://twitter.com/SFyuruyuru)**
