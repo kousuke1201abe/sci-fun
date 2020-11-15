@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 【404 not found ファン必見】秀逸で個性的なデザインの404ページを集めてみた【ページが見つからなくて逆に嬉しい】
+title: 【404 not found マニア必見】秀逸な404ページを集めてみた【ページが見つからなくて逆に嬉しい】
 featured: false
 categories:
   - BUSINESS
@@ -233,7 +233,7 @@ noteでは、**404ページをクリエイターの作品を静かに見られ�
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    わたしたちのは<a href="https://syfylab.tokyo/">こちら</a>から見れるよ！
+    わたしたちのは<a href="https://syfylab.tokyo/404">こちら</a>から見れるよ！
   </div>
 </div>
 
