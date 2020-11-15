@@ -39,19 +39,19 @@ issuedAt: 2020-11-15T08:23:27.095Z
 
 <details close><summary>目次</summary>
 
-[Marvel](#marvel)
+[1.Marvel](#marvel)
 
-[Figma](#figma)
+[2.Figma](#figma)
 
-[Amazon](#amazon)
+[3.Amazon](#amazon)
 
-[ZOZOTOWN](#zozotown)
+[4.ZOZOTOWN](#zozotown)
 
-[GitHub](#github)
+[5.GitHub](#github)
 
-[NASA](#nasa)
+[6.NASA](#nasa)
 
-[note](#note)
+[7.note](#note)
 
 [おわりに](#ending)
 
@@ -61,7 +61,7 @@ issuedAt: 2020-11-15T08:23:27.095Z
 
 <div id="marvel">
 
-## Marvel
+## 1.Marvel
 
 ![marvel404](/img/marvel404.jpg "marvel404")
 
@@ -85,7 +85,7 @@ issuedAt: 2020-11-15T08:23:27.095Z
 
 <div id="figma">
 
-## Figma
+## 2.Figma
 
 ![figma404](/img/figma404.jpg "figma404")
 
@@ -105,7 +105,7 @@ UIのデザインツールを提供している[Figma](https://www.figma.com/)�
 
 <div id="amazon">
 
-## Amazon
+## 3.Amazon
 
 ![amazon404](/img/amazon404.jpg "amazon404")
 
@@ -127,7 +127,7 @@ UIのデザインツールを提供している[Figma](https://www.figma.com/)�
 
 <div id="zozotown">
 
-## ZOZOTOWN
+## 4.ZOZOTOWN
 
 ![zozotown404](/img/zozotown404.jpg "zozotown404")
 
@@ -146,7 +146,7 @@ UIのデザインツールを提供している[Figma](https://www.figma.com/)�
 
 <div id="github">
 
-## GitHub
+## 5.GitHub
 
 ![github404](/img/github404.jpg "github404")
 
@@ -170,7 +170,7 @@ GitHubらしさ全開のデザインで、マウスをホバーすると奥行�
 
 <div id="nasa">
 
-## NASA
+## 6.NASA
 
 ![nasa404](/img/nasa404.jpg "nasa404")
 
@@ -190,7 +190,7 @@ GitHubらしさ全開のデザインで、マウスをホバーすると奥行�
 
 <div id="note">
 
-## note
+## 7.note
 
 ![note404](/img/note404.jpg "note404")
 
