@@ -57,6 +57,8 @@ issuedAt: 2020-11-15T08:23:27.095Z
 
 </details>
 
+<br>
+
 <div id="marvel">
 
 ## Marvel
