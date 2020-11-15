@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 仕事・勉強が捗るオススメのSFサントラを教えて！【編集部員のオススメ4選】
+title: 仕事・勉強が捗るオススメのSFサントラを教えて！【編集部員のオススメ5選】
 featured: false
 categories:
   - CULTURE
@@ -17,7 +17,7 @@ issuedAt: 2020-10-06T11:12:33.774Z
 
 
 
-ゆるとーくへのリクエスト大募集中！
+## ゆるとーくへのリクエスト大募集中！
 
 
 
@@ -140,9 +140,9 @@ issuedAt: 2020-10-06T11:12:33.774Z
 
 
 
-![]()
+![](/img/star-wars-episode-ix-logo.jpg)
 
-**引用：**
+**引用：\[Robots & Dragons] <**<http://www.robots-and-dragons.de/news/113239-star-wars-episode-ix-drehstart-womoeglich-schon-juli>>
 
 
 
@@ -182,13 +182,21 @@ issuedAt: 2020-10-06T11:12:33.774Z
 >
 > ジョージ・ルーカス監督の構想をもとにしたスペース・オペラ。[](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9 "ジョージ・ルーカス")[](https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0 "ルーカスフィルム")
 >
-> 「**遠い昔 はるかかなたの銀河系**」を舞台に、映画、アニメ、小説、コミック、ゲーム[](https://ja.wikipedia.org/wiki/%E6%98%A0%E7%94%BB "映画")など複数の媒体が展開されている。
+> 「遠い昔 はるかかなたの銀河系」を舞台に、映画、アニメ、小説、コミック、ゲーム[](https://ja.wikipedia.org/wiki/%E6%98%A0%E7%94%BB "映画")など複数の媒体が展開されている。音楽を担当したのは、言わずと知れた世界の大巨匠、ジョン・ウィリアムズ。
 
 
 
 ## おしゃれ感を演出「残響のテロル」
 
-![]()
+![](/img/soundtrack_zankyou.jpg)
+
+**引用：dアニメストア**
+
+<https://anime.dmkt-sp.jp/animestore/ci_pc?workId=11367>
+
+
+
+
 
 **Spotify / Apple music link**
 
@@ -202,9 +210,9 @@ issuedAt: 2020-10-06T11:12:33.774Z
 
 菅野よう子氏の才能と、世界中を駆け巡って制作された、その場所にしかない音が凝縮されたアルバムに仕上がっている。
 
-冷たい空気を感じさせるアイスランドのサウンドは、作業を遮ることなく、むしろ集中に向かわせてくれる最適なサウンドトラックではないだろうか？
+冷たい空気を感じさせるアイスランドのサウンドは、作業を遮ることなく、むしろ集中に向かわせてくれる、テレワークに最適なサウンドトラックではないだろうか？
 
-数曲盛り込まれている、アルノル・ダン氏のハイ・トーンの澄んだヴォーカルも魅力的だ。
+数曲組み込まれている、アイスランドのミュージシャン、アルノル・ダン氏のハイ・トーンの澄んだヴォーカルも魅力的だ。
 
 
 
@@ -255,9 +263,11 @@ issuedAt: 2020-10-06T11:12:33.774Z
 
 ## 優雅な午後の仕事には「GATTACA」
 
-![]()
+![](/img/soundtrack_gattaca.jpg)
 
-引用：
+**引用：株式会社リバイブ**<http://www.revive.co.jp/magokoro/scrap_and_build/movie-gattaca/>
+
+
 
 **Youtube  link**
 
@@ -316,7 +326,13 @@ issuedAt: 2020-10-06T11:12:33.774Z
 
 ## 〆切直前の夜に！「TENET」
 
-![]()
+![](/img/soundtrack_tenet.jpg)
+
+引用: note
+
+[https://note.com/iso\_zin\_/n/n1735240d4cfa](https://note.com/iso_zin_/n/n1735240d4cfa)
+
+
 
 **Spotify link**
 
@@ -364,7 +380,11 @@ issuedAt: 2020-10-06T11:12:33.774Z
 
 ## 仕事辞めたくなったら「GODZILLA」
 
-![]()
+![](/img/soundtrack_godzilla.png)
+
+**引用　バゴプラ**
+
+<https://virtualgorillaplus.com/music/godzilla-king-of-the-monsters-songs/>
 
 **Spotify link**
 
@@ -373,6 +393,8 @@ issuedAt: 2020-10-06T11:12:33.774Z
 もうダメだ、限界だ。というときにはGODZILAだ。
 
 最後はこれだ、これしかない。
+
+メインタイトルとして採用されたのは、伊福部昭による普及の名曲**「ゴジラのテーマ」(1954)をアレンジした「Godzilla Main Title」**。日本のゴジラファンであれば聞こえた瞬間に背筋が伸びるあのイントロにはハリウッドらしい重厚さが加えられている。次いでおなじみの「デデデン、デデデン」というメロディが日本的な掛け声と共に流れ出す。ストリングスとホーンの描く旋律が頂点に達するや、『ゴジラ キング・オブ・モンスターズ』という作品のスケールに呼応する壮大な展開を見せる。
 
 テーマ曲のGODZILLAには、和太鼓のサウンドがミックスされ、サムライの魂を掻き立ててくれるだろう。
 
@@ -383,27 +405,37 @@ issuedAt: 2020-10-06T11:12:33.774Z
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-    <p>会社破壊してくれるかな、って気持ちになる。<p>
+    <h3>会社破壊してくれるかな、って気持ちになる。<h3>
   </div>
 </div>
 
-<div class="talk-left">
-  <div class="usa"></div>
+<div class="talk-right">
+  <div class="robo"></div>
   <div class="serif">
     <p>シン・ゴジラ公開されたとき、絶対僕の会社は燃えたと思っている。<p>
   </div>
 </div>
 
 <div class="talk-left">
-  <div class="usa"></div>
+  <div class="nanika"></div>
   <div class="serif">
     <p>脳内でスッキリ会社を踏み潰したら、気を取り直して頑張ろうね！<p>
   </div>
 </div>
 
+『GOZILLA』って？
+
+2019年5月31日、マイケル・ドハティ監督の**『ゴジラ キング・オブ・モンスターズ』**がいよいよ公開された。『キングコング: 髑髏島の巨神』(2017)に続く“モンスターバース”シリーズの第3作目、日本ではゴジラ65周年記念作品にあたり、「ゴジラ」シリーズの“系譜”にどのような爪痕を残すのか、かねてより注目を集めていた。
+
+
+
 
 
 <br><br>
+
+## まとめ
+
+
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -420,16 +452,16 @@ issuedAt: 2020-10-06T11:12:33.774Z
 </div>
 
 <div class="talk-left">
-  <div class="usa"></div>
+  <div class="ua"></div>
   <div class="serif">
-    <p>記事書いてるの、一人なんだけどね～<p>
+    <p>テレワークで仕事中に聴く音楽が聴けるようになってから、BGMは結構大事だなって思うようになった。<p>
   </div>
 </div>
 
-<div class="talk-right">
-  <div class="uma"></div>
+<div class="talk-left">
+  <div class="nanika"></div>
   <div class="serif">
-    <p>今回はちゃんとリサーチしたからね。<p>
+    <p>新しいスピーカー、ほしいな〜<p>
   </div>
 </div>
 
@@ -448,6 +480,4 @@ issuedAt: 2020-10-06T11:12:33.774Z
 
 <br>
 
-**SFゆるトーク  Twitterはコチラ**
-
-<https://twitter.com/SFyuruyuru>
+### **[SFゆるとーく 公式Twitterはこちら](https://twitter.com/SFyuruyuru)**
