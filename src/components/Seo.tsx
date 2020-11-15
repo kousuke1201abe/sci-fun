@@ -1,24 +1,27 @@
-import React from "react"
-import PropTypes from "prop-types"
-import { Helmet } from "react-helmet"
-import useSiteMetadata from './SiteMetadata'
-import { withPrefix } from 'gatsby'
+import React from 'react';
+import PropTypes from 'prop-types';
+import { Helmet } from 'react-helmet';
+import useSiteMetadata from './SiteMetadata';
+import { withPrefix } from 'gatsby';
 
 interface SiteMetadataType {
-  title: string
-  description: string
-  image: string
+  title: string;
+  description: string;
+  image: string;
 }
 
 const SEO = ({ title, description, image }) => {
-  const meta : SiteMetadataType = useSiteMetadata()
-  const url : string = "https://confident-euler-cf03d1.netlify.app"
+  const meta: SiteMetadataType = useSiteMetadata();
+  const url: string =
+    'https://confident-euler-cf03d1.netlify.app';
 
   const seo = {
     title: title || meta.title,
     description: description || meta.description,
-    image: image ? `${url}/img/${image}.jpg` : `${url}/img/og-image.jpg`,
-  }
+    image: image
+      ? `${url}/img/${image}.jpg`
+      : `${url}/img/og-image.jpg`,
+  };
 
   return (
     <Helmet>
@@ -51,33 +54,38 @@ const SEO = ({ title, description, image }) => {
       />
       <meta name="theme-color" content="#fff" />
 
-      <meta property="og:type" content="business.business" />
+      <meta
+        property="og:type"
+        content="business.business"
+      />
       <meta property="og:title" content={seo.title} />
       <meta property="og:url" content="/" />
+      <meta property="og:image" content={seo.image} />
       <meta
-        property="og:image"
-        content={seo.image}
+        name="twitter:card"
+        content="summary_large_image"
       />
-      <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={seo.title} />
-      <meta name="twitter:description" content={seo.description} />
+      <meta
+        name="twitter:description"
+        content={seo.description}
+      />
     </Helmet>
-  )
-}
+  );
+};
 
-export default SEO
+export default SEO;
 
 SEO.propTypes = {
   title: PropTypes.string,
   description: PropTypes.string,
   image: PropTypes.string,
   article: PropTypes.bool,
-}
+};
 
 SEO.defaultProps = {
   title: null,
   description: null,
   image: null,
   article: false,
-}
-
+};

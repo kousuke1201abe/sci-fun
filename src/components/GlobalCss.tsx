@@ -1,6 +1,6 @@
-import React from 'react'
-import { createGlobalStyle } from 'styled-components'
-import reset from 'styled-reset'
+import React from 'react';
+import { createGlobalStyle } from 'styled-components';
+import reset from 'styled-reset';
 
 const Global = createGlobalStyle`
   ${reset}
@@ -68,9 +68,9 @@ const Global = createGlobalStyle`
       }
     }
   }
-`
+`;
 const GlobalCSS = () => {
-  return <Global />
-}
+  return <Global />;
+};
 
-export default GlobalCSS
+export default GlobalCSS;

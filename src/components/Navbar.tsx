@@ -1,15 +1,15 @@
-import React from 'react'
-import { Link, graphql, StaticQuery } from 'gatsby'
-import logo from '../img/logo.svg'
-import { kebabCase } from 'lodash'
+import React from 'react';
+import { Link, graphql, StaticQuery } from 'gatsby';
+import logo from '../img/logo.svg';
+import { kebabCase } from 'lodash';
 
 const Navbar = class extends React.Component {
   constructor(props) {
-    super(props)
+    super(props);
     this.state = {
       active: false,
       navBarActiveClass: '',
-    }
+    };
   }
 
   toggleHamburger = () => {
@@ -27,28 +27,37 @@ const Navbar = class extends React.Component {
             })
           : this.setState({
               navBarActiveClass: '',
-            })
-      }
-    )
-  }
+            });
+      },
+    );
+  };
 
   render() {
-    const { data } = this.props
+    const { data } = this.props;
 
     return (
       <nav
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
-        style={{borderBottom: '0.5px solid #abb1b5', position: "fixed", width: "100%"}}
+        style={{
+          borderBottom: '0.5px solid #abb1b5',
+          position: 'fixed',
+          width: '100%',
+        }}
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="link navbar-item" title="Logo" style={{marginLeft: "5px", marginRight: "20px"}}>
-              <img
-                src={logo}
-                alt="logo"
-              />
+            <Link
+              to="/"
+              className="link navbar-item"
+              title="Logo"
+              style={{
+                marginLeft: '5px',
+                marginRight: '20px',
+              }}
+            >
+              <img src={logo} alt="logo" />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -66,18 +75,25 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              {data.allMarkdownRemark.group.map(category => (
-                <Link className="navbar-item has-text-weight-semibold" to={`/categories/${kebabCase(category.fieldValue)}/`}>
-                  {category.fieldValue.toUpperCase()}
-                </Link>
-              ))}
+              {data.allMarkdownRemark.group.map(
+                (category) => (
+                  <Link
+                    className="navbar-item has-text-weight-semibold"
+                    to={`/categories/${kebabCase(
+                      category.fieldValue,
+                    )}/`}
+                  >
+                    {category.fieldValue.toUpperCase()}
+                  </Link>
+                ),
+              )}
             </div>
           </div>
         </div>
       </nav>
-    )
+    );
   }
-}
+};
 
 export default () => (
   <StaticQuery
@@ -96,7 +112,8 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <Navbar data={data} count={count} />}
+    render={(data, count) => (
+      <Navbar data={data} count={count} />
+    )}
   />
-)
-
+);
