@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: SFファン大集合！SFアニメでモテモテ座談会
+title: 賛否両論！？SFアニメでモテモテ座談会
 featured: false
 categories:
   - CULTURE
@@ -19,8 +19,6 @@ issuedAt: 2020-11-07T01:21:55.273Z
 > [③男女問わず大ヒット！　『PSYCHO-PASS』](#003)
 >
 > [④SF新時代を切り開いた　『伊藤計劃三部作』](#004)
->
-> </details>
 
 </br></br>
 
@@ -50,7 +48,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-    ちょっと待って、急にヘビーすぎる。もうちょっとゆるい会話をしよう。  </div>
+    違う、今日はそういうノリじゃない。もうちょっとゆるい会話をしよう。  </div>
 </div>
 
 <br><br>
@@ -78,7 +76,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-    いまやアニメは立派なメジャーカルチャーだから！！勘違いしないで！！
+    いまやアニメは立派なカルチャーだから！勘違いしないで！
   </div>
 </div>
 
@@ -93,9 +91,11 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
-    昨年だとプロメアとか、絵柄もオシャレで大人気だったよね。
+    昨年だとプロメアとか、絵柄もハイセンス&ポップで大人気だったよね。
   </div>
 </div>
+
+<br>
 
 ![](/img/5df8abe28a6cc_a6e811c7e22f4b4a1f95bde67c3daeae.jpg)
 
@@ -104,14 +104,14 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-   合体ロボとか悪の組織とか、設定はめちゃめちゃベタなオタクアニメなのに、オシャレに仕上がっていたよね。
+   合体ロボとか悪の組織とか、設定はめちゃめちゃベタなのに、劇場には女子ファンも多かった気がする。
   </div>
 </div>
 
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-  ずっとMVを見ているようなオサレな画面だった。
+  戦闘シーンがカラフルだから、見ていて飽きないのだよね。
   </div>
 </div>
 
@@ -132,14 +132,14 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-  ちゃうねん。
+  それはちゃうねん。
   </div>
 </div>
 
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-  ハマり役で良かったけど、最近アニメの人気俳優&女優をつかって集客しようとする姿勢は気に入らない。
+  堺雅人さんはハマり役で良かったけど、最近アニメの声に人気の俳優&女優を使って集客しようとする姿勢が気に入らない。
   </div>
 </div>
 
@@ -164,37 +164,37 @@ issuedAt: 2020-11-07T01:21:55.273Z
 </div>
 
 <div class="talk-left">
-  <div class="nanika"></div>
+  <div class="robo"></div>
   <div class="serif">
-  野崎まど小説も、次々とアニメ化しているよね。
+  賛否両論といえば、最近は野崎まど原作のアニメや映画じゃない？
   </div>
 </div>
 
 <div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+ 小説が好きな人は良いけど、ハッピーエンドを期待して見るとちょっとショックを受けることがあるかも。
+  </div>
+</div>
+
+<div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-  あれはアニメとの相性が良い。アニメ化意識して小説書いてるんじゃないかと思うくらい。
-  </div>
-</div>
-
-<div class="talk-left">
-  <div class="robo"></div>
-  <div class="serif">
-  終わり方が賛否両論・議論を呼ぶ構成も効果的だよね。
+  ただ、ストーリー構成とキャラクターは、アニメとの相性が良い。アニメ化意識して小説書いてるんじゃないかと思うくらい。
   </div>
 </div>
 
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-  ハマる人はハマるってやつ。
+  文章読むだけでシーンが浮かんでくる描写力すごいなぁ！って思うよ。
   </div>
 </div>
 
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
-  「正解するカド」あれは絶賛と酷評が真っ二つだった。
+  「正解するカド」最終回公開したとき、絶賛と酷評が真っ二つでタイムラインが大炎上だった。
   </div>
 </div>
 
@@ -212,7 +212,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-  大いなる流れのためにキャラクターたちが弄ばれた感じはある。
+  ラスト、大いなる流れのためにキャラクターたちが弄ばれた感じはある。
   </div>
 </div>
 
@@ -262,7 +262,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-  そういえばゆるとーくメンバーって美少年いないよね♡
+  ゆるとーくメンバーにも美少年いた方が人気出るかな？
   </div>
 </div>
 
@@ -354,7 +354,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-しかし、あのアニメは一大旋風になったよね。
+PSYCO-PASSは一大旋風になったよね。
   </div>
 </div>
 
@@ -368,7 +368,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
-引用されたSF小説、めちゃくちゃ売れたよね。
+作中で引用されたSF小説、めちゃくちゃ売れたよね。
   </div>
 </div>
 
@@ -393,7 +393,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
-なんかモテの話どんどん遠ざかってない？
+なんかどんどんモテの話が遠ざかってない？
   </div>
 </div>
 
@@ -417,7 +417,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-制作途中に経営破綻して、一時はどうなるかと思った。
+小説時代から期待していたのに、制作途中に経営破綻して、一時はどうなるかと思った。
   </div>
 </div>
 
@@ -444,7 +444,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-<h3>泣いた。<h3>
+<h3>伊藤計劃先生を想って泣いた。<h3>
   </div>
 </div>
 
@@ -477,7 +477,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-てか、そんな話なかったけ？？
+あれ？そんな話なかったけ？？
   </div>
 </div>
 
@@ -509,7 +509,7 @@ issuedAt: 2020-11-07T01:21:55.273Z
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-パクチャヌク監督～見てる～？？待ってるよ～！！！！！
+パクチャヌク監督～！見てる～？？待ってるよ～！！！！！
   </div>
 </div>
 
