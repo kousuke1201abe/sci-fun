@@ -76,6 +76,16 @@ const Footer = class extends React.Component<SNSlink> {
                   >
                     <Link
                       className="link"
+                      to="/about"
+                      style={{
+                        padding: '5px',
+                        fontSize: '0.8rem',
+                      }}
+                    >
+                      <p>SY_FY:labとは</p>
+                    </Link>
+                    <Link
+                      className="link"
                       to="/contact"
                       style={{
                         padding: '5px',
