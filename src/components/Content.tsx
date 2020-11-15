@@ -1,16 +1,19 @@
-import * as React from 'react'
+import * as React from 'react';
 
 export const HTMLContent = ({ content, className }) => (
-  <div className="markdown" dangerouslySetInnerHTML={{ __html: content }} />
-)
+  <div
+    className="markdown"
+    dangerouslySetInnerHTML={{ __html: content }}
+  />
+);
 
 interface ContentType {
-  content: JSX.Element
-  className: string
+  content: JSX.Element;
+  className: string;
 }
 
 const Content = ({ content, className }: ContentType) => (
   <div className={className}>{content}</div>
-)
+);
 
-export default Content
+export default Content;
