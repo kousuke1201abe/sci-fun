@@ -9,7 +9,25 @@ tags:
 featuredimage: /img/yurutalk_soundtrack.jpg
 issuedAt: 2020-11-15T16:35:35.800Z
 ---
-目次
+## 目次
+
+> [1.ゆるとーくへのリクエスト大募集中！](#soundtrack_twitter)
+>
+> [2.まずはド定番！「STARWARS」](#soundtrack_starwars)
+>
+> [3.アイスランドの空気を纏う「残響のテロル」](#soundtrack_zankyo)
+>
+> [4.優雅な午後の仕事には「GATTACA」](#soundtrack_gattaca)
+>
+> [5.〆切直前の夜に！「TENET」](#soundtrack_tenet)
+>
+> [6.仕事辞めたくなったら「GODZILLA」](#soundtrack_godzilla)
+>
+> [7.まとめ](#soundtrack_matome)
+
+</br></br>
+
+<div id="soundtrack_twitter">
 
 ## ゆるとーくへのリクエスト大募集中！
 
@@ -57,7 +75,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h3>無理やり、頼んだのだけどね。<h3>
+    <h3>無理やり、頼んだのだけどね。</h3>
   </div>
 </div>
 
@@ -71,17 +89,13 @@ issuedAt: 2020-11-15T16:35:35.800Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h3>無視かよ。<h3>
+    <h3>無視かよ。</h3>
   </div>
 </div>
 
 <br>
 
-
-
-> ###  **ペンネーム: ジョン・ポールさん**
->
->
+> ### **ペンネーム: ジョン・ポールさん**
 >
 > **初めまして！ゆるトークの雰囲気、好きです！**
 >
@@ -90,10 +104,6 @@ issuedAt: 2020-11-15T16:35:35.800Z
 > **日本語の歌詞があると集中できません…**
 >
 > **仕が捗る作業用SFサントラを教えてください！**
-
-
-
-
 
 <br><br>
 
@@ -107,7 +117,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h3>優しい人だ…<h3>
+    <h3>優しい人だ…</h3>
   </div>
 </div>
 
@@ -121,7 +131,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-    <h3>記事へのリクエストはTwitterまで。お待ちしています！<h3>
+    <h3>記事へのリクエストはTwitterまで。お待ちしています！</h3>
   </div>
 </div>
 
@@ -133,6 +143,8 @@ issuedAt: 2020-11-15T16:35:35.800Z
 </div>
 
 <br>
+
+<div id="soundtrack_starwars">
 
 ## まずはド定番！「STARWARS」
 
@@ -166,7 +178,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h3>ダース・ベイダーのテーマを着メロにしていた人、昔よくいたよね。<h3>
+    <h3>ダース・ベイダーのテーマを着メロにしていた人、昔よくいたよね。</h3>
   </div>
 </div>
 <br>
@@ -177,6 +189,8 @@ issuedAt: 2020-11-15T16:35:35.800Z
 > **「遠い昔 はるかかなたの銀河系」**を舞台に、映画、アニメ、小説、コミック、ゲームなど複数の媒体が展開されている。音楽を担当したのは、言わずと知れた世界の大巨匠、**ジョン・ウィリアムズ**。
 
 <br>
+
+<div id="soundtrack_zankyo">
 
 ## アイスランドの空気を纏う「残響のテロル」
 
@@ -212,7 +226,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h3>この会社に、引き金をひけ。<h3>
+    <h3>この会社に、引き金をひけ。</h3>
   </div>
 </div>
 
@@ -226,7 +240,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h3>残業のテロル。<h3>
+    <h3>残業のテロル。</h3>
   </div>
 </div>
 
@@ -246,6 +260,8 @@ issuedAt: 2020-11-15T16:35:35.800Z
 > 監督の渡辺信一郎氏は、**アイスランドの音楽からこの作品を発想**し、劇中でもアイスランド語のキーワードを登場させている。それに従い、本作のサウンドトラックも、アイスランドのスタッフとミュージシャンを交え、**アイスランドの首都・レイキャヴィークのスタジオで録音**されている。
 
 <br>
+
+<div id="soundtrack_gattaca">
 
 ## 優雅な午後の仕事には「GATTACA」
 
@@ -291,7 +307,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 <div class="talk-right">
   <div class="usa"></div>
   <div class="serif">
-    <h3>ボクも宇宙飛行士になる。<h3>
+    <h3>ボクも宇宙飛行士になる。</h3>
   </div>
 </div>
 
@@ -309,6 +325,8 @@ issuedAt: 2020-11-15T16:35:35.800Z
 > 1997年のSF映画。監督はアンドリュー・ニコル氏。**遺伝子操作により、優れた知能と体力と外見を持った「適正者」が数多く存在する近未来**を舞台に展開する、切なさに満ちた美しいSFドラマ。繊細な世界観と心を打つテーマが、公開から20年以上たった今も、多くの人々を魅了している。
 
 <br>
+
+<div id="soundtrack_tenet">
 
 ## 〆切直前の夜に！「TENET」
 
@@ -368,6 +386,8 @@ issuedAt: 2020-11-15T16:35:35.800Z
 
 <br>
 
+<div id="soundtrack_godzilla">
+
 ## 仕事辞めたくなったら「GODZILLA」
 
 ![](/img/soundtrack_godzilla.png)
@@ -392,7 +412,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-    <h3>会社破壊してくれるかな、って気持ちになる。<h3>
+    <h3>会社破壊してくれるかな、って気持ちになる。</h3>
   </div>
 </div>
 
@@ -410,13 +430,15 @@ issuedAt: 2020-11-15T16:35:35.800Z
   </div>
 </div>
 
+<br>
+
 > **『GODZILLA  KING of the MONSTERS』って？**
 >
 > 2019年公開、日本では**ゴジラ65周年記念作品**で『スーパーマン リターンズ』などの脚本を手掛け、**ゴジラファンであるマイケル・ドハティ監督**がメガホンをりハリウッド映画化された。ゴジラをはじめとする怪獣たちと、それに相対する人類の戦い迫力の映像で再現される。日本人俳優の**渡辺謙**氏も本作で主要な役割を演じた。
 
 <br>
 
-
+<div id="soundtrack_matome">
 
 ## まとめ
 
@@ -457,7 +479,7 @@ issuedAt: 2020-11-15T16:35:35.800Z
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-    <p>公式Twitterに送ってね！<p>
+    <h3>公式Twitterに送ってね！</h3>
   </div>
 </div>
 
