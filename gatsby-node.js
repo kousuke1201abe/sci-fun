@@ -97,7 +97,7 @@ exports.createPages = ({ actions, graphql }) => {
       const categoryPath = `/categories/${_.kebabCase(
         category.fieldValue
       )}/`
-      const postsPerPage = 10
+      const postsPerPage = 50
       const numPages = Math.ceil(
         category.totalCount / postsPerPage
       )
@@ -122,36 +122,36 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
 
-    // tag pages:
-    const tags = result.data.tags.group
-    // Iterate through each post, putting all found tags into `tags`
+    // // tag pages:
+    // const tags = result.data.tags.group
+    // // Iterate through each post, putting all found tags into `tags`
 
-    // Make tag pages
-    tags.forEach((tag) => {
-      const tagPath = `/tags/${_.kebabCase(
-        tag.fieldValue
-      )}/`
-      const postsPerPage = 10
-      const numPages = Math.ceil(
-        tag.totalCount / postsPerPage
-      )
+    // // Make tag pages
+    // tags.forEach((tag) => {
+    //   const tagPath = `/tags/${_.kebabCase(
+    //     tag.fieldValue
+    //   )}/`
+    //   const postsPerPage = 10
+    //   const numPages = Math.ceil(
+    //     tag.totalCount / postsPerPage
+    //   )
 
-      Array.from({ length: numPages }).forEach((_, i) => {
-        createPage({
-          path: i === 0 ? tagPath : `${tagPath}${i + 1}`,
-          component: path.resolve(`src/templates/tags.tsx`),
-          context: {
-            tag: tag.fieldValue,
-            limit: postsPerPage,
-            skip: i * postsPerPage,
-            numPages,
-            currentPage: i + 1,
-          },
-        })
-      })
-    })
+    //   Array.from({ length: numPages }).forEach((_, i) => {
+    //     createPage({
+    //       path: i === 0 ? tagPath : `${tagPath}${i + 1}`,
+    //       component: path.resolve(`src/templates/tags.tsx`),
+    //       context: {
+    //         tag: tag.fieldValue,
+    //         limit: postsPerPage,
+    //         skip: i * postsPerPage,
+    //         numPages,
+    //         currentPage: i + 1,
+    //       },
+    //     })
+    //   })
+    // })
 
-    const postsPerPage = 10
+    const postsPerPage = 50
     console.log(posts.totalCount)
     const numPages = Math.ceil(posts.length / postsPerPage)
     Array.from({ length: numPages }).forEach((_, i) => {

@@ -1,32 +1,52 @@
 import React from 'react';
 import Layout from '../../components/Layout';
+import BlogRoll from '../../components/BlogRoll';
+import { Link } from 'gatsby';
 
 export default () => (
   <Layout>
-    <div
-      className="content"
-      style={{ paddingTop: '100px' }}
-    >
-      <div className="container">
-        <section className="section">
-          <div className="columns">
-            <div
-              className="column has-text-centered"
-              style={{
-                justifyContent: 'center',
-                margin: '20px',
-              }}
-            >
-              <h1 style={{ marginTop: '0px' }}>
-                送信が完了しました。
+  <div className="container" style={{ paddingTop: '50px' }}>
+    <div className="section" style={{ margin: '10px' }}>
+      <div className="columns">
+        <div className="is-paddingless column is-10 is-offset-1">
+          <div className="content">
+            <div className="column is-12">
+              <h1>
+                ご連絡ありがとうございます。
               </h1>
               <p>
-                ご連絡ありがとうございます。ご返信が必要な場合、担当の者が追ってご連絡致しますので、少々お待ちください。
+                メッセージの送信が完了しました。ご返信が必要な場合、担当の者が追ってご連絡いたしますので、お手数ですが少々お待ちください。
               </p>
             </div>
           </div>
-        </section>
+        </div>
       </div>
     </div>
+    <div className="section" style={{ margin: '10px' }}>
+      <div className="columns">
+        <div className="is-paddingless column is-10 is-offset-1">
+          <div className="content">
+            <div className="column is-12">
+              <div style={{ marginBottom: '30px' }}>
+                <h1 className="headline has-text-weight-bold">
+                  Latest Articles
+                </h1>
+              </div>
+              <BlogRoll />
+              <div>
+                <Link
+                  className="column is-12 btn-outline aldrich"
+                  to="/articles"
+                >
+                  View All
+                </Link>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {/* <Tags /> */}
+    </div>
+  </div>
   </Layout>
 );

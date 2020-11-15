@@ -178,7 +178,7 @@ export const IndexPageTemplate = ({ posts }) => (
           </div>
         </div>
       </div>
-      <Tags />
+      {/* <Tags /> */}
     </div>
   </div>
 );
