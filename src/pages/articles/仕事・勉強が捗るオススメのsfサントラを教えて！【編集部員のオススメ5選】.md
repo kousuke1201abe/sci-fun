@@ -6,7 +6,7 @@ categories:
   - CULTURE
 tags:
   - YURUTALK
-featuredimage: /img/定義.jpg
+featuredimage: /img/yurutalk_soundtrack.jpg
 issuedAt: 2020-11-15T16:35:35.800Z
 ---
 目次
