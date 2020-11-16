@@ -367,9 +367,13 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ## チームのピンチを乗り切るときは？
 
-We have a ハルク
+We have a hulk
 
 「俺たちにはハルクがいる」
+
+![](/img/business_english_hulk.gif)
+
+<https://giphy.com/explore/mexico-vs-trinidad-y-tobago>
 
 アベンジャーズ
 
@@ -387,6 +391,10 @@ We have a ハルク
 「大いなる力には、大いなる責任が伴う。」（スパイダーマン）
 
 
+
+![](/img/business_english_spider.jpeg)
+
+<https://medium.com/@faisalraza/with-great-power-comes-great-responsibility-3a41f62eb561>
 
 
 
