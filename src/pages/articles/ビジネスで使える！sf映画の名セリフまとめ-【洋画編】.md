@@ -367,15 +367,39 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ## チームのピンチを乗り切るときは？
 
-We have a hulk
+<div class="talk-left">
 
-「俺たちにはハルクがいる」
+<div class="usa"></div>
+
+<div class="serif">
+
+<h3>We have a hulk.</h3>
+
+</div>
+
+</div>
+
+<div class="talk-right">
+
+<div class="uma"></div>
+
+<div class="serif">
+
+<h3>俺たちにはハルクがいる</h3>
+
+</div>
+
+</div>
+
+
 
 ![](/img/business_english_hulk.gif)
 
 <https://giphy.com/explore/mexico-vs-trinidad-y-tobago>
 
-アベンジャーズ
+> *We have a hulk.*
+>
+> *トニー『アベンジャーズ』*
 
 部下の名前が、春田、春山、ハルカだった場合にてきめんの台詞だ。
 
@@ -387,8 +411,33 @@ We have a hulk
 
 ## 同僚の栄転を祝う時に一言
 
-**With great power comes great responsibility.**\
-「大いなる力には、大いなる責任が伴う。」（スパイダーマン）
+<div class="talk-left">
+
+<div class="usa"></div>
+
+<div class="serif">
+
+<h3>With great power comes great responsibility.</h3>
+
+</div>
+
+</div>
+
+<div class="talk-right">
+
+<div class="uma"></div>
+
+<div class="serif">
+
+<h3>大いなる力には、大いなる責任が伴う。</h3>
+
+</div>
+
+</div>
+
+> *With great power comes great responsibility.*
+>
+> *ベンおじさん 『スパイダーマン』*
 
 
 
@@ -403,3 +452,15 @@ We have a hulk
 この台詞を全部使いこなせたとしたら、あなたは正真正銘のグローバル・ビジネスマンだ。いや、地球規模にとどまる器ではない。もはやコズミック・ビジネスマンだ。
 
 繰り返すが、もしこの台詞を言って問題がおきたとしても、我々は一切の責任を負わない。
+
+<div class="talk-left">
+
+<div class="nanika"></div>
+
+<div class="serif">
+
+<p>タイミングは、自分で判断してね！<p>
+
+</div>
+
+</div>
