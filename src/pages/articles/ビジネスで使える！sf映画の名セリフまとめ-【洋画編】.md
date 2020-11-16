@@ -12,27 +12,27 @@ issuedAt: 2020-11-16T12:15:36.312Z
 ---
 ## <details open><summary>目次</summary>
 
-[1.英語を使いこなせるビジネスマンになりたい！](#english_001)
-
-[2.何度でも立ち上がる、根気強さをアピールする。](#english_002)
-
-[3.契約が取れたら、友好関係を築こう。](#english_003)
-
-[4.プレゼンをはじめる前の前置きに。](#english_004)
-
-[5.プレゼンに文句を言ってくる上司がいたら……](#english_005)
-
-[6.パワハラに遭遇してしまったら……](#english_006)
-
-[7.飲み会の面倒な場面で後輩を救う。](#english_007)
-
-[8. 部下のピンチを励まそう。](#english_008)
-
-[9.赴任先の挨拶で印象付ける。](#english_009)
-
-[10.同僚の栄転を祝う時に一言。](#english_010)
-
-[11.まとめ  これであなたもグローバル・ビジネスマン！](#english_011)
+> [1.英語を使いこなせるビジネスマンになりたい！](#english_001)
+>
+> [2.何度でも立ち上がる、根気強さをアピールする。](#english_002)
+>
+> [3.契約が取れたら、友好関係を築こう。](#english_003)
+>
+> [4.プレゼンをはじめる前の前置きに。](#english_004)
+>
+> [5.プレゼンに文句を言ってくる上司がいたら……](#english_005)
+>
+> [6.パワハラに遭遇してしまったら……](#english_006)
+>
+> [7.飲み会の面倒な場面で後輩を救う。](#english_007)
+>
+> [8. 部下のピンチを励まそう。](#english_008)
+>
+> [9.赴任先の挨拶で印象付ける。](#english_009)
+>
+> [10.同僚の栄転を祝う時に一言。](#english_010)
+>
+> [11.まとめ  これであなたもグローバル・ビジネスマン！](#english_011)
 
 </details>
 
@@ -128,7 +128,7 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ![](/img/business_english_terminator.jpg)
 
-<https://akebonogolfgarden.jimdo.com/2017/04/07/i-ll-be-back/>
+引用：[曙ゴルフガーデン](https://akebonogolfgarden.jimdo.com/2017/04/07/i-ll-be-back/)
 
 > *「I'll be back.」*
 >
@@ -136,7 +136,7 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 <br>
 
-営業マンのあなた。重要な取引先に何度も断られても決して諦められない場面では、すかさずこの台詞を言ってみよう。タイミングは、まず部屋をでる時にはお辞儀をしてから、会議室のドアを出るとき。振り向きざまに言うのがポイントだ。
+営業マンのあなた。重要な取引先に何度も断られても決して諦められない場面では、すかさずこの台詞を言ってみよう。タイミングは、まずはお辞儀をしてから、会議室のドアを出るとき。振り向きざまに言うのがポイントだ。
 
 就活中のあなたも、次の面接にどうしても進みたい時は、一か八かで試してみるのもオススメ。
 
@@ -174,7 +174,8 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ![](/img/business_english_starwars.jpg)
 
-<https://knowyourmeme.com/photos/747556-may-the-force-be-with-you>
+引用：[KNOW YOUR MEME](https://knowyourmeme.com/photos/747556-may-the-force-be-with-you)
+
 
 > *「May the Force with you.」*
 >
@@ -222,7 +223,8 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ![](/img/business_english_inception.gif)
 
-<https://www.pinterest.jp/pin/477803841687484623/>
+引用：[pinterest](https://www.pinterest.jp/pin/477803841687484623/)
+
 
 > *「*What is the most resilient parasite? Bacteria? A virus? An intestinal worm? An idea. *」*
 >
@@ -271,7 +273,8 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ![](/img/business_english_brade.jpg)
 
-<http://www.quickmeme.com/meme/3qo3ek>
+引用：[quickmeme](http://www.quickmeme.com/meme/3qo3ek)
+
 
 > *I’ve seen things you people wouldn’t believe.*
 >
@@ -315,7 +318,7 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ![](/img/business_english_avatar.jpg)
 
-<https://www.wallpaperbetter.com/ja/hd-wallpaper-cqffy>
+引用：[wallpaperbetter](https://www.wallpaperbetter.com/ja/hd-wallpaper-cqffy)
 
 > *This is how it’s done. When people are sitting on shit that you want, you make them your enemy. Then you’re justified in taking it.*
 >
@@ -347,7 +350,8 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ![](/img/business_english_brade2.jpg)
 
-<https://twitter.com/ala_smi/status/1172787208241106945>
+引用：[twitter](https://twitter.com/ala_smi/status/1172787208241106945)
+
 
 > *二つで十分ですよ！*
 >
@@ -357,8 +361,6 @@ issuedAt: 2020-11-16T12:15:36.312Z
 酔いが回った上司が大量にお酒を注文しようとして、新人が困っているとき、すかさず店員にこう言おう。
 
 二つは誰が飲むかって？俺と上司に決まっている。
-
-
 
 <br><br>
 
@@ -392,7 +394,8 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ![](/img/business_english_fifth.jpg)
 
-<https://samtasticbooks.com/2015/05/>
+引用：[samtasticbooks](https://samtasticbooks.com/2015/05/)
+
 
 > *Me fifth element - supreme being. Me protect you.*
 >
@@ -438,7 +441,8 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ![](/img/business_english_hulk.gif)
 
-<https://giphy.com/explore/mexico-vs-trinidad-y-tobago>
+引用：[giphy](https://giphy.com/explore/mexico-vs-trinidad-y-tobago)
+
 
 > *We have a hulk.*
 >
@@ -486,7 +490,8 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ![](/img/business_english_spider.jpeg)
 
-<https://medium.com/@faisalraza/with-great-power-comes-great-responsibility-3a41f62eb561>
+引用：[medium](https://medium.com/@faisalraza/with-great-power-comes-great-responsibility-3a41f62eb561)
+
 
 同僚が海外支部へと栄転。正直に言えば悔しい。そのポジションは自分がとるはずだったのに。
 
@@ -494,15 +499,11 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 同僚の心に残る、偉大な一言となるだろう。
 
-
-
 <br><br>
 
 <div id="english_011">
 
 ## まとめ  これであなたもグローバル・ビジネスマン！
-
-
 
 ここに記載した台詞を全て使いこなせたとしたら、あなたは正真正銘のグローバル・ビジネスマンだ。いや、地球規模にとどまるような器ではない。宇宙に名を轟かす、コズミック・ビジネスマンだ。
 
@@ -519,8 +520,6 @@ issuedAt: 2020-11-16T12:15:36.312Z
 </div>
 
 </div>
-
-
 
 <div class="talk-left">
 
