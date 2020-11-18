@@ -53,8 +53,6 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ![](/img/34380.jpg)
 
-
-
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
@@ -75,8 +73,6 @@ issuedAt: 2020-11-18T17:06:51.946Z
 初期アバターはこれだよ！
   </div>
 </div>
-
-
 
 ![](/img/34378.jpg)
 
@@ -149,8 +145,6 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
-
-
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
@@ -159,8 +153,6 @@ issuedAt: 2020-11-18T17:06:51.946Z
 </div>
 
 ![](/img/34375.jpg)
-
-
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -185,18 +177,14 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ![](/img/original_6761dd24-63a2-4b0e-b53d-2370017d41d7_screenshot_20201116-100841.png)
 
-
-
 <div class="talk-left">
-  <div class="robo"></div>
+  <div class="nanika"></div>
   <div class="serif">
 やだー！バーチャルの世界くらい美少女になりたい！！
   </div>
 </div>
 
 ![](/img/34377.jpg)
-
-
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -209,8 +197,9 @@ issuedAt: 2020-11-18T17:06:51.946Z
   <div class="nanika"></div>
   <div class="serif">
 
-本人の動きに合わせてアバターが動いてくれるんだね。楽しい！
+本人の動きに合わせてアバターが動いてくれるんだね。楽しい！メイクする必要もないし。
   </div>
+
 </div>
 
 <div class="talk-left">
@@ -219,9 +208,8 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 …詐欺だ。本人のこと知ってるのに、だんだん美少女に見えてきた。
   </div>
+
 </div>
-
-
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -229,6 +217,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ちょっと僕も作ってみてよ！
   </div>
+
 </div>
 
 ## 一つのアカウントで別のアバターも作れちゃう！
@@ -241,6 +230,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ・・・え？
   </div>
+
 </div>
 
 <div class="talk-left">
@@ -249,6 +239,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ・・・うーん。
   </div>
+
 </div>
 
 <div class="talk-left">
@@ -257,13 +248,10 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 うーん、なんと言うか。
   </div>
+
 </div>
 
-
-
 ![](/img/screenshot_20201116-165925.png)
-
-
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -273,11 +261,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
-
-
 ## すぐライブ配信ができる！
-
-
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -285,4 +269,74 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 せっかくだし、ライブ中継してみれば？
   </div>
+
 </div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+
+え、ほんとに？やってみちゃおうかなー。
+  </div>
+
+</div>
+
+<div class="talk-left">
+  <div class="uma"></div>
+  <div class="serif">
+
+とにかく、こんなに簡単にアバターを作れちゃうのは楽しいね。
+  </div>
+
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+
+第二の自分がエンジョイできちゃう！
+  </div>
+
+</div>
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+
+ぜひ、みんなもチャレンジしてみてね！
+  </div>
+
+</div>
+
+## なにかちゃんたちが遊んだアプリはこちら
+
+<div class="talk-left">
+  <div class="usa"></div>
+  <div class="serif">
+
+<h5>ねえ、僕は！？！？</h5>
+  </div>
+
+</div>
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+
+・・・
+  </div>
+
+</div>
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+
+・・・USAちゃんをぬるぬる動かせるツール、募集しています！
+  </div>
+
+</div>
+
+
+
+それでは！
