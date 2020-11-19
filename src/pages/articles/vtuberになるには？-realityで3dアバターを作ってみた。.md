@@ -7,10 +7,29 @@ categories:
 tags:
   - Vtuber
   - REALITY
-featuredimage: /img/reality.jpg
+featuredimage: /img/reality_tobira.jpg
 issuedAt: 2020-11-18T17:06:51.946Z
 ---
-目次
+<details open><summary>目次</summary>
+
+[1. 3次元になってみんなとお喋りしたい！](#REALITY_001)
+
+[2. 早速アプリをダウンロードしてみた。](#REALITY_002)
+
+[3. アバターを自分好みにカスタマイズ](#REALITY_003)
+
+[4. 自分の動きにあわせてアバターが動く！](#REALITY_004)
+
+[5. 一つのアカウントで別のアバターも作れちゃう！](#REALITY_005)
+
+[7. すぐライブ配信ができる！](#REALITY_006)
+
+[8. なにかちゃんたちが遊んだアプリはこちら](#REALITY_007)
+
+</details>
+
+<div id="REALITY_001">
+</div>
 
 ## 3次元になってみんなとお喋りしたい！
 
@@ -49,6 +68,9 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
+<div id="REALITY_002">
+</div>
+
 ## 早速アプリをダウンロードしてみた。
 
 ![](/img/34380.jpg)
@@ -60,12 +82,6 @@ issuedAt: 2020-11-18T17:06:51.946Z
 > 誰でもスマホ1台でアバターの姿になり、顔出しなしのライブ配信やゲーム、コミュニケーションを楽しむことができます。[](https://reality.app/)
 >
 > [REALITY 公式Webサイト](https://reality.app/)
-
-
-
-
-
-
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -125,6 +141,9 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
+<div id="REALITY_003">
+</div>
+
 ## アバターを自分好みにカスタマイズ
 
 ![](/img/34519.jpg)
@@ -165,8 +184,6 @@ issuedAt: 2020-11-18T17:06:51.946Z
 チークの色まで選べるなんて、わかってるな〜。
   </div>
 </div>
-
-
 
 <div class="talk-right">
   <div class="nanika"></div>
@@ -216,6 +233,9 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
+<div id="REALITY_004">
+</div>
+
 ## 自分の動きにあわせてアバターが動く！
 
 ![](/img/34377.jpg)
@@ -231,7 +251,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   <div class="nanika"></div>
   <div class="serif">
 
-本人の動きに合わせてアバターが動いてくれるんだね。楽しい！メイクする必要もないし。
+インカメで撮った本人の動きに合わせてアバターが動いてくれるんだね。楽しい！メイクする必要もないし。
   </div>
 
 </div>
@@ -252,6 +272,9 @@ issuedAt: 2020-11-18T17:06:51.946Z
 ちょっと僕も作ってみてよ！
   </div>
 
+</div>
+
+<div id="REALITY_005">
 </div>
 
 ## 一つのアカウントで別のアバターも作れちゃう！
@@ -295,6 +318,9 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
+<div id="REALITY_006">
+</div>
+
 ## すぐライブ配信ができる！
 
 <div class="talk-left">
@@ -318,8 +344,6 @@ issuedAt: 2020-11-18T17:06:51.946Z
 </div>
 
 ![](/img/34522.jpg)
-
-
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -348,27 +372,14 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 </div>
 
+<div id="REALITY_007">
+</div>
+
 ## なにかちゃんたちが遊んだアプリはこちら
 
 ![](/img/reality.png)
 
 ### [Realityの公式サイトはこちら](https://reality.app/)
-
-> <h3>Realityのおすすめポイント</h3>
->
-> * **好きな見た目のアバターを自由に作成できる！スマホのインカメラで表情を読み取って、アバターをリアルタイムで動かせる。**
->
->
->
-> * **顔出しせずにアバター姿で即ライブ配信が可能！複数人でのコラボ配信もできる。**
->
->
->
-> * **自分がライブをしなくても、24時間いつでもライブ配信中！ギフトやコメントを送って参加できる。**
-
-
-
-![]()
 
 
 
