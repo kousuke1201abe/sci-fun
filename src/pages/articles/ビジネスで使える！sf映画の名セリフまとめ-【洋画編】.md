@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: ビジネスで使える！SF映画の名セリフ9選 【洋画編】
+title: ビジネスで使える！SF映画の名セリフ9選
 featured: false
 categories:
   - BUSINESS
