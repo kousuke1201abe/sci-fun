@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Vtuberになるには？ Realityで3Dアバターを作ってみた。
+title: スマホで簡単にVtuberになるには？ バーチャル配信アプリ『REALITY』で3Dアバターを作ってみた。
 featured: false
 categories:
   - CULTURE
@@ -21,21 +21,21 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-そうだね〜、でもアニメ化なんて遠い未来だし…。
+そうだね〜、いつも同じ角度で同じ表情だし。
   </div>
 </div>
 
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-今日は、Realityのアプリを使って3Dアバターを作ってみよう！
+今日はヴァーチャルライブ配信アプリ『Reality』を使って3Dアバターを作ってみよう！
   </div>
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
 いいね！楽しそう。
@@ -53,6 +53,20 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ![](/img/34380.jpg)
 
+> **REALITY とは**
+>
+> バーチャルライブ配信アプリ
+>
+> 誰でもスマホ1台でアバターの姿になり、顔出しなしのライブ配信やゲーム、コミュニケーションを楽しむことができます。[](https://reality.app/)
+>
+> [REALITY 公式Webサイト](https://reality.app/)
+
+
+
+
+
+
+
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
@@ -60,10 +74,10 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
-とりあえず、Twitter連携はせず進めてみよう
+とりあえず、SNS連携はせず始めてみようか。
   </div>
 </div>
 
@@ -79,11 +93,11 @@ issuedAt: 2020-11-18T17:06:51.946Z
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-わぁ・・・
+<h5>わぁ…</h5>
   </div>
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
 なんと言うか・・・どちらかと言うとUMAくんみたいなの出てきた。
@@ -97,7 +111,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
 まじか。妹いたんだ。
@@ -113,7 +127,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ## アバターを自分好みにカスタマイズ
 
-![]()
+![](/img/34519.jpg)
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -122,14 +136,14 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-髪型も結構種類があるね。
+髪型も、無料なのに結構種類があるね。
   </div>
 </div>
 
-![]()
+![](/img/34518.jpg)
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -138,7 +152,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
 好きなパーツを選んでキャラを作れるの、楽しいね。
@@ -146,11 +160,22 @@ issuedAt: 2020-11-18T17:06:51.946Z
 </div>
 
 <div class="talk-left">
-  <div class="nanika"></div>
+  <div class="uma"></div>
   <div class="serif">
-……できた！
+チークの色まで選べるなんて、わかってるな〜。
   </div>
 </div>
+
+
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+……よーし、できた！
+  </div>
+</div>
+
+<br>
 
 ![](/img/34375.jpg)
 
@@ -161,7 +186,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
 本人と全然違う。でも、可愛い。
@@ -171,18 +196,27 @@ issuedAt: 2020-11-18T17:06:51.946Z
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-こっちの方が近いよ。
+<h3>こっちの方が本人に近いよ。</h3>
   </div>
 </div>
 
-![](/img/original_6761dd24-63a2-4b0e-b53d-2370017d41d7_screenshot_20201116-100841.png)
+![](/img/34520.jpg)
 
 <div class="talk-left">
-  <div class="nanika"></div>
+  <div class="nanika"> </div>
   <div class="serif">
-やだー！バーチャルの世界くらい美少女になりたい！！
+<h5>やだー！バーチャルの世界くらい、美少女になりたい！！</h5>
   </div>
 </div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+<h3>・・・。</h3>
+  </div>
+</div>
+
+## 自分の動きにあわせてアバターが動く！
 
 ![](/img/34377.jpg)
 
@@ -193,7 +227,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
 
@@ -211,7 +245,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
 
@@ -228,12 +262,12 @@ issuedAt: 2020-11-18T17:06:51.946Z
   <div class="usa"></div>
   <div class="serif">
 
-・・・え？
+<h3>・・・え？</h3>
   </div>
 
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
 
@@ -251,7 +285,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 </div>
 
-![](/img/screenshot_20201116-165925.png)
+![](/img/34521.jpg)
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -272,14 +306,20 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
 
 え、ほんとに？やってみちゃおうかなー。
+
+(ウキウキ)
   </div>
 
 </div>
+
+![](/img/34522.jpg)
+
+
 
 <div class="talk-left">
   <div class="uma"></div>
@@ -290,7 +330,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="nanika"></div>
   <div class="serif">
 
@@ -310,6 +350,30 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ## なにかちゃんたちが遊んだアプリはこちら
 
+![](/img/reality.png)
+
+### [Realityの公式サイトはこちら](https://reality.app/)
+
+> <h3>Realityのおすすめポイント</h3>
+>
+> * **好きな見た目のアバターを自由に作成できる！スマホのインカメラで表情を読み取って、アバターをリアルタイムで動かせる。**
+>
+>
+>
+> * **顔出しせずにアバター姿で即ライブ配信が可能！複数人でのコラボ配信もできる。**
+>
+>
+>
+> * **自分がライブをしなくても、24時間いつでもライブ配信中！ギフトやコメントを送って参加できる。**
+
+
+
+![]()
+
+
+
+<br>
+
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
@@ -319,7 +383,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 </div>
 
-<div class="talk-left">
+<div class="talk-right">
   <div class="robo"></div>
   <div class="serif">
 
@@ -337,6 +401,4 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 </div>
 
-
-
-それでは！
+<h3>それでは！</h3>
