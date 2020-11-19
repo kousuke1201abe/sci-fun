@@ -10,6 +10,8 @@ tags:
 featuredimage: /img/reality_tobira.jpg
 issuedAt: 2020-11-18T17:06:51.946Z
 ---
+###### PHOTO BY  [REALITY](https://reality.app/)
+
 ## <details open><summary>目次</summary>
 
 > [1. 3次元になってみんなとお喋りしたい！](#REALITY_001)
@@ -79,7 +81,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ![](/img/34380.jpg)
 
-> **REALITY とは**
+> ### **REALITY とは**
 >
 > バーチャルライブ配信アプリ
 >
@@ -203,14 +205,14 @@ issuedAt: 2020-11-18T17:06:51.946Z
 <div class="talk-left">
   <div class="robo"></div>
   <div class="serif">
-……か、可愛い。
+<h5>……か、可愛い。</h5>
   </div>
 </div>
 
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-本人と全然違う。でも、可愛い。
+<h5>本人と全然違う。でも、可愛い。</h5>
   </div>
 </div>
 
@@ -226,7 +228,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 <div class="talk-left">
   <div class="nanika"> </div>
   <div class="serif">
-<h5>やだー！バーチャルの世界くらい、美少女になりたい！！</h5>
+<h5>やだー！バーチャルの世界くらい、理想の自分になりたい！！</h5>
   </div>
 </div>
 
@@ -255,7 +257,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   <div class="nanika"></div>
   <div class="serif">
 
-インカメで撮った本人の動きに合わせてアバターが動いてくれるんだね。楽しい！メイクする必要もないし。
+インカメで撮った自分の表情に合わせてアバターが動いてくれるんだね。楽しい！メイクする必要もないし。
   </div>
 
 </div>
@@ -362,7 +364,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   <div class="nanika"></div>
   <div class="serif">
 
-第二の自分がエンジョイできちゃう！
+<h5>第二の自分がエンジョイできちゃう！</h5>
   </div>
 
 </div>
