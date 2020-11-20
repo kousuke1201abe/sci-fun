@@ -154,7 +154,7 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 <div class="serif">
 
-<h3>May the forth with you.</h3>
+<h3>May the forth be with you.</h3>
 
 </div>
 
@@ -176,7 +176,7 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 引用：[KNOW YOUR MEME](https://knowyourmeme.com/photos/747556-may-the-force-be-with-you)
 
-> *「May the Force with you.」*
+> *「May the Force be with you.」*
 >
 > *ジェダイ　『STARWARS』*
 
@@ -184,7 +184,7 @@ issuedAt: 2020-11-16T12:15:36.312Z
 
 ついに契約が取れた！　しかし、喜ぶのはまだ早い。今後も友好的にビジネスを進めていく上でも、カッコいい挨拶で自分を売り込もう。両手で握手をしながら、相手の目を見て言うのが鉄則だ。さらに、『Force』の部分を企業名にアレンジすれば、STARWARS好きの役員に気に入られること間違いなし。
 
-*「May the force with you too.」*
+*「May the force be with you too.」*
 
 と返してくれたなら、会社の未来は安泰だ。
 
