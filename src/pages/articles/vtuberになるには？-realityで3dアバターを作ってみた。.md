@@ -312,6 +312,14 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 </div>
 
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+<h5>「イケメンでごめんね！」のポーズ！</h5>
+  </div>
+</div>
+
+
 ![Reality_App_setting07](/img/34521.jpg)
 
 <div class="talk-left">
