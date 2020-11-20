@@ -54,7 +54,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 <div class="talk-left">
   <div class="nanika"></div>
   <div class="serif">
-今日はヴァーチャルライブ配信アプリ『Reality』を使って3Dアバターを作ってみよう！
+今日はヴァーチャルライブ配信アプリ『REALITY』を使って3Dアバターを作ってみよう！
   </div>
 </div>
 
@@ -339,7 +339,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   <div class="robo"></div>
   <div class="serif">
 
-せっかくだし、ライブ中継してみれば？
+せっかくだし、ライブ配信してみれば？
   </div>
 
 </div>
@@ -391,7 +391,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ![Reality_App_introduction](/img/reality.png)
 
-### [Realityの公式サイトはこちら](https://reality.app/)
+### [REALITYの公式サイトはこちら](https://reality.app/)
 
 > ### REALITYのおすすめポイント
 >
