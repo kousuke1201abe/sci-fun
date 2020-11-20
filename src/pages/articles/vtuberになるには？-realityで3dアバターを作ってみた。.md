@@ -30,8 +30,6 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 </details>
 
-
-
 <br>
 
 <div id="REALITY_001">
@@ -63,7 +61,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 <div class="talk-right">
   <div class="uma"></div>
   <div class="serif">
-いいね！楽しそう。
+へ～！楽しそう。
   </div>
 </div>
 
@@ -79,11 +77,11 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ## 早速アプリをダウンロードしてみた。
 
-![](/img/34380.jpg)
+![Reality_App](/img/34380.jpg)
 
 > ### **REALITY とは**
 >
-> バーチャルライブ配信アプリ
+> バーチャルライブ配信アプリ。
 >
 > 誰でもスマホ1台でアバターの姿になり、顔出しなしのライブ配信やゲーム、コミュニケーションを楽しむことができます。[](https://reality.app/)
 >
@@ -110,7 +108,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
-![](/img/34378.jpg)
+![Reality_App_setting01](/img/34378.jpg)
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -152,7 +150,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ## アバターを自分好みにカスタマイズ
 
-![](/img/34519.jpg)
+![Reality_App_setting02](/img/34519.jpg)
 
 <div class="talk-left">
   <div class="nanika"></div>
@@ -200,7 +198,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 <br>
 
-![](/img/34375.jpg)
+![Reality_App_setting03](/img/34375.jpg)
 
 <div class="talk-left">
   <div class="robo"></div>
@@ -223,7 +221,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   </div>
 </div>
 
-![](/img/34520.jpg)
+![Reality_App_setting04](/img/34520.jpg)
 
 <div class="talk-left">
   <div class="nanika"> </div>
@@ -244,7 +242,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ## 自分の動きにあわせてアバターが動く！
 
-![](/img/34377.jpg)
+![Reality_App_setting05](/img/34377.jpg)
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -257,7 +255,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   <div class="nanika"></div>
   <div class="serif">
 
-インカメで撮った自分の表情に合わせてアバターが動いてくれるんだね。楽しい！メイクする必要もないし。
+<b>インカメで撮った自分の表情に合わせてアバターが動いてくれるんだね。</b>楽しい！メイクする必要もないし。
   </div>
 
 </div>
@@ -285,7 +283,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ## 一つのアカウントで別のアバターも作れちゃう！
 
-![](/img/34376.jpg)
+![Reality_App_setting06](/img/34376.jpg)
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -314,7 +312,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 </div>
 
-![](/img/34521.jpg)
+![Reality_App_setting07](/img/34521.jpg)
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -349,13 +347,13 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 </div>
 
-![](/img/34522.jpg)
+![Reality_App_live](/img/34522.jpg)
 
 <div class="talk-left">
   <div class="uma"></div>
   <div class="serif">
 
-とにかく、こんなに簡単にアバターを作れちゃうのは楽しいね。
+こんなに簡単にアバターを作って配信できるのは楽しいね。
   </div>
 
 </div>
@@ -373,7 +371,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   <div class="robo"></div>
   <div class="serif">
 
-ぜひ、みんなもチャレンジしてみてね！
+ぜひ、みんなも遊んでみてね！
   </div>
 
 </div>
@@ -383,28 +381,26 @@ issuedAt: 2020-11-18T17:06:51.946Z
 
 ## なにかちゃんたちが遊んだアプリはこちら
 
-![](/img/reality.png)
+![Reality_App_introduction](/img/reality.png)
 
 ### [Realityの公式サイトはこちら](https://reality.app/)
 
 > ### REALITYのおすすめポイント
 >
-> * **好きな見た目のアバターを超かんたんに作成できる！スマホのインカメラで表情を読み取って、アバターがリアルタイムに動くよ！**
+> * **アバターを作るだけでも楽しい！好きな見た目のアバターを超かんたんに作成できる！スマホのインカメラで表情を読み取って、アバターがリアルタイムに動くよ！**
 >
 >   **<br>**
-> * **顔出しせずにライブ配信ができる！メイクや服、照明の心配もなし。複数人でのコラボ配信も可能！**
+> * **顔出しせずに、いつでもライブ配信ができる！すっぴん＆パジャマでも心配もなし。複数人でのコラボ配信も可能！**
 >
 >   **<br>**
 > * **複数のアバターを１つのアカウントで作成できる！気分に合わせて色々な自分に変身できるよ。**
 >
 >   **<br>**
-> * **24時間いつでもライブ配信中！自分が配信しなくても、ギフトやコメントを送って参加できるよ。楽しい配信がいつでも見放題！**
+> * **24時間いつでもライブ配信中！自分が配信しなくても、ギフトやコメントを送って参加できるよ。人気配信者の楽しい配信がいつでも見放題！**
 >
+>   **<br>**
 >
-
-
-
-
+> * **ミニゲームやチャット機能など、他にも楽しいコンテンツがいっぱい！**
 
 <br>
 
@@ -412,7 +408,7 @@ issuedAt: 2020-11-18T17:06:51.946Z
   <div class="usa"></div>
   <div class="serif">
 
-<h5>ねえ、僕は！？！？</h5>
+<h5>ねえ、僕のアバターは！？！？</h5>
   </div>
 
 </div>
