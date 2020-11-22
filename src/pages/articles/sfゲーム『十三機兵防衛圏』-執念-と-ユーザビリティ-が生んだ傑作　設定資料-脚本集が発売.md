@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: SFゲーム『十三機兵防衛圏』"執念"と"ユーザビリティ"が生んだ傑作　設定資料&脚本集が発売
+title: SFゲーム『十三機兵防衛圏』"執念"と"ユーザビリティ"が生んだ大傑作　設定資料&脚本集が発売
 featured: false
 categories:
   - CULTURE
@@ -9,13 +9,13 @@ issuedAt: 2020-11-22T11:54:00.367Z
 ---
 ## "あの"『十三機兵防衛圏』設定資料&脚本集が発売
 
-2019年にゲーム業界を唸らせたSF×ロボットアドベンチャーの大傑作、『十三機兵防衛圏』。本作は、『ドラゴンズクラウン』、『オーディンスフィア』など幻想的なグラフィックとファンタジー要素が溢れる物語で、熱狂的なファンを持つヴァニラウェアの新作として大注目を浴びた。その『十三機兵防衛圏』の設定資料集と脚本集が、2020年11月28日に発売される。<br>
+2019年にゲーム業界を唸らせたSF×ロボットアドベンチャーの大傑作、『十三機兵防衛圏』。本作は、『ドラゴンズクラウン』、『オーディンスフィア』など幻想的なグラフィックとファンタジー要素が溢れる物語で、熱狂的なファンを持つヴァニラウェアの新作として大注目を浴びた。その『十三機兵防衛圏』の設定資料集と脚本集が、2020年11月28日に発売される。普段、ゲームをプレイしないSFファンにも是非、手に取って欲しい本作。「じゃあ、ゲームはプレイせずに、設定資料集と脚本集を購入しよう！」さて、合計価格は……<br>
 <b>お値段なんと、7,700円。</b><br><br>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4047335088&linkId=f67c4852bd415ea53177e756028897f7&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
     </iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4047334812&linkId=3f235a8554b75f6d9dc2ad48fe5e8efe&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
     </iframe><br><br>
-<b>「え、安すぎない……？」</b>が、正直な感想である。
+<b>「え、安すぎない……？」</b>が、正直な感想である。なぜ、安いと感じるのか。<br>まずは、ゲーム『十三機兵防衛圏』の魅力を知って欲しい。
 
 ## ゲーム『十三機兵防衛圏』は何が凄かったのか？
 
