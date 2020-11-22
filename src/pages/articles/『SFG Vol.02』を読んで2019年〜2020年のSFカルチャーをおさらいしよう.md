@@ -27,15 +27,22 @@ issuedAt: 2020-11-22T09:18:07.807Z
 
 <br>
 
->『SFG』は、「若手の、若手による、若手のためのSF情報誌を作りたい」という思いから始まりました。SFで描かれていたテーマが続々と現実に現れる今の時代、その時代を生きる若い世代は、SF世代(SFGeneration)と呼べるでしょう。これがタイトルの由来です。
-
->『SFG』では、とにかく難しいと思われがちなSFのハードルを下げることを第一にしています。特集＋年間情報をまとめた、新旧の様々なSFを押さえられる一冊です。
+> 『SFG』は、「若手の、若手による、若手のためのSF情報誌を作りたい」という思いから始まりました。SFで描かれていたテーマが続々と現実に現れる今の時代、その時代を生きる若い世代は、SF世代(SFGeneration)と呼べるでしょう。これがタイトルの由来です。
+>
+> 『SFG』では、とにかく難しいと思われがちなSFのハードルを下げることを第一にしています。特集＋年間情報をまとめた、新旧の様々なSFを押さえられる一冊です。
 
 SFを様々な切り口で発信するSFGが今年、『令和』特集として**SFG Vol.02**を刊行した。(vol.00があるので第３作目とのこと)
 
 <br>
 
 今回は、文学フリマ東京にて**SFG Vol.02** を購入させていただいたので、内容と共に紹介していく。
+
+<br>
+
+![sfgvol2](/img/sfgvol2.jpg "sfgvol2")
+
+引用元: [BOOTH](https://sfg.booth.pm/items/2207338)
+
 
 ## SFG Vol.02で2019年〜2020年のSFカルチャーをおさらい
 
@@ -44,7 +51,9 @@ SF小説や映画の紹介はもちろんのこと、ガジェットや芸術や
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ほぼ完成『SFG』Vol.2の本日のお蔵出しです。続けてはもはやSFとかSFじゃないとかどうでもいいって話のライブアイドルページです！　現場のオタクさんたちにお願いして推しグループについて愛を叫んでもらいました。ひっそりと柴田勝家さんもいたり。アンド2019SFハイライトで『ファフナー』！（ム） <a href="https://t.co/7yLK7yPs90">pic.twitter.com/7yLK7yPs90</a></p>&mdash; SFG@文フリ東京カ-27,28 (@SFGeneration) <a href="https://twitter.com/SFGeneration/status/1259455281026629633?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![sfgvol2_idol](/img/sfgvol2_idol.jpg "sfgvol2_idol")
+
+引用元: [BOOTH](https://sfg.booth.pm/items/2207338)
 
 <br>
 
@@ -52,7 +61,9 @@ SF小説や映画の紹介はもちろんのこと、ガジェットや芸術や
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ほぼ完成『SFG』Vol.2のお蔵出しその3。先週にもアップした小川一水さんインタビューです！ <a href="https://t.co/Wd0CoRNGy2">pic.twitter.com/Wd0CoRNGy2</a></p>&mdash; SFG@文フリ東京カ-27,28 (@SFGeneration) <a href="https://twitter.com/SFGeneration/status/1259048244794912768?ref_src=twsrc%5Etfw">May 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![sfgvol2_interview](/img/sfgvol2_interview.jpg "sfgvol2_interview")
+
+引用元: [BOOTH](https://sfg.booth.pm/items/2207338)
 
 <br>
 
@@ -63,11 +74,13 @@ SF小説や映画の紹介はもちろんのこと、ガジェットや芸術や
 
 そんな**SFG Vol.02**は、SFファンであれば決して後悔しない内容となっている。
 
-具体的な内容に関しては、ぜひboothから購入してチェックしていただきたい。
+具体的な内容に関しては、ぜひBOOTHから購入してチェックしていただきたい。
 
 <br>
 
-[SFG Vol.02 boothリンク](https://sfg.booth.pm/items/2207338)
+[SFG Vol.02 BOOTHリンク](https://sfg.booth.pm/items/2207338)
+
+
 
 ## おわりに
 
@@ -81,6 +94,4 @@ SF小説や映画の紹介はもちろんのこと、ガジェットや芸術や
 
 <br>
 
-特に公式サイトでは、**SFG Vol.02**に劣らないクオリティのレビューやコラムを読めるのでこちらも要チェックだ。
-
-
+特に公式サイトでは、**SFG Vol.02**に劣らないクオリティのレビューやコラムを読めるのでこちらも要チェックだ
