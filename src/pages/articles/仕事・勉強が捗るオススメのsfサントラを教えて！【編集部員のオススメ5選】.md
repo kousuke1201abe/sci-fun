@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 仕事・勉強が捗るオススメのSFサントラを教えて！【編集部員のオススメ5選】
-featured: false
+featured: true
 categories:
   - CULTURE
 tags:
