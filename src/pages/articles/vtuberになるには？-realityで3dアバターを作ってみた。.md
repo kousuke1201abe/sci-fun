@@ -8,25 +8,25 @@ tags:
   - Vtuber
   - REALITY
 featuredimage: /img/reality_tobira.jpg
-issuedAt: 2020-11-18T17:06:51.946Z
+issuedAt: 2020-11-22T10:54:04.287Z
 ---
 ###### PHOTO BY  [REALITY](https://reality.app/)
 
-## <details open><summary>目次</summary>
+<details open><summary>目次</summary>
 
-> [1. 3次元になってみんなとお喋りしたい！](#REALITY_001)
->
-> [2. 早速アプリをダウンロードしてみた。](#REALITY_002)
->
-> [3. アバターを自分好みにカスタマイズ](#REALITY_003)
->
-> [4. 自分の動きにあわせてアバターが動く！](#REALITY_004)
->
-> [5. 一つのアカウントで別のアバターも作れちゃう！](#REALITY_005)
->
-> [7. すぐライブ配信ができる！](#REALITY_006)
->
-> [8. なにかちゃんたちが遊んだアプリはこちら](#REALITY_007)
+[1. 3次元になってみんなとお喋りしたい！](#REALITY_001)
+
+[2. 早速アプリをダウンロードしてみた。](#REALITY_002)
+
+[3. アバターを自分好みにカスタマイズ](#REALITY_003)
+
+[4. 自分の動きにあわせてアバターが動く！](#REALITY_004)
+
+[5. 一つのアカウントで別のアバターも作れちゃう！](#REALITY_005)
+
+[7. すぐライブ配信ができる！](#REALITY_006)
+
+[8. なにかちゃんたちが遊んだアプリはこちら](#REALITY_007)
 
 </details>
 
