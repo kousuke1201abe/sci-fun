@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: SFゲーム『十三機兵防衛圏』"執念"と"ユーザビリティ"が生んだ大傑作　設定資料&脚本集が発売
+title: SFゲーム『十三機兵防衛圏』"執念"と"ユーザビリティ"が生んだ傑作　設定資料&脚本集が発売
 featured: false
 categories:
   - CULTURE
