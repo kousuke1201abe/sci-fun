@@ -7,6 +7,18 @@ categories:
 featuredimage: /img/kihei_top.jpeg
 issuedAt: 2020-11-22T11:54:00.367Z
 ---
+<details open><summary>目次</summary>
+
+["あの"『十三機兵防衛圏』設定資料&脚本集が発売](#kihei_sell)
+
+[ゲーム『十三機兵防衛圏』は何が凄かったのか？](#what-kihei)
+
+[ゲーム『十三機兵防衛圏』をチェックする](#check-kihei)
+
+</details>
+
+<div id="kihei_sell">
+
 ## "あの"『十三機兵防衛圏』設定資料&脚本集が発売
 
 2019年にゲーム業界を唸らせ、2020年には第51回星雲賞の参考候補作となり、日本ゲーム大賞2020年間作品部門・優秀賞を受賞したSF×ロボットアドベンチャーの大傑作、『十三機兵防衛圏』。1985年の日本を舞台に、13人の少年少女たちが突如現れた怪獣と戦うため、巨大な機兵に乗り、世界を救う壮大なストーリーだ。<br>
@@ -17,6 +29,10 @@ issuedAt: 2020-11-22T11:54:00.367Z
     </iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4047334812&linkId=3f235a8554b75f6d9dc2ad48fe5e8efe&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
     </iframe><br><br>
 <b>「え、安すぎない……？」</b>が、正直な感想である。なぜ、安いと感じるのか。<br>まずは、ゲーム『十三機兵防衛圏』の魅力を知って欲しい。
+</div>
+
+<div id="what-kihei">
+
 
 ## ゲーム『十三機兵防衛圏』は何が凄かったのか？
 
@@ -61,6 +77,10 @@ issuedAt: 2020-11-22T11:54:00.367Z
 
 ゲームが苦手なSFファンにも、ゲーム『十三機兵防衛圏』の凄さが伝わっていたら嬉しい。設定資料&脚本集に手を出す前に、一度ゲームに挑戦して欲しい。
 
+</div>
+
+<div id="check-kihei">
+
 ## ゲーム『十三機兵防衛圏』をチェックする
 
 amazonではPS4版が発売中。
@@ -75,3 +95,5 @@ amazonではPS4版が発売中。
 
 
 [PS Store](https://store.playstation.com/ja-jp/product/JP0005-CUSA10602_00-13SAR00000000000)では、ダウンロード版が<b>2020年11月30日まで39%OFFの6,025円</b>で購入可。滅多に値下げしないので、要チェック。
+
+</div>
