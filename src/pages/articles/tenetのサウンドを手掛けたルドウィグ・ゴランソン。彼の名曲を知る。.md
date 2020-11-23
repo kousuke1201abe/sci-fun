@@ -100,9 +100,9 @@ issuedAt: 2020-11-23T08:32:50.335Z
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kp7eSUU9oy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
 
 </div>
+<br>
 
 <div id="haim_forever">
 
