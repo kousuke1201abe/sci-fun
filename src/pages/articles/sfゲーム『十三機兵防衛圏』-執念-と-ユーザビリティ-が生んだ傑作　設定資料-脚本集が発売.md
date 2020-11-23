@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: SFゲーム『十三機兵防衛圏』"執念"と"ユーザビリティ"が生んだ傑作　設定資料&脚本集が発売
+title: SFゲーム『十三機兵防衛圏』"執念"と"徹底したユーザーファースト"が生んだ傑作　設定資料&脚本集が発売
 featured: false
 categories:
   - CULTURE
 tags:
   - ゲーム
-featuredimage: /img/kihei_top.jpeg
+featuredimage: /img/kihei_top.jpg
 issuedAt: 2020-11-22T11:54:00.367Z
 ---
 <details open><summary>目次</summary>
