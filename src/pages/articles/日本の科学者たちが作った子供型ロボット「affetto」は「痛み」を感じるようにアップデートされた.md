@@ -10,6 +10,19 @@ tags:
 featuredimage: /img/affetto1.jpg
 issuedAt: 2020-11-23T05:35:22.518Z
 ---
+<details open><summary>目次</summary>
+
+[人間の表情を巧みに模倣する子供型ロボット「Affetto」](#affetto1)
+
+[子供型ロボット「Affetto」はどのように痛みを感じるか](#affetto2)
+
+[ロボットが感じる痛みは「本物の痛み」なのか？](#affetto3)
+
+</details>
+
+<br>
+<div id="affetto1">
+
 ## 人間の表情を巧みに模倣する子供型ロボット「Affetto」
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/EKFc1DEoO6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -32,6 +45,10 @@ issuedAt: 2020-11-23T05:35:22.518Z
 
 そんなAffettoに最近、**「痛み」を感じる機能**が追加された。
 今回はアップデートされたAffettoについて紹介していく。
+
+</div>
+<br>
+<div id="affetto2">
 
 ## 子供型ロボット「Affetto」はどのように痛みを感じるか
 
@@ -58,6 +75,10 @@ issuedAt: 2020-11-23T05:35:22.518Z
 <br>
 
 大阪大学の研究グループは、痛みを感じるためのセンサーをAffettoに導入することによって、**人間の苦痛に対する共感**を生むことを望んでいるという。つまり、**「他人の痛みを認識できるロボット」**ということだろう。なお、このロボットは**高齢者介護の領域**に進出する可能性があるのだという。
+
+</div>
+<br>
+<div id="affetto3">
 
 ## ロボットが感じる痛みは「本物の痛み」なのか？
 
@@ -86,3 +107,5 @@ Affettoは、我々に**「痛みとは何か」**をもう一度考えるきっ
 <br>
 
 「ロボットと人間の違いは何か」という古典的なSF作品の問いかけが、いよいよ現実になってきたようだ。
+
+</div>
