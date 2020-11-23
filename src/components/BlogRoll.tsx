@@ -82,7 +82,7 @@ BlogRoll.propTypes = {
   }),
 };
 
-export default () => (
+export const BlogRollQuery =  () => (
   <StaticQuery
     query={graphql`
       query BlogRollQuery {

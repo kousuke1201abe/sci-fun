@@ -5,7 +5,6 @@ import moment from 'moment';
 
 const ArticlePreview = ({
   entry,
-  widgetsFor,
   widgetFor,
 }) => {
   const categories = entry

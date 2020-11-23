@@ -2,11 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
-
 import Layout from '../components/Layout';
 import BlogRoll from '../components/BlogRoll';
 import Seo from '../components/Seo';
-import Tags from '../components/Tags';
 
 export const IndexPageTemplate = ({ posts }) => (
   <div className="container" style={{ paddingTop: '50px' }}>

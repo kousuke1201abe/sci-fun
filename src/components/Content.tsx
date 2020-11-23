@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export const HTMLContent = ({ content, className }) => (
+export const HTMLContent = ({ content }) => (
   <div
     className="markdown"
     dangerouslySetInnerHTML={{ __html: content }}

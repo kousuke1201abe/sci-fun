@@ -3,7 +3,6 @@ import Footer from './Footer';
 import Navbar from './Navbar';
 import './all.sass';
 import useSiteMetadata from './SiteMetadata';
-import { withPrefix } from 'gatsby';
 
 interface SiteMetadataType {
   title: string;

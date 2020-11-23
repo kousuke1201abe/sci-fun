@@ -33,7 +33,7 @@ const PreviewCompatibleImage = ({
     );
   }
 
-  if (!!childImageSharp) {
+  if (childImageSharp) {
     return (
       <Img
         style={imageStyle}
