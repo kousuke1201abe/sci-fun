@@ -18,16 +18,16 @@ issuedAt: 2020-11-23T08:32:50.335Z
 <br>
 この曲を聴けばオペラハウスでの緊迫したシーンが蘇る方も多いのではないだろうか。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8N768T-5Ujs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100% height="315" src="https://www.youtube.com/embed/8N768T-5Ujs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br>
 <br>
 そんな『TENET テネット』のサウンドを手掛けたプロデューサーはルドウィグ・ゴランソン(Ludowig Goransson)である。
 <br>
-ルドウィグ・ゴランソンは『TENET テネット』のような映画音楽のみならず、R&B、HIPHOPの名だたるアーティストに楽曲を適用している。
+ルドウィグ・ゴランソンは『TENET テネット』のような映画音楽のみならず、R&B、HIPHOPの名だたるアーティストに楽曲を提供している。
 
-この記事では様々なジャンルに拘ることなく、ルドウィグ・ゴランソンがプロデュースした楽曲を紹介していく。
+この記事ではジャンルに拘ることなく、ルドウィグ・ゴランソンがプロデュースした様々な楽曲を紹介していく。
 <br><br>
 <details open><summary>目次</summary>
 
@@ -42,6 +42,8 @@ issuedAt: 2020-11-23T08:32:50.335Z
 [チャンス・ザ・ラッパー(Chance The Rapper) - Interlude(That's Love)](#chance_the_rapper_interlude)
 
 [ヴァンパイア・ウィークエンド(Vampire Weekend) - My Mistake](#vampire_weekend_my_mistake)
+
+[まとめ](#)
 
 </details>
 
@@ -82,7 +84,7 @@ issuedAt: 2020-11-23T08:32:50.335Z
 さらにこの曲は、第61回グラミー賞でノミネートでレコード・オブ・ザ・イヤー、ソング・オブ・ザ・イヤー、最優秀ラップ／歌唱パフォーマンス、最優秀ミュージック・ビデオの4部門でノミネートされている。
 
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VYOjWnS4cMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100%  height="315" src="https://www.youtube.com/embed/VYOjWnS4cMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -99,7 +101,7 @@ issuedAt: 2020-11-23T08:32:50.335Z
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kp7eSUU9oy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100%  height="315" src="https://www.youtube.com/embed/Kp7eSUU9oy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <br>
@@ -112,7 +114,7 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 
 少しばかり歪んだギターとタイトなハーモニーが特徴のポップ・ロック・トラックで、音楽評論家からの評価も高く、彼女等のキャリア切り開く記念碑的な1曲となった。
 
-<br><iframe width="560" height="315" src="https://www.youtube.com/embed/sEwM6ERq0gc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><iframe width=100%  height="315" src="https://www.youtube.com/embed/sEwM6ERq0gc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <br>
@@ -127,7 +129,7 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 ピアノのメロディーとゴスペル的なコーラスが差し込まれ非常に耳心地が良い。HIPHOPやR&Bに馴染みがなくとも楽しめるような、CHILLな一曲に仕上がっている。
 
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VXM4Pnxee_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100%  height="315" src="https://www.youtube.com/embed/VXM4Pnxee_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <br>
@@ -147,7 +149,7 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gccLqkYQZL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100%  height="315" src="https://www.youtube.com/embed/gccLqkYQZL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <br>
