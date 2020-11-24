@@ -157,9 +157,9 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 <div id="vampire_weekend_my_mistake">
 
 ## まとめ
-ルドウィグ・ゴランソンは映画音楽のみならず、HIPHOPやR&B、バンドサウンドまで幅広くプロデュースしている。よく耳にしていたあの曲が実は彼のプロデュースだった、ということもありえるだろう。
+ルドウィグ・ゴランソン映画音楽のみならず、HIPHOPやR&B、ポップス感溢れるバンドサウンドまで幅広くプロデュースしている。
+<br>
+spotifyには彼がクレジットされた曲がまとめられている。ここで紹介した以外にも、ダンスホールレゲエやKPOPの曲も手掛けている。ぜひチェックして欲しい。
 
-spotifyにはルドウィグ・ゴランソンがクレジットされた曲がまとめられている。
-
-<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1EFJ2XKTAXvvTr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1EFJ2XKTAXvvTr" width=100% height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
