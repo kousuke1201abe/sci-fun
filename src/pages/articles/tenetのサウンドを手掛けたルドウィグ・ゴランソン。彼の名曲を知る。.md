@@ -160,6 +160,6 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 ルドウィグ・ゴランソン映画音楽のみならず、HIPHOPやR&B、ポップス感溢れるバンドサウンドまで幅広くプロデュースしている。
 <br>
 spotifyには彼がクレジットされた曲がまとめられている。ここで紹介した以外にも、ダンスホールレゲエやKPOPの曲も手掛けている。ぜひチェックして欲しい。
-
+<br>
 <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1EFJ2XKTAXvvTr" width=100% height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
