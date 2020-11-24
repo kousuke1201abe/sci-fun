@@ -43,7 +43,7 @@ issuedAt: 2020-11-23T08:32:50.335Z
 
 [ヴァンパイア・ウィークエンド(Vampire Weekend) - My Mistake](#vampire_weekend_my_mistake)
 
-[まとめ](#)
+[まとめ](#matome)
 
 </details>
 
@@ -126,7 +126,7 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 
 アメリカのラッパー、Chance the Rapper(チャンス・ザ・ラッパー)の2枚目のミックステープ『Acid Rap』からの一曲。
 <br>
-ピアノのメロディーとゴスペル的なコーラスが差し込まれ非常に耳心地が良い。HIPHOPやR&Bに馴染みがなくとも楽しめるような、CHILLな一曲に仕上がっている。
+ピアノのメロディーとゴスペル的なコーラスが差し込まれたトラックは非常に耳心地が良い。HIPHOPやR&Bに馴染みがなくとも楽しめるような、CHILLな一曲に仕上がっている。
 
 <br>
 <iframe width=100%  height="315" src="https://www.youtube.com/embed/VXM4Pnxee_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -145,7 +145,7 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 『My Mistake』はイントロから流れるピアノと環境音のサンプリングが印象的なジャズナンバーだ。
 
 <br>
-上で紹介した楽曲達とは一風変わって、楽器の音色が複雑に組み合わされているわけではない。しかしながら、それ故にルドウィグ・ゴランソンのプロデュースの幅広さが感じられるだろう。
+上で紹介した楽曲とは一風変わって、楽器の音色が複雑に組み合わされているわけではない。だがそれ故にルドウィグ・ゴランソンのプロデュースの幅広さが感じられるだろう。
 
 <br>
 
@@ -154,3 +154,12 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 </div>
 <br>
 
+<div id="vampire_weekend_my_mistake">
+
+## まとめ
+ルドウィグ・ゴランソンは映画音楽のみならず、HIPHOPやR&B、バンドサウンドまで幅広くプロデュースしている。よく耳にしていたあの曲が実は彼のプロデュースだった、ということもありえるだろう。
+
+spotifyにはルドウィグ・ゴランソンがクレジットされた曲がまとめられている。
+
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1EFJ2XKTAXvvTr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
