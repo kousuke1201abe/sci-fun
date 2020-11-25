@@ -8,7 +8,7 @@ tags:
   - yurutalk
   - anime
 featuredimage: /img/yututalk04.png
-issuedAt: 2020-11-07T01:21:55.273Z
+issuedAt: 2020-11-25T06:05:59.198Z
 ---
 <details open><summary>目次</summary>
 
