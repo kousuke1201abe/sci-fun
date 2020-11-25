@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Netfilx作品『ブラック・ミラー』のファンを驚愕させたロボットメーカー、ボストン・ダイナミクス社の行方
+title: Netfilx作品『ブラック・ミラー』のファンを驚愕させたロボットメーカー、ボストン・ダイナミクス社がつくる未来
 featured: false
 categories:
   - BUSINESS
@@ -10,6 +10,18 @@ tags:
 featuredimage: /img/spot1.jpg
 issuedAt: 2020-11-25T06:29:20.075Z
 ---
+<details open><summary>目次</summary>
+
+[1. ボストン・ダイナミクス社の"ロボット犬" SPOT](#001)
+
+[2.『ブラック・ミラー』のファンがSPOTに驚愕する理由](#002)
+
+[3. SPOTの開発元、ボストン・ダイナミクス社の行方](#003)
+
+</details>
+
+<div id="001">
+
 ## ボストン・ダイナミクス社の"ロボット犬" SPOT
 
 **ボストン・ダイナミクス社**は、産業用のロボットを開発するアメリカ合衆国の企業だ。
@@ -26,7 +38,11 @@ SPOT の解説に関しては、以下の動画を観てもらいたい。
 
 足場の悪さを物ともせず、何度倒れても立ち上がるSPOTだが、とある理由からNetfilxで公開されている**『ブラック・ミラー』のファンを驚かせている。**
 
-## 『ブラック・ミラー』のファンがSPOTを見て驚く理由
+</div>
+<br>
+<div id="002">
+
+## 『ブラック・ミラー』のファンがSPOTに驚愕する理由
 
 『ブラック・ミラー』シーズン4 第5話『メタルヘッド』には、**「イヌ」と呼ばれる殺人ロボット**が登場する。物語の舞台は、「イヌ」が生き残った人間を執拗に追い回す世紀末な世界。
 
@@ -62,6 +78,9 @@ SPOT の解説に関しては、以下の動画を観てもらいたい。
 
 現在、アメリカ国内向けのみの販売となっているため、残念ながら日本での購入はできない。
 
+</div>
+<br>
+<div id="003">
 
 ## SPOTの開発元、ボストン・ダイナミクス社の行方
 
@@ -94,3 +113,5 @@ SPOT の解説に関しては、以下の動画を観てもらいたい。
 <br>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/wlkCQXHEgjA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
