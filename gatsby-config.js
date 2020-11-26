@@ -2,10 +2,21 @@ module.exports = {
   siteMetadata: {
     title: 'SY_FY:lab',
     siteUrl: `https://syfylab.tokyo`,
-    description:
-      'SCIENCE FICTION and CULTURE media',
+    description: 'SCIENCE FICTION and CULTURE media',
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-eslint',
+      options: {
+        test: /\.js$|\.jsx$|\.ts$|\.tsx$/,
+        exclude: /(node_modules|.cache|public)/,
+        stages: ['develop'],
+        options: {
+          emitWarning: true,
+          failOnError: true,
+        },
+      },
+    },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -20,13 +31,13 @@ module.exports = {
           '/privacy_policy',
           '/contact',
           '/contact/thanks',
-        ]
-      }
+        ],
+      },
     },
     {
       resolve: `gatsby-plugin-google-adsense`,
       options: {
-        publisherId: process.env.GOOGLE_ADSENSE_ID
+        publisherId: process.env.GOOGLE_ADSENSE_ID,
       },
     },
     'gatsby-plugin-typescript',
@@ -58,7 +69,7 @@ module.exports = {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
-      }
+      },
     },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
@@ -105,7 +116,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-prismjs`,
             options: {
-              classPrefix: "language-",
+              classPrefix: 'language-',
               inlineCodeMarker: null,
               aliases: {},
               showLineNumbers: true,

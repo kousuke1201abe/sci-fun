@@ -4,7 +4,6 @@ import moment from 'moment';
 
 const ArticlePreview = ({
   entry,
-  widgetsFor,
   widgetFor,
 }) => {
   const categories = entry
@@ -31,6 +30,8 @@ const ArticlePreview = ({
       title={entry.getIn(['data', 'title'])}
       issuedAt={issuedAt}
       featuredimage={entry.getIn(['data', 'featuredimage'])}
+      helmet=''
+      contentComponent=''
     />
   );
 };
