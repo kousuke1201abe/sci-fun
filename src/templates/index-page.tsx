@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { Link, graphql } from 'gatsby';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
@@ -183,17 +182,6 @@ export const IndexPageTemplate = ({ posts }) => (
   </div>
 );
 
-IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([
-    PropTypes.object,
-    PropTypes.string,
-  ]),
-  title: PropTypes.string,
-  subheading: PropTypes.string,
-  link: PropTypes.string,
-  featuredTags: PropTypes.array,
-};
-
 const IndexPage = ({ data }) => {
   const posts = data.allMarkdownRemark;
 
@@ -205,13 +193,6 @@ const IndexPage = ({ data }) => {
   );
 };
 
-IndexPage.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object,
-    }),
-  }),
-};
 
 export default IndexPage;
 

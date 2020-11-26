@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { BlogPostTemplate } from '../../templates/blog-post';
 import moment from 'moment';
 
@@ -34,13 +33,6 @@ const ArticlePreview = ({
       featuredimage={entry.getIn(['data', 'featuredimage'])}
     />
   );
-};
-
-ArticlePreview.propTypes = {
-  entry: PropTypes.shape({
-    getIn: PropTypes.func,
-  }),
-  widgetFor: PropTypes.func,
 };
 
 export default ArticlePreview;
