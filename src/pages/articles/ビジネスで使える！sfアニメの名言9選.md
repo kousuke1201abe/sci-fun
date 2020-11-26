@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "ビジネスで使える！SFアニメの名セリフ9選 "
+title: "ビジネスで使える！SFアニメの名セリフ8選 "
 featured: false
 categories:
   - BUSINESS
@@ -145,7 +145,7 @@ photo by [buhitter](https://buhitter.com/search?q=%E3%82%AA%E3%82%BB%E3%82%A2%E3
 
 <br>
 
-## パニックになった部下をたしなめる
+## パニックになった部下を落ち着かせる。
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -237,7 +237,7 @@ Photo by [Twitter](https://twitter.com/saomeigenn555/status/1133797449896644608?
 案件を白紙に戻して、ゼロからやり直すことになった！「本当にこれで良かったのか……。」と悩む部下を励まして、一緒に頑張ろう。
 
 <div class="talk-right">
-  <div class="nanika"></div>
+  <div class="uma"></div>
   <div class="serif">
     <h5>ちょっとイタくない？</h5>
   </div>
@@ -245,7 +245,7 @@ Photo by [Twitter](https://twitter.com/saomeigenn555/status/1133797449896644608?
 
 
 
-## 上司に下剋上の宣戦布告をする。
+## 宣戦布告をする。
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -260,7 +260,7 @@ Photo by [otanews](http://otanews.livedoor.biz/archives/51859310.html)
 
 > 「優しさになんか何の意味もない。クズは区別しなくちゃならない。僕は王になる」
 >
-> 集『ギルティクラウン』
+> 　集　『ギルティクラウン』
 
 
 
@@ -275,7 +275,7 @@ Photo by [otanews](http://otanews.livedoor.biz/archives/51859310.html)
 
 
 
-## 上司に「根拠を述べろ」と言われたら
+## プレゼンに反論する。
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -286,11 +286,11 @@ Photo by [otanews](http://otanews.livedoor.biz/archives/51859310.html)
 
 ![](/img/business_anime_ghost.jpg)
 
-
+Photo by [BANDAI](https://www.b-ch.com/titles/469/)
 
 > *「根拠ですって？そう囁くのよ、私のゴーストが。」*
 >
-> 　*草薙素子『攻殻機動隊　S.A.C.』*
+> 　*草薙素子　『攻殻機動隊　S.A.C.』*
 
 
 
@@ -303,7 +303,7 @@ Photo by [otanews](http://otanews.livedoor.biz/archives/51859310.html)
 
 
 
-## 悩んでいる部下を励ます
+## 悩んでいる部下を励ます。
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -312,14 +312,18 @@ Photo by [otanews](http://otanews.livedoor.biz/archives/51859310.html)
   </div>
 </div>
 
-> 弱音を吐くのはいい。吐きたければいくらでも吐け。俺が聞いてやる。だが諦めるようなことだけは言うな！
+![](/img/business_anime_okarin.jpg)
+
+Photo by [Twitter](https://twitter.com/hashtag/%E3%82%AA%E3%82%AB%E3%83%AA%E3%83%B3%E5%90%8D%E8%A8%80%E9%9B%86)
+
+> *弱音を吐くのはいい。吐きたければいくらでも吐け。俺が聞いてやる。だが諦めるようなことだけは言うな！*
 >
-> おかりん『シュタインズ・ゲート』
+> 岡部倫太郎　*『シュタインズ・ゲート』*
 
 
 
 <div class="talk-right">
-  <div class="robo"></div>
+  <div class="uma"></div>
   <div class="serif">
     <h5>これはオカリンかっこいい！</h5>
   </div>
@@ -336,9 +340,13 @@ Photo by [otanews](http://otanews.livedoor.biz/archives/51859310.html)
 
 ![](/img/englishanime_mar.jpg)
 
+Photo by [livedoor blog](http://blog.livedoor.jp/mizunomoriclinic/archives/1714169.html)
+
+
+
 > *「私は知っています。私は勝ちます」*
 >
-> *バロット『マルドゥック・スクランブル』*
+> 　*バロット　『マルドゥック・スクランブル』*
 
 <div class="talk-right">
   <div class="robo"></div>
@@ -349,6 +357,20 @@ Photo by [otanews](http://otanews.livedoor.biz/archives/51859310.html)
 
 
 
-## まとめ
+## まとめ　どんな時もポジティブに！
 
-使ってみたい台詞は見つかっただろうか？
+使ってみたい台詞は見つかっただろうか？SFのヒーロー・ヒロインたちは、逆境に置かれても、前向きで強い。たとえ台詞を言えなかったとしても、ここに書かれた台詞は、きっと貴方の心の支えになるはずだ。
+
+<div class="talk-left">
+  <div class="nanika"></div>
+  <div class="serif">
+    <h5>使うときは本当に気をつけてね！</h5>
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    <h3>僕は王になる！</h3>
+  </div>
+</div>
