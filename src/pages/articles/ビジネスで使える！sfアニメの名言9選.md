@@ -150,15 +150,30 @@ photo by [buhitter](https://buhitter.com/search?q=%E3%82%AA%E3%82%BB%E3%82%A2%E3
 <div class="talk-left">
   <div class="usa"></div>
   <div class="serif">
-    <h5>ありえない自体が起こったなら疑うべきは2つだ。
+    <h5>ありえない事態が起こったなら疑うべきは2つだ。
 前提条件が間違っているか、それともあんたの脳がいかれちまったか。</h5>
   </div>
 </div>
 
-> 「ありえない自体が起こったなら疑うべきは2つだ。
-> 前提条件が間違っているか、それともあんたの脳がいかれちまったか。」
+![](/img/business_anime_psyco.jpeg)
+
+photo by [Ninja blog](http://miotukushi.blog.shinobi.jp/psycho-pass/psycho-pass2%20%E7%AC%AC7%E8%A9%B1)
+
+> *「ありえない自体が起こったなら疑うべきは2つだ。
+> 前提条件が間違っているか、それともあんたの脳がいかれちまったか。」*
 >
-> 槇島『PSYCO-PASS』
+> 　*狡噛慎也『PSYCO-PASS』*
+
+年末の棚卸し。しかし、エクセルの数字が合わない！「こんなこと、絶対にありえません！」数字の見過ぎでパニックになった部下には、冷静な口調で切り替えそう。ミスというのはいつでも、熱くなっている時に起こりやすい。クールダウンを促して、もう一度丁寧に確認してもらおう。
+
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <h5>だからパワハラだって。</h5>
+  </div>
+</div>
+
+<br>
 
 ## セクハラから身を守る。
 
