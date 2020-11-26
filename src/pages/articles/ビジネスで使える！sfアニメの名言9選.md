@@ -224,9 +224,13 @@ Photo by [oreteki blog](https://oreteki.at.webry.info/200806/article_9.html)
 
 ![](/img/business_anime_sword.jpg)
 
+Photo by [Twitter](https://twitter.com/saomeigenn555/status/1133797449896644608?lang=ca)
+
+
+
 > *「疑って後悔するよりは信じて後悔しようぜ。行こう。きっと何とかなるさ。」*
 >
-> *キリト『』*
+> 　*キリト『ソードアート・オンライン』*
 
 
 
@@ -250,13 +254,17 @@ Photo by [oreteki blog](https://oreteki.at.webry.info/200806/article_9.html)
   </div>
 </div>
 
+![](/img/business_anime_guilty.jpg)
+
+Photo by [otanews](http://otanews.livedoor.biz/archives/51859310.html)
+
 > 「優しさになんか何の意味もない。クズは区別しなくちゃならない。僕は王になる」
 >
 > 集『ギルティクラウン』
 
 
 
-励ましてくれた上司。気持ちは嬉しいが、自分が見ているのはもっと未来のVISIONだ。
+励ましてくれた上司。気持ちは嬉しいが、ちょっとイタい。それに、自分が見ているのはもっと未来のVISIONだ。
 
 <div class="talk-right">
   <div class="nanika"></div>
@@ -276,9 +284,13 @@ Photo by [oreteki blog](https://oreteki.at.webry.info/200806/article_9.html)
   </div>
 </div>
 
-> 「根拠ですって？そう囁くのよ、私のゴーストが。」
+![](/img/business_anime_ghost.jpg)
+
+
+
+> *「根拠ですって？そう囁くのよ、私のゴーストが。」*
 >
-> 草薙素子『攻殻機動隊』
+> 　*草薙素子『攻殻機動隊　S.A.C.』*
 
 
 
@@ -324,9 +336,9 @@ Photo by [oreteki blog](https://oreteki.at.webry.info/200806/article_9.html)
 
 ![](/img/englishanime_mar.jpg)
 
-> 「私は知っています。私は勝ちます」
+> *「私は知っています。私は勝ちます」*
 >
-> バロット『マルドゥック・スクランブル』
+> *バロット『マルドゥック・スクランブル』*
 
 <div class="talk-right">
   <div class="robo"></div>
