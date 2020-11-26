@@ -82,7 +82,7 @@ issuedAt: 2020-11-18T17:43:35.125Z
   </div>
 </div>
 
-![](/img/business_anime_akira.jpg)
+![](/img/business_anime_akira.jpg "akira")
 
 Photo by [Yuki Matsuda blog](https://yukimatsuda.com/dekosuke-yarou/)
 
@@ -118,7 +118,7 @@ Photo by [Yuki Matsuda blog](https://yukimatsuda.com/dekosuke-yarou/)
   </div>
 </div>
 
-![](/img/business_anime_paprika.jpeg)
+![](/img/business_anime_paprika.jpeg "paplika")
 
 photo by [buhitter](https://buhitter.com/search?q=%E3%82%AA%E3%82%BB%E3%82%A2%E3%83%8B%E3%82%A2&offset=80)
 
@@ -155,14 +155,14 @@ photo by [buhitter](https://buhitter.com/search?q=%E3%82%AA%E3%82%BB%E3%82%A2%E3
   </div>
 </div>
 
-![](/img/business_anime_psyco.jpeg)
+![](/img/business_anime_psyco.jpeg "Psycho-pass")
 
 photo by [Ninja blog](http://miotukushi.blog.shinobi.jp/psycho-pass/psycho-pass2%20%E7%AC%AC7%E8%A9%B1)
 
 > *「ありえない自体が起こったなら疑うべきは2つだ。
 > 前提条件が間違っているか、それともあんたの脳がいかれちまったか。」*
 >
-> 　*狡噛慎也『PSYCO-PASS』*
+> 　*狡噛慎也『PSYCHO-PASS』*
 
 年末の棚卸し。しかし、エクセルの数字が合わない！「こんなこと、絶対にありえません！」数字の見過ぎでパニックになった部下には、冷静な口調で切り替えそう。ミスというのはいつでも、熱くなっている時に起こりやすい。クールダウンを促して、もう一度丁寧に確認してもらおう。
 
@@ -184,9 +184,34 @@ photo by [Ninja blog](http://miotukushi.blog.shinobi.jp/psycho-pass/psycho-pass2
   </div>
 </div>
 
-> 「俺に‥触れるな‥！」
+![](/img/business_anime_gundam.jpg)
+
+Photo by [oreteki blog](https://oreteki.at.webry.info/200806/article_9.html)
+
+> *「俺に‥触れるな‥！」*
 >
-> 　刹那・F・セイエイ　『機動戦士ガンダム00』
+> 　*刹那・F・セイエイ　『機動戦士ガンダム00』*
+
+上司が無意味にボディ・タッチをしてくる！！！
+
+がんばれよ「肩ポン」。
+
+よくやったな「頭ワシワシ」。
+
+これが許されるのは、少女漫画のイケメン上司だけ！Oh, 人事！ Oh, 人事！
+
+だが、まずはしっかりと否定してその場を切り抜けよう。
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <h5>これはちゃんと言った方が良いね。</h5>
+  </div>
+</div>
+
+
+
+
 
 ## 悩んでる部下の背中を押す。
 
@@ -197,9 +222,24 @@ photo by [Ninja blog](http://miotukushi.blog.shinobi.jp/psycho-pass/psycho-pass2
   </div>
 </div>
 
-「疑って後悔するよりは信じて後悔しようぜ。行こう。きっと何とかなるさ。」
+![](/img/business_anime_sword.jpg)
 
-キリト『SAO』
+> *「疑って後悔するよりは信じて後悔しようぜ。行こう。きっと何とかなるさ。」*
+>
+> *キリト『』*
+
+
+
+案件を白紙に戻して、ゼロからやり直すことになった！「本当にこれで良かったのか……。」と悩む部下を励まして、一緒に頑張ろう。
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <h5>ちょっとイタくない？</h5>
+  </div>
+</div>
+
+
 
 ## 上司に下剋上の宣戦布告をする。
 
@@ -214,6 +254,19 @@ photo by [Ninja blog](http://miotukushi.blog.shinobi.jp/psycho-pass/psycho-pass2
 >
 > 集『ギルティクラウン』
 
+
+
+励ましてくれた上司。気持ちは嬉しいが、自分が見ているのはもっと未来のVISIONだ。
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <h5>素直に「ありがとう」って言おうね。</h5>
+  </div>
+</div>
+
+
+
 ## 上司に「根拠を述べろ」と言われたら
 
 <div class="talk-left">
@@ -227,6 +280,17 @@ photo by [Ninja blog](http://miotukushi.blog.shinobi.jp/psycho-pass/psycho-pass2
 >
 > 草薙素子『攻殻機動隊』
 
+
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <h5>いや。リファレンスゼロ。ただの勘ってことだよね！？</h5>
+  </div>
+</div>
+
+
+
 ## 悩んでいる部下を励ます
 
 <div class="talk-left">
@@ -239,6 +303,15 @@ photo by [Ninja blog](http://miotukushi.blog.shinobi.jp/psycho-pass/psycho-pass2
 > 弱音を吐くのはいい。吐きたければいくらでも吐け。俺が聞いてやる。だが諦めるようなことだけは言うな！
 >
 > おかりん『シュタインズ・ゲート』
+
+
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <h5>これはオカリンかっこいい！</h5>
+  </div>
+</div>
 
 ## 大きな仕事をとる。
 
@@ -254,6 +327,15 @@ photo by [Ninja blog](http://miotukushi.blog.shinobi.jp/psycho-pass/psycho-pass2
 > 「私は知っています。私は勝ちます」
 >
 > バロット『マルドゥック・スクランブル』
+
+<div class="talk-right">
+  <div class="robo"></div>
+  <div class="serif">
+    <h5>根拠ないけど、たしかに勝てそう！</h5>
+  </div>
+</div>
+
+
 
 ## まとめ
 
