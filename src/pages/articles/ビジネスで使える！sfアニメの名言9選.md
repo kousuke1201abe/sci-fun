@@ -10,11 +10,68 @@ tags:
 featuredimage: /img/englishanime_tobira.jpg
 issuedAt: 2020-11-18T17:43:35.125Z
 ---
-ビジネスにおいて、強気にならなければいけない局面は多い。
 
-でも、なんと言えばよいか、迷うことも多いだろう。
 
-今回は日本のSFアニメから、ビジネスで「勝てる」台詞を紹介する。
+## 時には強気のビジネス・パーソンになりたい！
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    今日さ〜。会社の後輩にナメられちゃって。
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    あ〜。営業部のHALくんだっけ？
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    そうそう。「ROBOさんって何世代前のAIなんスか？」って。
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="usa"></div>
+  <div class="serif">
+    それは辛いね〜。
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+    そろそろニューラルネットワーク搭載しないと生き残れないかな。
+  </div>
+</div>
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    ROBOくんにはROBOくんの良さがあるから……。
+  </div>
+</div>
+
+<div class="talk-left">
+  <div class="robo"></div>
+  <div class="serif">
+   でも、たまには後輩にガツン！と言いたいよね。
+  </div>
+</div>
+
+
+
+<br>
+
+……ビジネスにおいて、強気にならなければいけない局面はある。でも、優しい貴方は、なんと言えばよいか、迷うことも多いだろう。
+
+今回は日本のSFアニメから、ビジネスにおいて「勝てる」台詞を紹介する。
+
+<br><br>
 
 ## 常識のない部下にガツン！と言う。
 
@@ -25,9 +82,32 @@ issuedAt: 2020-11-18T17:43:35.125Z
   </div>
 </div>
 
-> 「さんを付けろよデコ助野郎！」
+![](/img/business_anime_akira.jpg)
+
+Photo by [Yuki Matsuda blog](https://yukimatsuda.com/dekosuke-yarou/)
+
+> *「さんを付けろよデコ助野郎！」*
 >
-> 　金田　『AKIRA』
+> 　*金田正太郎　『AKIRA』*
+
+<br>
+
+どんなに「自由な社風」であっても、最低限の礼儀は必要である。
+
+しかし最近は上司にタメ口、ついにはアダ名呼びをしてくる困った部下もいるだろう。そんなときは、AKIRAのセリフで部下を叱責してみるのはどうだろうか？
+
+いつもは優しい上司に、こんなセリフを言われたら、部下もびっくりして態度を改めるかもしれない。
+
+しかし「デコ助野郎」は言い過ぎかもしれない。「ピコ助野郎」くらいの方が、マイルドになるのでオススメだ。
+
+<div class="talk-right">
+  <div class="uma"></div>
+  <div class="serif">
+    <h5>パワハラだよ。</h5>
+  </div>
+</div>
+
+<br>
 
 ## 頭の固い上司に言い返す。
 
@@ -38,9 +118,32 @@ issuedAt: 2020-11-18T17:43:35.125Z
   </div>
 </div>
 
-> 「オセアニアじゃあ常識なんだよ」
+![](/img/business_anime_paprika.jpeg)
+
+photo by [buhitter](https://buhitter.com/search?q=%E3%82%AA%E3%82%BB%E3%82%A2%E3%83%8B%E3%82%A2&offset=80)
+
+> *「オセアニアじゃあ常識なんだよ」*
 >
-> 　所長『パプリカ』
+> 　*島寅太郎『パプリカ』*
+
+<br>
+
+時は平成を通り越して、令和。それなのに働き方が完全に昭和から改革されていない頭の固い上司。髪は染めるな？派手なネクタイはするな？「さん付けしろ」？　うるせえ。
+
+その前に早くメールを返してくれ。飲み会に若者を強制連行するな。
+
+そんな上司に一言。もっとグローバルな視野を持ってほしいという思いを込めて、パプリカの所長の台詞を借りてみよう。
+
+オセアニアという広い大地を思い浮かべたら、上司の心も広くなるかもしれない。
+
+<div class="talk-right">
+  <div class="nanika"></div>
+  <div class="serif">
+    <h5>ならないよ。</h5>
+  </div>
+</div>
+
+<br>
 
 ## パニックになった部下をたしなめる
 
@@ -56,8 +159,6 @@ issuedAt: 2020-11-18T17:43:35.125Z
 > 前提条件が間違っているか、それともあんたの脳がいかれちまったか。」
 >
 > 槇島『PSYCO-PASS』
->
->
 
 ## セクハラから身を守る。
 
