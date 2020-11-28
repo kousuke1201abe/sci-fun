@@ -18,8 +18,7 @@ issuedAt: 2020-11-28T09:11:54.554Z
 <br>
 この曲を聴けば、オペラハウスでの緊迫したシーンが蘇る方も多いのではないだろうか。
 
-<iframe width=100% height="315" src="https://www.youtube.com/embed/8N768T-5Ujs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/8N768T-5Ujs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -68,7 +67,7 @@ issuedAt: 2020-11-28T09:11:54.554Z
 
 <br>
 
-<iframe width=100% height="380" src="https://www.youtube.com/embed/SKRVqrOp-Uk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/SKRVqrOp-Uk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 </div>
@@ -85,7 +84,7 @@ issuedAt: 2020-11-28T09:11:54.554Z
 さらにこの曲は、第61回グラミー賞でノミネートでレコード・オブ・ザ・イヤー、ソング・オブ・ザ・イヤー、最優秀ラップ／歌唱パフォーマンス、最優秀ミュージック・ビデオの4部門でノミネートされている。
 
 <br>
-<iframe width=100%  height="380" src="https://www.youtube.com/embed/VYOjWnS4cMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%"  height="380" src="https://www.youtube.com/embed/VYOjWnS4cMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -102,7 +101,7 @@ issuedAt: 2020-11-28T09:11:54.554Z
 
 <br>
 
-<iframe width=100%  height="380" src="https://www.youtube.com/embed/Kp7eSUU9oy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/Kp7eSUU9oy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <br>
@@ -115,7 +114,7 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 
 少しばかり歪んだギターとタイトなハーモニーが特徴のポップ・ロック・トラックで、音楽評論家からの評価も高く、彼女等のキャリア切り開く記念碑的な1曲となった。
 
-<br><iframe width=100%  height="315" src="https://www.youtube.com/embed/sEwM6ERq0gc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><iframe width="100%" height="380" src="https://www.youtube.com/embed/sEwM6ERq0gc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <br>
@@ -130,7 +129,7 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 ピアノのメロディーとゴスペル的なコーラスが差し込まれたトラックは非常に耳心地が良い。HIPHOPやR&Bに馴染みがなくとも楽しめるような、CHILLな一曲に仕上がっている。
 
 <br>
-<iframe width=100%  height="380" src="https://www.youtube.com/embed/VXM4Pnxee_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/VXM4Pnxee_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <br>
@@ -150,7 +149,7 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 
 <br>
 
-<iframe width=100%  height="380" src="https://www.youtube.com/embed/gccLqkYQZL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/gccLqkYQZL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <br>
