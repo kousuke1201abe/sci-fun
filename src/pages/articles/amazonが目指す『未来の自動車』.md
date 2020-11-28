@@ -99,6 +99,6 @@ ScoutとはAmazonがUS市場で、近隣配送向けに開発を行った自動�
 
 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Syl1QRue2QE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6rCki2hXUg4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
