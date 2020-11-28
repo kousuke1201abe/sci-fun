@@ -12,8 +12,10 @@ issuedAt: 2020-12-30T03:01:29.704Z
 ---
 <details open><summary>目次</summary>
 
-1. なぜ自動運転に参入するのか
-2. scout事業
+[1. なぜ自動運転に参入するのか](#001)
+
+[2. scout事業](#002)
+
 3. zoox買収
 4.
 
@@ -21,7 +23,7 @@ issuedAt: 2020-12-30T03:01:29.704Z
 
 <br>
 
-<div id="1">
+<div id="001">
 
 ## なぜ自動運転に参入するのか
 
@@ -71,7 +73,7 @@ ECのみで売上伸ばし、実店舗を持たないAmazonにとって、小売
 
 </div>
 
-<div id="2">
+<div id="002">
 
 ## Scout事業
 
@@ -134,3 +136,6 @@ Zooxは、完全自動運転車のテスト走行許可をカリフォルニア�
 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Z3Nf1jysanw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div style="color:red; background-color:#99cc00; display:inline;">赤い色</div>
+
