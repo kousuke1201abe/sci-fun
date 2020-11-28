@@ -31,8 +31,6 @@ issuedAt: 2020-12-30T03:01:29.704Z
 
 <br>
 
-
-
 **ーーー「CASE」とは何ですか。**
 
 > ・C (conected)　　　：通信技術でリアルタイムに繋がる
@@ -42,8 +40,6 @@ issuedAt: 2020-12-30T03:01:29.704Z
 > ・S (Shared)  　 　 　   ：シェアリング
 >
 > ・E (Electric) 　 　 　：電動化
-
-
 
 IT技術で急拡大したGAFA。このような巨大IT企業にとって、「CASE」との相性の良さは明白だ。
 
@@ -75,8 +71,6 @@ ECのみで売上伸ばし、実店舗を持たないAmazonにとって、小売
 
 </div>
 
-
-
 <div id="2">
 
 ## Scout事業
@@ -103,8 +97,6 @@ ScoutとはAmazonがUS市場で、近隣配送向けに開発を行った自動�
 
 <br>
 
-
-
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6rCki2hXUg4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -117,13 +109,13 @@ ScoutとはAmazonがUS市場で、近隣配送向けに開発を行った自動�
 
 [Zoox](https://zoox.com/)<!--EndFragment-->社をご存じだろうか。
 
+シリコンバレーに本社を構える自動運転のスタートアップ企業で、自動運転タクシー開発・研究を行う会社である。
 
+同社が開発している自動運転車は、双方向運転が可能で、4WS（四輪操舵）システムを搭載している。
 
+また、ハンドルやペダルはなく、乗客輸送に特化した設計となっている。
 
-
-シリコンバレーに本社を構える自動運転のスタートアップ企業だ。
-
-自動運転タクシー開発・研究を行う会社である。同社が開発している自動運転車は
+<br>
 
 
 
