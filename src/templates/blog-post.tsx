@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { kebabCase } from 'lodash';
 import Helmet from 'react-helmet';
 import { graphql, Link } from 'gatsby';
@@ -116,15 +115,6 @@ export const BlogPostTemplate = ({
   );
 };
 
-BlogPostTemplate.propTypes = {
-  content: PropTypes.node.isRequired,
-  contentComponent: PropTypes.func,
-  title: PropTypes.string,
-  issuedAt: PropTypes.string,
-  helmet: PropTypes.object,
-  featuredimage: PropTypes.object,
-};
-
 const BlogPost = ({ data }) => {
   const { markdownRemark: post, related: related } = data;
 
@@ -156,13 +146,6 @@ const BlogPost = ({ data }) => {
       <RelatedArticles posts={related.edges} />
     </Layout>
   );
-};
-
-BlogPost.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-    related: PropTypes.object,
-  }),
 };
 
 export default BlogPost;
