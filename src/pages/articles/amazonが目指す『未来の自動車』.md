@@ -94,3 +94,11 @@ ScoutとはAmazonがUS市場で、近隣配送向けに開発を行った自動�
 新型コロナウイルス感染拡大の影響で、対面接触を避けることが求められる時代。ロボットは有効な選択肢となりうる。
 
 また、奇妙なロボットが走行する光景は、**「Last one mile」**の効率化だけではなく、格好の宣伝媒体であるように感じる。
+
+<br>
+
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Syl1QRue2QE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
