@@ -126,3 +126,11 @@ Amazonは2020年6月26日に同社の買収発表。推定13億ドル（1360億�
 Zooxは、自動運転公道走行テストの走行距離順位で、6位に位置する企業である（1位はgoogle傘下のウェイモ）。従業員は1000人規模で、自動運転のノウハウを有した人材を一気に獲得した形となる。
 
 トヨタ単体での公道テスト走行距離順位が25位であることからも、Amazonの本気度が伺える。
+
+<br>
+
+Zooxは、完全自動運転車のテスト走行許可をカリフォルニア州とネバダ州で取得しており、1年以内に商用運用テストを開始できる見通しだ。
+
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Z3Nf1jysanw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
