@@ -126,7 +126,15 @@ ScoutとはAmazonがUS市場で、近隣配送向けに開発を行った**自�
 
 <br>
 
-同社が開発している自動運転車は、双方向運転が可能で、4WS（四輪操舵）システムを搭載している。また、ハンドルやペダルはなく、乗客輸送に特化した設計となっている。
+同社が開発中の自動運転車は、双方向運転が可能で、4WS（四輪操舵）システムを搭載している。また、ハンドルやペダルはなく、乗客輸送に特化した設計となっている。
+
+![](/img/bcaf5_1382_7fbf7534d17511500f59cb2dcd4ffca8.png)
+
+出典：[livedoor.com](https://news.livedoor.com/article/detail/8357964/)
+
+
+
+
 
 <br>
 
@@ -139,12 +147,6 @@ Zooxは、カリフォルニア州での自動運転公道走行テストの走�
 トヨタ単体での公道テスト走行距離順位が25位であることからも、Amazonの本気度が伺える。
 
 <br>
-
-
-
-![https://www.nikkei.com/article/DGXMZO60885580W0A620C2I00000/](/img/https___imgix-proxy.n8s.jp_dsxmzo5770145006042020tj1002-pn1-2.jpg)
-
-出典：[](https://www.nikkei.com/article/DGXMZO60885580W0A620C2I00000/)[nikkei.com](https://www.nikkei.com/article/DGXMZO60885580W0A620C2I00000/)
 
 
 
