@@ -16,12 +16,19 @@ issuedAt: 2020-12-30T03:01:29.704Z
 
 [2. scout事業](#002)
 
-3. zoox買収
-4.
+<a name="003">\[あそ]</a>
+
+<a id="006">oppao</a>
+
+<a href="#3">3. zoox買収</a>
+
+
 
 </details>
 
 <br>
+
+
 
 <div id="001">
 
@@ -42,6 +49,10 @@ issuedAt: 2020-12-30T03:01:29.704Z
 > ・S (Shared)  　 　 　   ：シェアリング
 >
 > ・E (Electric) 　 　 　：電動化
+
+
+
+
 
 IT技術で急拡大したGAFA。このような巨大IT企業にとって、「CASE」との相性の良さは明白だ。
 
@@ -73,6 +84,8 @@ ECのみで売上伸ばし、実店舗を持たないAmazonにとって、小売
 
 </div>
 
+
+
 <div id="002">
 
 ## Scout事業
@@ -103,7 +116,11 @@ ScoutとはAmazonがUS市場で、近隣配送向けに開発を行った自動�
 
 </div>
 
-<div id="3">
+
+
+
+
+<div id="003">
 
 ## Zoox買収
 
@@ -119,8 +136,6 @@ ScoutとはAmazonがUS市場で、近隣配送向けに開発を行った自動�
 
 <br>
 
-
-
 Amazonは2020年6月26日に同社の買収発表。推定13億ドル（1360億円程度）と報じられている。同社が1000億円以上の買収を行うのは、今までZooxを含め4社のみである。
 
 <br>
@@ -133,9 +148,18 @@ Zooxは、自動運転公道走行テストの走行距離順位で、6位に位
 
 Zooxは、完全自動運転車のテスト走行許可をカリフォルニア州とネバダ州で取得しており、1年以内に商用運用テストを開始できる見通しだ。
 
-
-
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Z3Nf1jysanw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div style="color:red; background-color:#99cc00; display:inline;">赤い色</div>
 
+
+
+<div id="3">
+
+kome
+
+</div>
+
+
+
+<div id="006">opaisaikou</a>
