@@ -67,8 +67,7 @@ issuedAt: 2020-11-30T07:11:05.702Z
 中でも映画『ブラックパンサー』では全ての楽曲スコアを手掛け、グラミー賞ビジュアル・メディア部門で最優秀スコア・サウンドトラック賞、アカデミー賞では最優秀オリジナル・スコア賞を受賞し、ゴールデン・グローブ賞では最優秀オリジナル・スコア賞にノミネートされるなどの快挙を成し遂げている。
 
 <br>
-
-<iframe width=100% height="380" src="https://www.youtube.com/embed/SKRVqrOp-Uk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100% height="315" src="https://www.youtube-nocookie.com/embed/VYOjWnS4cMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 </div>
@@ -85,7 +84,7 @@ issuedAt: 2020-11-30T07:11:05.702Z
 さらにこの曲は、第61回グラミー賞でノミネートでレコード・オブ・ザ・イヤー、ソング・オブ・ザ・イヤー、最優秀ラップ／歌唱パフォーマンス、最優秀ミュージック・ビデオの4部門でノミネートされている。
 
 <br>
-<iframe width=100%  height="380" src="https://www.youtube.com/embed/VYOjWnS4cMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100% height="315" src="https://www.youtube-nocookie.com/embed/Kp7eSUU9oy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -102,7 +101,7 @@ issuedAt: 2020-11-30T07:11:05.702Z
 
 <br>
 
-<iframe width=100%  height="380" src="https://www.youtube.com/embed/Kp7eSUU9oy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100% height="315" src="https://www.youtube-nocookie.com/embed/sEwM6ERq0gc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <br>
@@ -130,7 +129,7 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 ピアノのメロディーとゴスペル的なコーラスが差し込まれたトラックは非常に耳心地が良い。HIPHOPやR&Bに馴染みがなくとも楽しめるような、CHILLな一曲に仕上がっている。
 
 <br>
-<iframe width=100%  height="380" src="https://www.youtube.com/embed/VXM4Pnxee_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100% height="315" src="https://www.youtube-nocookie.com/embed/VXM4Pnxee_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <br>
@@ -149,8 +148,7 @@ Foreverはハイムのデビューシングルで、1stスタジオ・アルバ�
 上で紹介した楽曲とは一風変わって、楽器の音色が複雑に組み合わされているわけではない。だがそれ故にルドウィグ・ゴランソンのプロデュースの幅広さが感じられるだろう。
 
 <br>
-
-<iframe width=100%  height="380" src="https://www.youtube.com/embed/gccLqkYQZL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100% height="315" src="https://www.youtube-nocookie.com/embed/gccLqkYQZL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 <br>
