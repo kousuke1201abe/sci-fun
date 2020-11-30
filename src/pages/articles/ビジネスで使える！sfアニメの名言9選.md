@@ -8,7 +8,7 @@ categories:
 tags:
   - Anime
 featuredimage: /img/englishanime_tobira.jpg
-issuedAt: 2020-11-18T17:43:35.125Z
+issuedAt: 2020-11-30T09:25:52.214Z
 ---
 <details open><summary>目次</summary>
 
@@ -101,8 +101,6 @@ issuedAt: 2020-11-18T17:43:35.125Z
 <div id="business_anime_002">
 </div>
 
-
-
 ## 常識のない部下にガツン！と言う。
 
 <div class="talk-left">
@@ -137,8 +135,6 @@ Photo by [Yuki Matsuda blog](https://yukimatsuda.com/dekosuke-yarou/)
 
 <br>
 
-
-
 <div id="business_anime_003">
 </div>
 
@@ -161,9 +157,9 @@ photo by [buhitter](https://buhitter.com/search?q=%E3%82%AA%E3%82%BB%E3%82%A2%E3
 
 <br>
 
-時は平成を通り越して令和。それなのに、働き方が昭和から何も改革されていない頭の固い上司がいる。やれ髪は染めるな、やれ派手なネクタイはするな、やれ「さん付けをしろ」……。
+時は平成を通り越して令和。それなのに、働き方が昭和から何も改革されていない頭の固い上司がいる。やれ髪は染めるな、やれ派手なネクタイはするな、やれ「さん付けをしろ」。
 
-うるせえ！！その前に早くメールを返してくれ。飲み会に若者を強制連行するな。過去の栄光を3時間語るんじゃねえ。
+うるせえ！！その前に早くメールを返してくれ。飲み会に若者を強制連行するな。過去の武勇伝を3時間の長編映画ばりのスパンで語るんじゃねえ。
 
 そんな時に一言。もっとグローバルな視野を持ってほしいという思いを込めて、『パプリカ』の所長の台詞を借りてみよう。オセアニアの広い大地を思い浮かべたら、上司の心も少しは広くなるかもしれない。
 
@@ -309,7 +305,7 @@ Photo by [otanews](http://otanews.livedoor.biz/archives/51859310.html)
 
 > 「優しさになんか何の意味もない。クズは区別しなくちゃならない。僕は王になる」
 >
-> 　集　『ギルティクラウン』
+> 桜満 *集*　『ギルティクラウン』
 
 <br>
 
