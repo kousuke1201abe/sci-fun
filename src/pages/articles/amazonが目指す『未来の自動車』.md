@@ -16,9 +16,7 @@ issuedAt: 2020-12-30T03:01:29.704Z
 
 [2. scout事業](#002)
 
-<a name="003">\[あそ]</a>
 
-<a id="006">oppao</a>
 
 <a href="#3">3. zoox買収</a>
 
@@ -120,7 +118,7 @@ ScoutとはAmazonがUS市場で、近隣配送向けに開発を行った自動�
 
 
 
-<div id="003">
+<div id="3">
 
 ## Zoox買収
 
