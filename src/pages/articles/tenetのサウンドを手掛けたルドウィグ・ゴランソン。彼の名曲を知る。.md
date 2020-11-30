@@ -6,7 +6,7 @@ categories:
   - CULTURE
 tags:
   - MUSIC
-featuredimage: /img/ludwig_goransson.jpg
+featuredimage: /img/04e3bezjd7ng3wviidh5urf-4..1601313845.jpg
 issuedAt: 2020-11-30T07:11:05.702Z
 ---
 クリストファー・ノーランの『TENET テネット』の大ヒットは記憶に新しい。
