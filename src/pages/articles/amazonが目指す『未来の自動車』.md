@@ -18,7 +18,7 @@ issuedAt: 2020-12-30T03:01:29.704Z
 
 \[3. Zoox買収で感じるAmazonの本気](#003)
 
-
+\[4. 実はもう自動車会社になっていた？](#004)
 
 
 
@@ -172,10 +172,49 @@ Zooxは、カリフォルニア州での**自動運転公道走行テストの�
 
 Zooxは、完全自動運転車のテスト走行許可をカリフォルニア州とネバダ州で取得しており、**1年以内に商用運用テスト**を開始できる見通しだ。
 
+<br>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Z3Nf1jysanw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
-
+<br><br>
 
 <div id="004">
+
+## 実はもう自動車会社になっていた？
+
+
+
+![](/img/ダウンロード.webp)
+
+出典：[Amazon News](https://www.aboutamazon.com/news/transportation/introducing-amazons-first-custom-electric-delivery-vehicle)
+
+<br>
+
+実はAmazon、もうすでに自動車作りにも参入している。
+
+<br>
+
+
+
+[Rivian](https://rivian.com/)社をご存じだろうか。
+
+EV車両開発を手掛ける米ミシガン州のスタートアップ企業だ。
+
+
+
+<br>
+
+2019年、AmazonはRivianに対して、配送車両としてEVバンを**10万台発注**している。
+2020年10月には初の納品がなされ、21年より顧客への配送用として利用される。
+
+<br>
+
+最先端のセンサーや運転支援システムを搭載した車両で、配達員のために**Alexa**も搭載した車両である。将来的には自動運転の要の存在となりうる車両だ。
+
+<br>
+
+Amazonは**2022年には世界で1万台**、**2030年までに10万台**の導入を予定しており、物流強化に加え、**「CASE」**の先駆けとなることは間違いない。
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rJJNTVy62PU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
