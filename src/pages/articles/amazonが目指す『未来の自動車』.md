@@ -20,8 +20,6 @@ issuedAt: 2020-12-30T03:01:29.704Z
 
 \[4. 実はもう自動車会社になっていた？](#004)
 
-
-
 </details>
 
 <br>
@@ -128,8 +126,6 @@ ScoutとはAmazonがUS市場で、近隣配送向けに開発を行った**自�
 
 </div>
 
-
-
 <div id="003">
 
 ## Zoox買収で感じるAmazonの本気
@@ -166,8 +162,6 @@ Zooxは、カリフォルニア州での**自動運転公道走行テストの�
 
 <br>
 
-
-
 Zooxは、完全自動運転車のテスト走行許可をカリフォルニア州とネバダ州で取得しており、**1年以内に商用運用テスト**を開始できる見通しだ。
 
 <br>
@@ -182,8 +176,6 @@ Zooxは、完全自動運転車のテスト走行許可をカリフォルニア�
 
 ## 実はもう自動車会社になっていた？
 
-
-
 ![](/img/ダウンロード.webp)
 
 出典：[Amazon News](https://www.aboutamazon.com/news/transportation/introducing-amazons-first-custom-electric-delivery-vehicle)
@@ -194,13 +186,9 @@ Zooxは、完全自動運転車のテスト走行許可をカリフォルニア�
 
 <br>
 
-
-
 [Rivian](https://rivian.com/)社をご存じだろうか。
 
 EV車両開発を手掛ける米ミシガン州のスタートアップ企業だ。
-
-
 
 <br>
 
@@ -216,3 +204,5 @@ EV車両開発を手掛ける米ミシガン州のスタートアップ企業だ
 Amazonは**2022年には世界で1万台**、**2030年までに10万台**の導入を予定しており、物流強化に加え、**「CASE」**の先駆けとなることは間違いない。
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/rJJNTVy62PU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
