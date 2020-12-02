@@ -4,6 +4,8 @@ title: "TENETのサウンドを手掛けたルドウィグ・ゴランソン。�
 featured: false
 categories:
   - BUSINESS
+tags:
+  - hoge
 featuredimage: /img/04e3bezjd7ng3wviidh5urf-4..1601313845.jpg
 issuedAt: 2020-12-02T15:25:43.916Z
 ---
