@@ -83,7 +83,7 @@ issuedAt: 2020-12-02T15:25:43.916Z
 さらにこの曲は、第61回グラミー賞でノミネートでレコード・オブ・ザ・イヤー、ソング・オブ・ザ・イヤー、最優秀ラップ／歌唱パフォーマンス、最優秀ミュージック・ビデオの4部門でノミネートされている。
 
 <br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7BIYXR2QsfU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100% height="315" src="https://www.youtube-nocookie.com/embed/7BIYXR2QsfU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
