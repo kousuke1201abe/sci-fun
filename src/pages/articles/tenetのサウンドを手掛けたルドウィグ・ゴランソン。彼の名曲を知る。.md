@@ -18,7 +18,7 @@ issuedAt: 2020-11-30T07:11:05.702Z
 <br>
 この曲を聴けば、オペラハウスでの緊迫したシーンが蘇る方も多いのではないだろうか。
 
-<iframe width=100% height="315" src="https://www.youtube.com/embed/8N768T-5Ujs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 <br>
