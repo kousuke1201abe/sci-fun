@@ -11,6 +11,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 import RelatedArticles from '../components/RelatedArticles';
 import Seo from '../components/Seo';
 import GlobalCss from '../components/GlobalCss';
+import Adsense from '../components/AdSense';
 
 export const BlogPostTemplate = ({
   content,
@@ -67,6 +68,7 @@ export const BlogPostTemplate = ({
                             alt: `featured image thumbnail for post ${title}`,
                           }}
                         />
+                        <Adsense/>
                       </div>
                     ) : null}
                   </div>
@@ -95,6 +97,7 @@ export const BlogPostTemplate = ({
                   </ul>
                 </div>
                 <div style={{ marginTop: '30px' }}>
+                  <Adsense/>
                   <PostContent content={content} />
                   <div style={{ marginTop: '30px' }}>
                     <SnsShare

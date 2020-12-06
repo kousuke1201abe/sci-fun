@@ -42,6 +42,7 @@
     "parcel-bundler": "^1.9.4",
     "prismjs": "^1.22.0",
     "react": "^16.14.0",
+    "react-adsense": "^0.1.0",
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
     "react-share": "^4.3.1",
