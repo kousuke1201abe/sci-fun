@@ -32,6 +32,8 @@ issuedAt: 2020-12-06T07:17:10.566Z
 
 </details>
 
+<br>
+
 <div id="001">
 
 ## バグダードのフランケンシュタイン
@@ -45,7 +47,7 @@ issuedAt: 2020-12-06T07:17:10.566Z
 <br>
 
 
-![FRANKENSTEIN IN BAGHDAD](/img/FRANKENSTEIN IN BAGHDAD_1.jpg "FRANKENSTEIN IN BAGHDAD")
+![FRANKENSTEIN IN BAGHDAD](/img/frankenstein-in-baghdad_1.jpg "FRANKENSTEIN IN BAGHDAD")
 
 引用元: [amazon.com](https://www.amazon.co.jp/dp/4087735044/ref=cm_sw_r_tw_dp_x_urlXFb47ZK27N)
 
@@ -111,6 +113,9 @@ issuedAt: 2020-12-06T07:17:10.566Z
 
 <br>
 
-『バグダードのフランケンシュタイン』には安易にフィクションとは言い切ることのできない、得体の知れないリアリティが満遍なく描かれている。本書を通して
+『バグダードのフランケンシュタイン』には安易にフィクションとは言い切ることのできない、得体の知れないリアリティに満ち溢れている。
+中東のイラクという混乱の続く土地で、凝縮された強烈な魅力が本書にはある。
+SFと呼ぶには怪談、幻想譚といった雰囲気の作品だが、選り好みすることなくぜひ手にとってもらいたい。
+
 
 </div>
