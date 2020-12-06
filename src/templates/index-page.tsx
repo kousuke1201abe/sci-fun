@@ -6,6 +6,7 @@ import Layout from '../components/Layout';
 import BlogRoll from '../components/BlogRoll';
 import Seo from '../components/Seo';
 import Tags from '../components/Tags';
+import Adsense from '../components/AdSense';
 
 export const IndexPageTemplate = ({ posts }) => (
   <div className="container" style={{ paddingTop: '50px' }}>
@@ -179,6 +180,7 @@ export const IndexPageTemplate = ({ posts }) => (
       </div>
       {/* <Tags /> */}
     </div>
+    <Adsense />
   </div>
 );
 
