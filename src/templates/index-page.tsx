@@ -155,7 +155,13 @@ export const IndexPageTemplate = ({ posts }) => (
         </div>
       </div>
     </div>
-    <Adsense />
+    <div className="section">
+      <div className="columns">
+        <div className="is-paddingless column is-10 is-offset-1">
+          <Adsense />
+        </div>
+      </div>
+    </div>
     <div className="section" style={{ margin: '10px' }}>
       <div className="columns">
         <div className="is-paddingless column is-10 is-offset-1">
@@ -181,7 +187,13 @@ export const IndexPageTemplate = ({ posts }) => (
       </div>
       {/* <Tags /> */}
     </div>
-    <Adsense />
+    <div className="section">
+      <div className="columns">
+        <div className="is-paddingless column is-10 is-offset-1">
+          <Adsense />
+        </div>
+      </div>
+    </div>
   </div>
 );
 
