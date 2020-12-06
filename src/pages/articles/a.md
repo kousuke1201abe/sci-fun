@@ -6,7 +6,7 @@ categories:
   - NOVELS
 tags:
   - 中東文学
-featuredimage: /img/frankenstein-in-baghdad.jpg
+featuredimage: /img/franken_1.jpg
 issuedAt: 2020-12-06T07:17:10.566Z
 ---
 
@@ -112,6 +112,6 @@ issuedAt: 2020-12-06T07:17:10.566Z
 
 <br>
 
-
+安易にフィクションとは言い切れない、得体の知れないリアリティがこの作品にはある。
 
 </div>
