@@ -155,6 +155,7 @@ export const IndexPageTemplate = ({ posts }) => (
         </div>
       </div>
     </div>
+    <Adsense />
     <div className="section" style={{ margin: '10px' }}>
       <div className="columns">
         <div className="is-paddingless column is-10 is-offset-1">
