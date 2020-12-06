@@ -68,7 +68,6 @@ export const BlogPostTemplate = ({
                             alt: `featured image thumbnail for post ${title}`,
                           }}
                         />
-                        <Adsense/>
                       </div>
                     ) : null}
                   </div>
@@ -108,6 +107,7 @@ export const BlogPostTemplate = ({
                       }
                     />
                   </div>
+                  <Adsense/>
                 </div>
               </div>
             </div>
