@@ -6,7 +6,7 @@ categories:
   - NOVELS
 tags:
   - 中東文学
-featuredimage: /img/frankenstein-in-baghdad.jpg
+featuredimage: /img/frankenstein-in-baghdad_2.jpg
 issuedAt: 2020-12-06T07:17:10.566Z
 ---
 
