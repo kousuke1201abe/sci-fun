@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
-import Adsense from './AdSense';
 
 const RelatedArticles = ({ posts }) => {
   return (
@@ -84,7 +83,6 @@ const RelatedArticles = ({ posts }) => {
                       </Link>
                     </div>
                   ))}
-                <Adsense/>
               </div>
             </div>
           </div>
