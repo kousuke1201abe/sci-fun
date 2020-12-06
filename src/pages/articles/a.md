@@ -117,5 +117,7 @@ issuedAt: 2020-12-06T07:17:10.566Z
 中東のイラクという混乱の続く土地で、凝縮された強烈な魅力が本書にはある。
 SFと呼ぶには怪談、幻想譚といった雰囲気の作品だが、選り好みすることなくぜひ手にとってもらいたい。
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=syfylab-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4087735044&linkId=3e33aac13bb41d063fa2eab10132335f&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
 
 </div>
