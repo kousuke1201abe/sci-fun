@@ -2,7 +2,11 @@ import React from 'react';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
-class BlogRoll extends React.Component {
+interface IRecipeProps {
+  data: any
+}
+
+class BlogRoll extends React.Component<IRecipeProps> {
 
   render() {
     const { data } = this.props;
@@ -75,7 +79,7 @@ class BlogRoll extends React.Component {
 }
 
 
-export default () => (
+export const BlogRollQuery = () => (
   <StaticQuery
     query={graphql`
       query BlogRollQuery {

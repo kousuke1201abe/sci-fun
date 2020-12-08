@@ -1,9 +1,9 @@
 import React from 'react';
 import Layout from '../../components/Layout';
-import BlogRoll from '../../components/BlogRoll';
+import {BlogRollQuery} from '../../components/BlogRoll';
 import { Link } from 'gatsby';
 
-export default () => (
+export const thanksForInquiry =  () => (
   <Layout>
   <div className="container" style={{ paddingTop: '50px' }}>
     <div className="section" style={{ margin: '10px' }}>
@@ -32,7 +32,7 @@ export default () => (
                   Latest Articles
                 </h1>
               </div>
-              <BlogRoll />
+              <BlogRollQuery />
               <div>
                 <Link
                   className="column is-12 btn-outline aldrich"
