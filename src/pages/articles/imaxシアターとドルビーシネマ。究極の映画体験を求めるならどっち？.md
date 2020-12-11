@@ -8,7 +8,7 @@ tags:
   - DOLBY
   - IMAX
 featuredimage: /img/dolby_vs_imax.jpg
-issuedAt: 2020-12-08T13:26:17.778Z
+issuedAt: 2020-12-11T10:16:08.989Z
 ---
 <details open><summary>目次</summary>
 
@@ -43,7 +43,7 @@ COVID-19により、映画館は休館を余儀なくされ、公開予定だっ
 
 ## IMAXシアターとは
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mcuEEBZKgVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mcuEEBZKgVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > **映像、音響、空間、作品。
 > 映画を構成する4つの要素を極めた先進の上映システム。**
@@ -76,7 +76,7 @@ Photo by [109 cinemas](https://109cinemas.net/imax/about.html)
 
 ## ドルビーシネマとは
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iYtihKXwoFA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/iYtihKXwoFA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > **それは、映画に命を宿し、完全に映画に没入する究極のシネマ体験を実現する究極のシアター。**
 
