@@ -8,7 +8,7 @@ tags:
   - DOLBY
   - IMAX
 featuredimage: /img/dolby_vs_imax.jpg
-issuedAt: 2020-12-11T10:16:08.989Z
+issuedAt: 2020-12-11T10:22:15.592Z
 ---
 <details open><summary>目次</summary>
 
