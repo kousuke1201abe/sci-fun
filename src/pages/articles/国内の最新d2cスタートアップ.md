@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 国内の最新D2Cスタートアップ
+title: いま注目を集める国内の最新D2Cスタートアップ5選
 featured: false
 categories:
   - BUSINESS
@@ -12,19 +12,19 @@ issuedAt: 2020-12-14T15:02:04.847Z
 ---
 <details open><summary>目次</summary>
 
-[D2Cとは？スタートアップで流行る理由](#english_001)
+[D2Cとは？スタートアップで注目される理由](#001)
 
-[mellow](#english_002)
+[CBDでたっぷりと休める喜びを「mellow」/ 株式会社Linkship](#002)
 
-[postcoffee](#english_003)
+[新しいコーヒーライフと出会いを届ける「PostCoffee」/ POST COFFEE 株式会社](#003)
 
-[all yours](#english_004)
+[完全栄養プロテイン「KOREDAKE」/ 株式会社メップル](#004)
 
-[snaq me](#english_005)
+[毎月届くおやつの定期便「snaq.me」/ 株式会社スナックミー](#005)
 
-[ウェルネスプロテイン『KOREDAKE』](#english_006)
+[インターネット時代のワークウェア「ALL YOURS」/ 株式会社オールユアーズ](#006)
 
-[まとめ](#english_006)
+[まとめ](#007)
 
 </details>
 
@@ -32,7 +32,7 @@ issuedAt: 2020-12-14T15:02:04.847Z
 
 <div id="001">
 
-## D2Cとは？スタートアップで流行る理由
+## D2Cとは？スタートアップで注目される理由
 
 **D2C(Direct to Consumer)**とは、**メーカーが代理店や小売店を挟まずに、ユーザーと直接商品の取引をする販売方法**だ。トレンドワードにもなっているD2Cだが、実際のところBtoBやBtoCとはどう異なるのか？従来の販売方法と比較してみると、D2Cには以下の3つの特徴が見られる。
 
@@ -45,5 +45,51 @@ issuedAt: 2020-12-14T15:02:04.847Z
 <br>
 
 今回は、そんなD2Cのサービスを展開する国内のスタートアップ企業を紹介していく。
+
+</div>
+
+<br>
+
+<div id="002">
+
+## CBDでたっぷりと休める喜びを「mellow」/ 株式会社Linkship
+
+</div>
+
+<br>
+
+<div id="003">
+
+## 新しいコーヒーライフと出会いを届ける「PostCoffee」/ POST COFFEE 株式会社
+
+</div>
+
+<br>
+
+<div id="004">
+
+## 完全栄養プロテイン「KOREDAKE」/ 株式会社メップル
+
+</div>
+
+<br>
+
+<div id="005">
+
+## 毎月届くおやつの定期便「snaq.me」/ 株式会社スナックミー
+
+</div>
+
+<br>
+
+<div id="006">
+
+## インターネット時代のワークウェア「ALL YOURS」/ 株式会社オールユアーズ
+
+</div>
+
+<div id="007">
+
+## まとめ
 
 </div>
