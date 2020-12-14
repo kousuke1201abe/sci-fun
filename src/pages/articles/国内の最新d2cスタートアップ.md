@@ -54,6 +54,26 @@ issuedAt: 2020-12-14T15:02:04.847Z
 
 ## CBDでたっぷりと休める喜びを「mellow」/ 株式会社Linkship
 
+スタートアップ企業の株式会社Linkshipが提供する**「mellow」**は、**CBDを配合したドリンクとサプリメント**のブランドだ。CBDとは大麻植物に含まれる成分であり、リラックス効果が期待される(もちろん、大麻とは異なり合法だ)
+
+<br>
+
+mellowは、休むことが苦手な現代人を課題として捉え、CBD商品を適正な価格で提供している。仕事の疲れやストレスを和らげてくれるmellowは、いまの社会にぴったりの商品だろう。
+
+<br>
+
+![mellow](/img/mellow.jpg "mellow")
+
+<br>
+
+なお、mellowの商品は**ドリンクが¥4,320(8本セット・税込・送料別)**、**サプリメントが5,980円/月(1ヶ月ごとに１個・税込・送料無料)**で購入可能だ。
+
+<br>
+
+[mellow 公式サイト](https://mellow-cbd.jp/)
+
+[mellow 公式Twitter](https://twitter.com/mellow_cbd/)
+
 </div>
 
 <br>
@@ -61,6 +81,27 @@ issuedAt: 2020-12-14T15:02:04.847Z
 <div id="003">
 
 ## 新しいコーヒーライフと出会いを届ける「PostCoffee」/ POST COFFEE 株式会社
+
+PostCoffee 株式会社は、**15万通りの組み合わせからパーソナルにカスタマイズされたコーヒー**を提供するスタートアップ企業だ。毎月コーヒーボックスを自宅に届けてくれるサブスクリプションサービスだが、**フィードバックを受けて最適な豆をセレクトしなおしてくれる**点がD2Cらしくて面白い。
+
+<br>
+
+また、PostCoffee は**実店舗も展開**しており、こちらではプロのバリスタと一緒にコーヒーボックスを作る体験が可能だ。
+
+<br>
+
+![postcoffee](/img/postcoffee.jpg "postcoffee")
+
+<br>
+
+PostCofee の価格は**月々¥1,480〜(税抜)**。自分にあったコーヒーを診断するだけであれば無料なので、ぜひ試してもらいたい。
+
+<br>
+
+[PostCoffee 公式サイト](https://postcoffee.co/)
+
+[PostCoffee 公式Twitter](https://twitter.com/postcoffee_co)
+
 
 </div>
 
