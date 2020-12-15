@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: ビジネスで使える！SF映画の名セリフ9選
-featured: true
+featured: false
 description: 「二つで十分ですよ！」「I'll be back.」...SF映画に登場する様々な名セリフをビジネスシーンで利用する事例をご紹介。明日からすぐに実践できること間違いなし！
 categories:
   - BUSINESS

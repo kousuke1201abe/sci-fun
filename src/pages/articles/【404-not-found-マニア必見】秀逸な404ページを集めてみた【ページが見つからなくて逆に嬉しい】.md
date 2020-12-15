@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【404 not found マニア必見】秀逸な404ページを集めてみた【ページが見つからなくて逆に嬉しい】
-featured: true
+featured: false
 categories:
   - BUSINESS
 tags:

@@ -1,14 +1,14 @@
 ---
 templateKey: blog-post
 title: Amazonが目指す『未来の自動車』
-featured: false
+featured: true
 categories:
   - BUSINESS
 tags:
   - amazon
   - 自動運転
 featuredimage: /img/amazon.jpg
-issuedAt: 2020-12-30T03:01:29.704Z
+issuedAt: 2020-12-01T03:01:29.704Z
 ---
 <details open><summary>目次</summary>
 
