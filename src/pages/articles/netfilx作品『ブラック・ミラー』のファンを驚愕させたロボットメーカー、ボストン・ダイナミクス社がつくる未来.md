@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Netfilx作品『ブラック・ミラー』のファンを驚愕させたロボットメーカー、ボストン・ダイナミクス社がつくる未来
-featured: false
+featured: true
 categories:
   - BUSINESS
   - GADGETS
