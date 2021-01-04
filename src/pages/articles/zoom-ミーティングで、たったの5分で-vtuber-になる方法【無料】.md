@@ -7,7 +7,7 @@ categories:
 tags:
   - VTuber
 featuredimage: /img/facevtuber4.jpg
-issuedAt: 2021-01-03T14:11:18.399Z
+issuedAt: 2021-01-04T15:03:22.731Z
 ---
 <details open><summary>目次</summary>
 
