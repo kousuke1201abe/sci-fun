@@ -4,6 +4,8 @@ title: Zoomミーティングで、たったの5分でVTuberになる方法【�
 featured: false
 categories:
   - CULTURE
+tags:
+  - VTuber
 featuredimage: /img/facevtuber4.jpg
 issuedAt: 2021-01-03T14:11:18.399Z
 ---
