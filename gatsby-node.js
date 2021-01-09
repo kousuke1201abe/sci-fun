@@ -97,7 +97,7 @@ exports.createPages = ({ actions, graphql }) => {
       const categoryPath = `/categories/${_.kebabCase(
         category.fieldValue
       )}/`
-      const postsPerPage = 50
+      const postsPerPage = 10
       const numPages = Math.ceil(
         category.totalCount / postsPerPage
       )
@@ -151,7 +151,7 @@ exports.createPages = ({ actions, graphql }) => {
     //   })
     // })
 
-    const postsPerPage = 50
+    const postsPerPage = 10
     console.log(posts.totalCount)
     const numPages = Math.ceil(posts.length / postsPerPage)
     Array.from({ length: numPages }).forEach((_, i) => {
