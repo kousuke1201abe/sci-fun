@@ -8,7 +8,7 @@ tags:
   - Vtuber
   - REALITY
 featuredimage: /img/reality_tobira.jpg
-issuedAt: 2020-11-22T10:54:04.287Z
+issuedAt: 2021-01-16T12:43:57.276Z
 ---
 ###### PHOTO BY  [REALITY](https://reality.app/)
 
