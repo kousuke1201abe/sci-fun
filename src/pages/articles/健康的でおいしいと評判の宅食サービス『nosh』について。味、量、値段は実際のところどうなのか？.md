@@ -45,27 +45,15 @@ photo by [nosh](https://nosh.jp/)
 
 まず、noshの味についてSNSで調査してみると、**おおむね好評**であることがうかがえる。
 
-<br>
-
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">毎週新メニューが出たり、リニューアルしたり😊飽きないしおいしい。<a href="https://twitter.com/hashtag/nosh?src=hash&amp;ref_src=twsrc%5Etfw">#nosh</a> <a href="https://t.co/joRrQ0jRrf">pic.twitter.com/joRrQ0jRrf</a></p>&mdash; ちょこみんの減量 (@cyokogen) <a href="https://twitter.com/cyokogen/status/1352885774031589377?ref_src=twsrc%5Etfw">January 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今週やべえってなった時用の冷凍の低糖質プレートnoshさんをお試し💁‍♀️<br><br>美味しくて満足度高いけど、やっぱ贅沢品かね〜と本格導入は決め兼ねてたものの、今日やべえって時に食べたら救世主すぎたのと、これはあの気持ちの余裕を買うんだわ…✨品目数も多くて楽しおいしい🥺 <a href="https://t.co/VfEPVq974S">pic.twitter.com/VfEPVq974S</a></p>&mdash; こせきーぬ@Mellow🍙 (@kosekine) <a href="https://twitter.com/kosekine/status/1350818944781750285?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<br>
-
 一方で、「おいしくない」「まずい」という声は少ないものの、**「メニューによっておいしいものとそうでないものがある」**という意見も散見される。
-
-<br>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">noshの弁当を8食分食べてみた感想は正直に言うとおいしい物とまずい物がかなりはっきりしていると思った。</p>&mdash; RANA (@Rana_1019_Frog) <a href="https://twitter.com/Rana_1019_Frog/status/1305308961600466945?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<br>
-
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">nosh<br>牛肉と野菜のXO醤炒め<br>671円(10食6134円+送料1078円-初回割引500円)<br>464kcal<br><br>メインの牛肉のXO醤炒めはおいしかった👍<br>副菜にこれ食べれるんか？ってくらいまずいのいたけどあれは一体何だったんだろう...🙄<a href="https://twitter.com/hashtag/%E3%83%8A%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AE%E5%AE%85%E9%85%8D%E5%BC%81%E5%BD%93?src=hash&amp;ref_src=twsrc%5Etfw">#ナッシュの宅配弁当</a> <a href="https://t.co/DO1fcAmexi">pic.twitter.com/DO1fcAmexi</a></p>&mdash; からあげ筋@からあげ大好きフリーランス (@karaagekin) <a href="https://twitter.com/karaagekin/status/1247449077425426433?ref_src=twsrc%5Etfw">April 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
 
 筆者も10食試してみたが、**「メニューによっておいしいものとそうでないものがある」という意見には頷ける点がある**。
 
