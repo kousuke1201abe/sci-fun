@@ -4,6 +4,8 @@ title: "Netflix『ヘッドスペースの瞑想ガイド』を視聴して、�
 featured: false
 categories:
   - CULTURE
+tags:
+  - Netflix
 featuredimage: /img/150.jpg
 issuedAt: 2021-02-07T13:58:20.701Z
 ---
