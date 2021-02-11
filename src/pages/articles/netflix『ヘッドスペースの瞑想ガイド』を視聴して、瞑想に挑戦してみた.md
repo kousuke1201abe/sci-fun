@@ -6,7 +6,9 @@ categories:
   - CULTURE
 tags:
   - Netflix
-featuredimage: /img/150.jpg
+  - ヘッドスペースの瞑想ガイド
+  - 漫画
+featuredimage: /img/headspace_ep01_720.jpg
 issuedAt: 2021-02-11T06:47:16.835Z
 ---
 ## 『ヘッドスペースの瞑想ガイド』をおさらい
