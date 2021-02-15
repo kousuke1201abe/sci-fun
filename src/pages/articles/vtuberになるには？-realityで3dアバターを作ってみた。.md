@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: スマホで簡単にVtuberになるには？ バーチャル配信アプリ『REALITY』で3Dアバターを作ってみた。
+title: スマホで簡単にVTuberに！ 『REALITY Avatar』で3Dアバターを作ってみた。
 featured: false
 categories:
   - CULTURE
@@ -14,19 +14,19 @@ issuedAt: 2021-01-16T12:43:57.276Z
 
 <details open><summary>目次</summary>
 
-[1. 3次元になってみんなとお喋りしたい！](#REALITY_001)
+[1. 「Reality Avatar」でVtuberデビュー！？](#REALITY_001)
 
-[2. 早速アプリをダウンロードしてみた。](#REALITY_002)
+[2. 「Reality Avatar」アプリをダウンロードしてみた](#REALITY_002)
 
-[3. アバターを自分好みにカスタマイズ](#REALITY_003)
+[3. 「Reality Avatar」自分好みにアバターをカスタマイズ](#REALITY_003)
 
-[4. 自分の動きにあわせてアバターが動く！](#REALITY_004)
+[4. 自分の動きにあわせてアバターが動くよ！](#REALITY_004)
 
 [5. 一つのアカウントで別のアバターも作れちゃう！](#REALITY_005)
 
 [6. すぐライブ配信ができる！](#REALITY_006)
 
-[7. なにかちゃんたちが遊んだアプリはこちら](#REALITY_007)
+[7. 「Reality Avatar」アプリダウンロードはこちら](#REALITY_007)
 
 </details>
 
@@ -35,7 +35,7 @@ issuedAt: 2021-01-16T12:43:57.276Z
 <div id="REALITY_001">
 </div>
 
-## 3次元になってみんなとお喋りしたい！
+## 「Reality Avatar」でVtuberデビュー！？
 
 <div class="talk-left">
   <div class="usa"></div>
@@ -75,7 +75,7 @@ issuedAt: 2021-01-16T12:43:57.276Z
 <div id="REALITY_002">
 </div>
 
-## 早速アプリをダウンロードしてみた。
+## 「Reality Avatar」アプリをダウンロードしてみた
 
 ![Reality_App](/img/34380.jpg)
 
@@ -148,7 +148,7 @@ issuedAt: 2021-01-16T12:43:57.276Z
 <div id="REALITY_003">
 </div>
 
-## アバターを自分好みにカスタマイズ
+## 「Reality Avatar」自分好みにアバターをカスタマイズ
 
 ![Reality_App_setting02](/img/34519.jpg)
 
@@ -240,7 +240,7 @@ issuedAt: 2021-01-16T12:43:57.276Z
 <div id="REALITY_004">
 </div>
 
-## 自分の動きにあわせてアバターが動く！
+## 自分の動きにあわせてアバターが動くよ！
 
 ![Reality_App_setting05](/img/34377.jpg)
 
@@ -387,11 +387,11 @@ issuedAt: 2021-01-16T12:43:57.276Z
 <div id="REALITY_007">
 </div>
 
-## なにかちゃんたちが遊んだアプリはこちら
+##  「Reality Avatar」アプリダウンロードはこちら
 
 ![Reality_App_introduction](/img/reality.png)
 
-### [REALITYの公式サイトはこちら](https://reality.app/)
+### [REALITYの公式サイトはここをクリック](https://reality.app/)
 
 > ### REALITYのおすすめポイント
 >
