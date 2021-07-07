@@ -1,9 +1,7 @@
 import React from 'react';
 import Layout from '../../components/Layout';
-import BlogRoll from '../../components/BlogRoll';
-import { Link } from 'gatsby';
 
-export default () => (
+export const aboutSyFy = () => (
   <Layout>
     <div className="container" style={{ paddingTop: '50px' }}>
       <div className="section" style={{ margin: '10px' }}>

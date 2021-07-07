@@ -1,11 +1,10 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
-
 import Layout from '../components/Layout';
-import BlogRoll from '../components/BlogRoll';
+import {BlogRollQuery} from '../components/BlogRoll';
 import Seo from '../components/Seo';
-import Tags from '../components/Tags';
+// import Tags from '../components/Tags';
 import Adsense from '../components/AdSense';
 
 export const IndexPageTemplate = ({ posts }) => (
@@ -172,7 +171,7 @@ export const IndexPageTemplate = ({ posts }) => (
                   Latest Articles
                 </h1>
               </div>
-              <BlogRoll />
+              <BlogRollQuery />
               <div>
                 <Link
                   className="column is-12 btn-outline aldrich"

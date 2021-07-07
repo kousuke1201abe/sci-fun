@@ -5,11 +5,12 @@ import { kebabCase } from 'lodash';
 import SnsLinks from './SnsLinks';
 
 interface SNSlink {
+  data: any;
   note?: string;
   twitter?: string;
 }
 
-const Footer = class extends React.Component<SNSlink> {
+class Footer extends React.Component<SNSlink> {
   render() {
     const { data } = this.props;
 
@@ -48,6 +49,7 @@ const Footer = class extends React.Component<SNSlink> {
                     {data.allMarkdownRemark.group.map(
                       (category) => (
                         <Link
+                          key='category'
                           className="link"
                           style={{ padding: '5px' }}
                           to={`/categories/${kebabCase(
@@ -148,9 +150,9 @@ const Footer = class extends React.Component<SNSlink> {
       </footer>
     );
   }
-};
+}
 
-export default () => (
+export const FooterQuery = () => (
   <StaticQuery
     query={graphql`
       query FooterCategoryQuery {

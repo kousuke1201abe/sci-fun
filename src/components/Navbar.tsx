@@ -3,7 +3,11 @@ import { Link, graphql, StaticQuery } from 'gatsby';
 import logo from '../img/logo.svg';
 import { kebabCase } from 'lodash';
 
-const Navbar = class extends React.Component {
+type State = {
+  active: boolean
+  navBarActiveClass: string;
+}
+class Navbar extends React.Component<{}, State> {
   constructor(props) {
     super(props);
     this.state = {
@@ -78,7 +82,7 @@ const Navbar = class extends React.Component {
               {data.allMarkdownRemark.group.map(
                 (category) => (
                   <Link
-                    className="navbar-item has-text-weight-semibold"
+                    className="navbar-item has-text-weight-semibold" key={category}
                     to={`/categories/${kebabCase(
                       category.fieldValue,
                     )}/`}
@@ -93,9 +97,9 @@ const Navbar = class extends React.Component {
       </nav>
     );
   }
-};
+}
 
-export default () => (
+export const NavbarQuery = () => (
   <StaticQuery
     query={graphql`
       query CategoryQuery {
